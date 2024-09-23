@@ -1,0 +1,155 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "healtcarePartner": "Solution for healtcare partner",
+      "bookAMassage": "Book a Massage"
+    },
+    "secondaryNavBar": {
+      "individuals": "Individuals",
+      "business": "Business",
+      "healthcare": "Healthcare Partners",
+      "providers": "Providers",
+      "sigin": "Sign in",
+      "signup": "Sign up",
+      "help": "Help & contact"
+    }
+  },
+  "healthcare": {
+    "header": {
+      "title": "Built to Deliver Care Where Patients Need It Most: Home.",
+      "description": "Reduce payer costs and improve patient outcomes with a platform designed to provide high-caliber healthcare at home.",
+      "button": "Learn How it Works"
+    },
+    "chronicPain": {
+      "title": "Chronic pain is costly and everyone pays the price",
+      "firstCard": {
+        "number": "50M+",
+        "description": " US adults suffering <0 /> from chronic pain"
+      },
+      "secondCard": {
+        "number": "$600B",
+        "description": "Annual cost to US economy"
+      },
+      "thirdCard": {
+        "number": "$13k",
+        "description": "Annual cost to employers<0 />per 100 workers"
+      }
+    },
+    "painProtocol": {
+      "title": "PAIN PROTOCOLS THAT WORK",
+      "subtitle": "Physical Rehabilitation and Pain Management",
+      "first": "In-home massage and physical therapy for chronic or acute pain, proven to increase compliance and improve outcomes",
+      "second": "Safer alternative to surgical intervention, prescription opioids, and NSAIDs, with no risk of side effects, addiction, or complications",
+      "third": "Fully credentialed (NCQA & URAC standards), nationwide network of in-home providers, closing the “last mile” for telehealth & digital MSK patients",
+      "fourth": "Treatment delivered in the home increases patient access, lowers payer costs, and enhances overall quality and continuum of care"
+    },
+    "patientFirst": {
+      "title": "A patient-first experience that streamlines <0 />member engagement",
+      "button": "Request a Demo",
+      "first": "Mrs Lara fully HIPAA-compliant technology is designed for health plan integration while retaining ease of patient use.",
+      "second": "Easy online booking and flexible appointment parameters empower patients with more control over their care.",
+      "third": "The platform is powered by human-centric automation, with chat support, appointment reminders, and in-app documentation.",
+      "fourth": "Nationwide “Care Traffic Control” and real-time coordination enable care delivery locally and across state boundaries.",
+      "fifth": "With longer “open” hours than most health facilities, Mrs Lara offers more appointments, greater flexibility, and eliminates an average of 45 minutes of travel and wait time."
+    },
+    "coverage": {
+      "title": "Nationwide coverage & hyper-local care,<0 /> thanks to 11,000+ trusted us providers",
+      "button": "Let's get Started"
+    },
+    "providerNetwork": {
+      "title": "PROVIDER NETWORK",
+      "subtitle": "Nationwide coverage & hyper-local care,<0/> thanks to 11,000+ trusted us providers"
+    },
+    "faqs": {
+      "title": "Backed by science: Proven outcomes for patients and payors",
+      "first": {
+        "question": "HOME HEALTHCARE NOW, MAY/JUNE 2019",
+        "answer": "The Value of Home Health Physical Therapy"
+      },
+      "second": {
+        "question": "PAIN MEDICINE, JULY 2017",
+        "answer": "Real-World Massage Therapy Produces Meaningful Effectiveness Signal for Primary Care Patients with Chronic Low Back Pain"
+      },
+      "third": {
+        "question": "JOURNAL OF PHYSICAL THERAPY SCIENCE, OCTOBER 2016",
+        "answer": "The Effectiveness of Home-Based Exercise Program for Low Back Pain Patients"
+      },
+      "fourth": {
+        "question": "PAIN MEDICINE, JULY 2016",
+        "answer": "The Impact of Massage Therapy on Function in Pain Populations: A Systematic Review and Meta-Analysis of Randomized Controlled Trials"
+      },
+      "fifth": {
+        "question": "JOURNAL OF ALTERNATIVE AND COMPLEMENTARY MEDICINE, MAY 2019",
+        "answer": "Massage for Pain: An Evidence Map"
+      },
+      "sixth": {
+        "question": "NORTHEAST BUSINESS GROUP ON HEALTH, SEPTEMBER 2017",
+        "answer": "Preventing and Treating MSK Disorders: New Strategies for Employers"
+      }
+    },
+    "form": {
+      "title": "Find out how the platform<0/> creates better outcome at lower costs.",
+      "subtitle": "An enterprise specialist will contact you to discuss MSK and chronic pain solutions and integration process.",
+      "button": "Get more Info",
+      "feilds": {
+        "fistName": "First Name*",
+        "lastName": "Last Name",
+        "email": "Busienss Email Address*",
+        "phoneNumber": "Phone Number*"
+      }
+    }
+  },
+  "bottomNav": {
+    "aboutSection": {
+      "about": "About",
+      "career": "Career",
+      "blog": "Blog",
+      "press": "Press, Media and News",
+      "release": "Press Release",
+      "siteMap": "Site Map"
+    },
+    "individualsSections": {
+      "title": "Individuals",
+      "inhome": "In-Home Services",
+      "massage": "Massage",
+      "massageForVets": "Massage for veterans",
+      "massagePriceAndLocations": "Massage Price & Locations",
+      "massageMembership": "Massage Membership",
+      "zeelGifts": "Zeel Gifts",
+      "zeelStore": "Zeel Store",
+      "trustAndSafety": "Trust & Safety",
+      "payment": "HSF/HSA Payment"
+    },
+    "businesses": {
+      "title": "Businesses",
+      "partners": "Solutions for Healthcare partners",
+      "workplaceWellness": "Workplace Wellness",
+      "bookAChair": "Book a chair Massage Event",
+      "spaStafffing": "Zeel spa Staffing",
+      "trustAndSafety": "Trust & Safety"
+    },
+    "providers": {
+      "title": "Providers",
+      "workWithZeel": "Work with Zeel",
+      "applyNow": "Apply Now",
+      "trustAndSafety": "Trust & Safety"
+    },
+    "newsLetter": {
+      "title": "Newsletter",
+      "buttonText": "Subscribe",
+      "inputPlaceholder": "Email address here"
+    },
+    "inHomeLocation": {
+      "title": "In-Home Message Location"
+    },
+    "chairMassageLocation": {
+      "title": "Chair Message Location"
+    }
+  },
+  "footer": {
+    "copyRight": "Copyrights ©2024",
+    "designer": "designer. All Rights Reserved",
+    "terms": "Terms and Use",
+    "privacy": "Privacy Policy"
+  }
+}

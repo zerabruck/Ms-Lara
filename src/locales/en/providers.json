@@ -1,0 +1,384 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "workWithUs": "Work with us",
+      "blog": "blog",
+      "trustAndSafety": "Trust & Safety",
+      "bookAMassage": "Book a Massage"
+    },
+    "secondaryNavBar": {
+      "individuals": "Individuals",
+      "business": "Business",
+      "healthcare": "Healthcare Partners",
+      "providers": "Providers",
+      "sigin": "Sign in",
+      "signup": "Sign up",
+      "help": "Help & contact"
+    }
+  },
+  "apply": {
+    "focalPoint": {
+      "header": "Apply to be in the Network"
+    },
+    "spacCallToActionSection": {
+      "title": "New Application",
+      "applicationInfo": "To complete an application, please have a Photo ID and your professional  license information handy. Your name entered below must match the name on your Photo ID.",
+      "applicationForm": {
+        "contactInfoFields": {
+          "title": "Your Contact Information",
+          "fieldsLabel": {
+            "firstName": "First Name*",
+            "lastName": "Last Name*",
+            "emailAddress": "Email Address",
+            "phoneNumber": "Phone Number",
+            "zipCode": "ZIP Code",
+            "state": "State",
+            "areaOfPractice": "Area of Practice",
+            "selectHealthWellness": "Select the health or wellness field for which you are applying!"
+          }
+        },
+        "footer": {
+          "1": "When you continue, you'll leave MrsLara.com to complete the application process.",
+          "2": "By selecting &rsquo;Continue&rsquo;, I confirm that I have read and agreed to our",
+          "3": "Terms of Use and Privacy Policy."
+        },
+        "buttonText": "Continue"
+      }
+    },
+    "whatHappensNextSection": {
+      "title": "What Happens Next",
+      "cardData": {
+        "firstStep": {
+          "title": "Start Earning Money",
+          "body": "Download the  Provider app and start taking appointments on your schedule."
+        },
+        "secondStep": {
+          "title": "Get Ready to Join",
+          "body": "We'll review your application and may contact you for a short onboarding chat."
+        },
+        "lastStep": {
+          "title": "Complete your Application",
+          "body": "We’ll verify your identity, insurance, credentials, and experience."
+        }
+      }
+    }
+  },
+  "landing": {
+    "callToActionSection": {
+      "title": "Become a Wellness Professional with us",
+      "pitch": " Make more money on your own schedule—with best-in-class security and support—as a provider in the network.",
+      "buttonText": "Apply to Join the Network"
+    },
+    "secondSection": {
+      "header": "Join 12,000+ Practitioners Bringing Transformative Care Directly to Patients",
+      "cardData": {
+        "first": "Massage",
+        "second": "Yoga",
+        "thrid": "Behavioral Therapy",
+        "fourth": "Physical Therapy",
+        "fifth": "Nursing"
+      }
+    },
+    "thirdSection": {
+      "header": "Massage Therapy",
+      "paragraphs": {
+        "first": "As a member of the largest network of massage professionals, you can choose from in-home table massage, flexible spa massage opportunities, or chair massage in offices and events.",
+        "second": "When you join the Provider Network, you’ll increase your earning power AND your flexibility. Take as many or as few appointments as you choose and get paid on a weekly basis—no appointment minimums, no pressure. Plus, an automatic 18% gratuity is added to every  in-home and corporate appointment. 100% of tips are paid to you  You may also be able to deliver medically prescribed massage  treatments that include 6–12 sessions per patient. handles billing  and insurance, so you can focus on delivering care."
+      },
+      "bulletPoints": {
+        "first": "Swedish massage",
+        "second": "Deep tissue massage",
+        "third": "Sports massage",
+        "fourth": "Prenatal massage",
+        "fifth": "Sleep massage",
+        "sixth": "Chair massage"
+      },
+      "buttonText": "Apply to Join the Network"
+    },
+    "fourthSection": {
+      "title": "  Get more information about the benefits of providing on-location care – on your terms – with .",
+      "form": {
+        "labels": {
+          "firstName": "First Name",
+          "lastName": "Last Name",
+          "bussinessEmail": "Business Email Address*",
+          "phoneNumber": "Phone Number",
+          "areaOfPractice": "Area of Practice",
+          "state": "State",
+          "zipCode": "Zip Code"
+        },
+        "buttonText": "Contact With Us"
+      }
+    },
+    "sixthSection": {
+      "firstStat": {
+        "stat": "UP to 2X",
+        "title": "higher pay*"
+      },
+      "secondStat": {
+        "stat": "12,000+",
+        "title": "providers nationwide"
+      },
+      "thridStat": {
+        "stat": "1.5M",
+        "title": "treatments delivered"
+      }
+    },
+    "seventhSection": {
+      "cardData": {
+        "firstCard": {
+          "tag": "EARNING",
+          "title": "You're in Charge of What You Earn",
+          "body": {
+            "sentense": {
+              "first": "Providers in the network earn the best pay in the industry.",
+              "second": "Respect for your time: clients pay a fee for late cancellations (within 4 hours of the appointment).",
+              "third": "Transparent pricing & payment: See exactly what you earn for every appointment.",
+              "fourth": "No-hassle payments: Earnings are deposited directly into your bank account on a weekly basis.",
+              "fifth": "Unlimited referral bonuses: For every friend or colleague you refer to who joins the network, you receive a bonus payment!"
+            }
+          }
+        },
+        "secondCard": {
+          "tag": "SAFETY",
+          "title": "Your Health & Safety is Our Top Priority",
+          "body": {
+            "sentense": {
+              "first": "Keeps you protected with multiple layers of support.",
+              "second": "Dedicated Trust & Safety Team available live, whenever any provider is on an appointment—7 days a week, 365 days a year.",
+              "third": "Proactive zero-tolerance policy for any client/patient violations of Terms of Use.",
+              "fourth": "Secure, live chat with Provider Support personnel.",
+              "fifth": "Client identity verification.",
+              "sixth": "Continuous monitoring and response for risk prevention."
+            }
+          },
+          "footer": "Read Our Trust & Safety Policies"
+        },
+        "thridCard": {
+          "tag": "FLEXIBILITY",
+          "title": "Work Where and When You Want",
+          "body": {
+            "sentense": {
+              "first": "Empowers you to build a work schedule that works for you.",
+              "second": "Maximum scheduling flexibility: You have complete freedom to choose where you want to take appointments and when you are (or aren't) available for them.",
+              "third": "Choose your appointment types: Deliver treatments in homes, workplaces, or hotels & spas*.",
+              "fourth": "Work as often as you like: Never get penalized for working too few hours, as with other platforms.",
+              "fifth": "Travel friendly: Hitting the road? You can take appointments anywhere  offers services—we're nationwide!"
+            }
+          }
+        },
+        "fourthCard": {
+          "tag": "TECHNOLOGY",
+          "title": "Best-In-Class Provider App",
+          "body": {
+            "sentense": {
+              "first": "The Provider App (iOS & Android) is your home base for success in the network.",
+              "second": "Schedule flexibility: Indicate your availability, down to half-hour increments, in the app, so you only receive appointment requests that are convenient for you.",
+              "third": "Pricing transparency: See a full price breakdown of every appointment, including what the client pays, your take-home pay, and your tip (where applicable).",
+              "fourth": "Know before you go: View location, type of service, and other appointment details before accepting a booking.",
+              "fifth": "Built-in safety features: Alert to the start and end of every appointment, so you're always covered when you're with a client, and message clients without revealing your identity."
+            }
+          }
+        }
+      }
+    },
+    "eigthSection": {
+      "title": "LOCATIONS",
+      "body": "Is in 100+ Markets Across the U.S.",
+      "buttonText": "See ALL of Our Locations"
+    },
+    "applicationProcess": {
+      "title": "Our Application Process",
+      "cardData": {
+        "first": {
+          "title": "1. Complete Your Application",
+          "body": "We’ll carefully review it and verify your identity, insurance, credentials, and experience."
+        },
+        "second": {
+          "title": "2. Welcome Aboard!",
+          "body": "If your application is accepted, we’ll provide all the tools and information for success on the platform."
+        },
+        "thrid": {
+          "title": "3. Start Earning Money",
+          "body": "Start taking appointments on your schedule with the  Provider App. And we’re always here if you need us."
+        }
+      },
+      "buttonText": "Apply to Join the Network",
+      "footer": "Want to re-activate your old Provider account? Contact Us"
+    },
+    "referalSection": {
+      "cardData": {
+        "first": {
+          "name": "MATT L.",
+          "title": "PERSONAL TRAINER, NEW YORK",
+          "text": "Nothing brings me greater joy than to help people feel and move better. I couldn’t be more thankful to providing e the opporunity to do excatly that"
+        },
+        "second": {
+          "name": "JANE D.",
+          "title": "YOGA INSTRUCTOR, CALIFORNIA",
+          "text": "This platform has transformed my practice. It's intuitive and helps me connect with more students."
+        },
+        "third": {
+          "name": "JOHN S.",
+          "title": "FITNESS COACH, TEXAS",
+          "text": "I've seen great results in my clients' performance thanks to the tailored programs I can offer here."
+        }
+      }
+    }
+  },
+  "trustAndSafety": {
+    "title": "Trust & Safety",
+    "tabs": {
+      "headlines": {
+        "tabButtonText": "Headlines Guidelines",
+        "sections": {
+          "firstSecond": {
+            "paragraphs": {
+              "firstParagraph": "At our top priority has always been to make access to vital health and wellness services as seamless and safe as possible.",
+              "secondParagraph": "Our dedicated team of Trust & Safety professionals is constantly monitoring and updating the health and safety guidelines we share with the thousands of providers on the network. These guidelines are in line with federal, state and local directives surrounding the delivery of health and wellness services.",
+              "thirdParagraph": "Clients may share special hygiene requests prior to the provider arriving for the appointment"
+            }
+          },
+          "secondSecond": {
+            "title": "Cleanliness Practices",
+            "paragraphs": {
+              "firstParagraph": "Providers follow CDC guidelines on handwashing or using hand sanitizer with at least 60% alcohol content. Providers adhere to industry best practices which includes disinfecting equipment between clients and patients.",
+              "secondParagraph": "Clients and patients should never book an in-home treatment if they or a household member have symptoms of illness"
+            }
+          }
+        }
+      },
+      "consumers": {
+        "tabButtonText": "For Consumers",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "We proudly delivered millions of health and wellness appointments to homes and corporate offices across more than 100 metro areas in the U.S."
+            }
+          },
+          "secondSection": {
+            "title": "Vetted Providers",
+            "paragraphs": {
+              "firstParagraph": "Our network of more than 11,000 providers includes massage therapists, physical therapists, nurses, and other healthcare practitioners.",
+              "secondParagraph": "Each provider on the network is insured and thoroughly evaluated. In addition, each passes an ID-verification process and undergoes a mandatory criminal background check with continuous monitoring."
+            }
+          },
+          "thirdSection": {
+            "title": "Provider Booking and Reviews",
+            "paragraphs": {
+              "firstParagraph": "After booking an appointment through, patients and clients receive a confirmation with their provider’s name, photo, a short bio, credentials, and massage license number (for massage bookings)",
+              "secondParagraph": "We strongly encourage clients and patients to make us aware of any issues or concerns about their appointment or provider. Contact our Support team either by email at help@lara.com or through the app or website. Serious issues will be escalated to our Trust & Safety team"
+            }
+          }
+        }
+      },
+      "providers": {
+        "tabButtonText": "For Providers",
+        "sections": {
+          "firstSection": {
+            "title": "Verified Clients",
+            "paragraphs": {
+              "firstParagraph": "All clients and patients are verified, but we does not conduct background checks on its clients/patients."
+            }
+          },
+          "secondSection": {
+            "title": "Verified Clients",
+            "paragraphs": {
+              "firstParagraph": "All clients and patients are verified, but we does not conduct background checks on its clients/patients."
+            }
+          },
+          "thirdSection": {
+            "title": "Safety and Support",
+            "paragraphs": {
+              "firstParagraph": "Providers in our network can decline any appointment based on a Trust and Safety issue at any time, including once an appointment has started. Our Support and Trust and Safety teams are available when a provider in the network is at a home, hotel, or workplace for an appointment.",
+              "secondParagraph": "Providers are strongly encouraged to communicate with us if they have any concerns about a client or work environment upon arrival. Once an appointment is completed, providers are asked to rate the client and the interaction. In addition, if a provider’s concern rises to the level of safety, the provider is strongly encouraged to report the client to our Trust & Safety team immediately by contacting Support by email to help@lara.com or by messaging within Provider app."
+            }
+          }
+        }
+      },
+      "businesses": {
+        "tabButtonText": "For Businesses",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "We proudly delivered millions of health and wellness appointments to homes and corporate offices across more than 100 metro areas in the U.S."
+            }
+          },
+          "secondSection": {
+            "title": "Vetted Providers",
+            "paragraphs": {
+              "firstParagraph": "Our network of more than 11,000 providers includes massage therapists, physical therapists, nurses, and other healthcare practitioners.",
+              "secondParagraph": "Each provider on the network is insured and thoroughly evaluated. In addition, each passes an ID-verification process and undergoes a mandatory criminal background check with continuous monitoring."
+            }
+          },
+          "thirdSection": {
+            "title": "Client Care",
+            "paragraphs": {
+              "firstParagraph": "We strongly encourage our clients to report issues or concerns about their appointment or provider. Clients can contact the Support team by email at help@lara.com or through the app. Serious matters are escalated to the Trust & Safety team."
+            }
+          }
+        }
+      },
+      "trustAndSafetyTeam": {
+        "tabButtonText": "Trust & Safety Team",
+        "paragraphs": {
+          "firstParagraph": "Our Trust & Safety team is an expert group of professionals, including law enforcement officials, former investigative journalists, and legal counsel focused on utilizing best-in-class security practices and software tools to address all matters of trust and safety.",
+          "secondParagraph": "Trust & Safety is available any time a appointment is taking place. The team can be reached by contacting Support via email at help@lara.com or via chat at lara.com/help."
+        }
+      }
+    }
+  },
+  "bottomNav": {
+    "aboutSection": {
+      "about": "About",
+      "career": "Career",
+      "blog": "Blog",
+      "press": "Press, Media and News",
+      "release": "Press Release",
+      "siteMap": "Site Map"
+    },
+    "individualsSections": {
+      "title": "Individuals",
+      "inhome": "In-Home Services",
+      "massage": "Massage",
+      "massageForVets": "Massage for veterans",
+      "massagePriceAndLocations": "Massage Price & Locations",
+      "massageMembership": "Massage Membership",
+      "zeelGifts": "Zeel Gifts",
+      "zeelStore": "Zeel Store",
+      "trustAndSafety": "Trust & Safety",
+      "payment": "HSF/HSA Payment"
+    },
+    "businesses": {
+      "title": "Businesses",
+      "partners": "Solutions for Healthcare partners",
+      "workplaceWellness": "Workplace Wellness",
+      "bookAChair": "Book a chair Massage Event",
+      "spaStafffing": "Zeel spa Staffing",
+      "trustAndSafety": "Trust & Safety"
+    },
+    "providers": {
+      "title": "Providers",
+      "workWithZeel": "Work with Zeel",
+      "applyNow": "Apply Now",
+      "trustAndSafety": "Trust & Safety"
+    },
+    "newsLetter": {
+      "title": "Newsletter",
+      "buttonText": "Subscribe",
+      "inputPlaceholder": "Email address here"
+    },
+    "inHomeLocation": {
+      "title": "In-Home Message Location"
+    },
+    "chairMassageLocation": {
+      "title": "Chair Message Location"
+    }
+  },
+  "footer": {
+    "copyRight": "Copyrights ©2024",
+    "designer": "designer. All Rights Reserved",
+    "terms": "Terms and Use",
+    "privacy": "Privacy Policy"
+  }
+}

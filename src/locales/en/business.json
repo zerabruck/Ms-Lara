@@ -1,0 +1,302 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "workplace": "Workplace Wellness",
+      "bookAChair": "Book a Chair Massage Event",
+      "staffing": "Spa Staffing",
+      "trustAndSafety": "Trust and Safety",
+      "bookAMassage": "Book a Massage"
+    },
+    "secondaryNavBar": {
+      "individuals": "Individuals",
+      "business": "Business",
+      "healthcare": "Healthcare Partners",
+      "providers": "Providers",
+      "sigin": "Sign in",
+      "signup": "Sign up",
+      "help": "Help & contact"
+    }
+  },
+  "workplacewellness": {
+    "intro": {
+      "headline": "An employee benefit that beats pain and stress",
+      "description": "@Work massage for employees drives physical and mental health for on-site, remote, and hybrid teams.",
+      "button": "Build a Employee Massage Plan"
+    },
+    "services": {
+      "1": "Choose chair massage, table massage, or a hybrid for on-site or remote employees.",
+      "2": "Insured, credentialed practitioners from the Provider Network travel to the site.",
+      "3": "Enjoy convenient online scheduling, plus convenient SMS reminders for employees.",
+      "4": "Volume pricing lets you deepen your enterprise discount with more frequent sessions."
+    },
+    "onSiteChairMassage": "ON-SITE CHAIR MASSAGE",
+    "buildABetterOffice": {
+      "title": "Build a Better Office Experience",
+      "body": "@Work makes it easy to create an office culture employees appreciate. Just 15 minutes of chair massage has been proven to reduce stress while also easing chronic pain and improving well-being.\n\nHow does it work?\nChoose a weekly, monthly, or quarterly schedule to suit your team’s needs.Select 12, 15, or 20 minute sessions, for a total event duration based on participant number.\nDesignate a conference room or other quiet space for employees to peacefully enjoy sessions they book themselves.",
+      "footer": "Plan a wellness program with a specialist"
+    },
+    "wellnessAtHome": {
+      "title": "Wellness at Home for Your WFH Team",
+      "body": "@Work makes it easy to create an office culture employees appreciate. Just 15 minutes of chair massage has been proven to reduce stress while also easing chronic pain and improving well-being.\n\nHow does it work?\nChoose a weekly, monthly, or quarterly schedule to suit your team’s needs.Select 12, 15, or 20 minute sessions, for a total event duration based on participant number.\nDesignate a conference room or other quiet space for employees to peacefully enjoy sessions they book themselves.",
+      "footer": "Plan a wellness program with a specialist"
+    },
+    "notReady": "Not ready for an enterprise program? Try a one-time event! Join hundreds of organizations treating their teams to relaxing chair massage using our easy, self-serve platform.",
+    "enterpriseClient": {
+      "header":"Enhance Your Team's Wellness Experience",
+      "title":"Dedicated Support for Your Enterprise Needs",
+      "body": "As an enterprise @Work client, creating an exceptional wellness experience for your team is our goal. In addition to your access to  nationwide network of experienced massage therapists, your account includes:\nChair massage + table massage in any combination you choose A dedicated account manager\nOnline, self-serve scheduling and reminders for employees Volume discounts for more frequent, recurring sessions Utilization monitoring, reporting, and support",
+      "footer": "Plan a wellness program with a specialist"
+    },
+    "commitmentToSafety": {
+      "header": "OUR COMMITMENT TO SAFETY",
+      "title": "Your Trust is Our Top Priority",
+      "body": "@Work makes it easy to create an office culture employees appreciate. Just 15 minutes of chair massage has been proven to reduce stress while also easing chronic pain and improving well-being.\n\nHow does it work?\nChoose a weekly, monthly, or quarterly schedule to suit your team’s needs.Select 12, 15, or 20 minute sessions, for a total event duration based on participant number.\nDesignate a conference room or other quiet space for employees to peacefully enjoy sessions they book themselves.",
+      "footer": "Plan a wellness program with a specialist"
+    },
+    "results": {
+      "headline": "What Can Massage Do?",
+      "percentages": {
+        "1": {
+          "percent": "95%",
+          "description": "experienced reduced pain"
+        },
+        "2": {
+          "percent": "87%",
+          "description": "experienced reduced pain"
+        },
+        "3": {
+          "percent": "85%",
+          "description": "experienced reduced pain"
+        }
+      },
+      "note": "Real results for patients treated with medically prescribed massage.*"
+    },
+    "contactForm": {
+      "headline": "Design Your Corporate Wellness Program",
+      "description": "@Work makes it easy to build a culture of wellness at work. We work with HR leaders, office managers, and benefits brokers on programs that accelerate business and retain talent.",
+      "fields": {
+        "firstName": "First Name*",
+        "lastName": "Last Name*",
+        "email": "Business Email Address*",
+        "phone": "Phone Number*"
+      },
+      "submit": "Contact With Us"
+    },
+    "testimonial": {
+      "description": "Your Trust is Partnering with has made implementing a wellness program at Hawke simple! Our employees appreciate the program and continually express their excitement about the chair massages.",
+      "author": " - MELISSA B. HAWKE MEDIA"
+    }
+  },
+  "bookAChair": {
+    "buildEvent": {
+      "title": "Build a Chair Massage Event",
+      "tabs": {
+        "numberOfParticipants": "Number of Participants",
+        "numberOfTherapists": "Number of Therapists"
+      },
+      "fields": {
+        "participants": "# Participants",
+        "zipCode": "Even Zip Code",
+        "eventDuration": "Event Duration",
+        "options": {
+          "corporate": "Corporate",
+          "personal": "Personal"
+        },
+        "bookButton": "Book"
+      }
+    },
+    "stats": "Over 500,000 chair massages delivered nationwide.",
+    "chairMassageEvent": {
+      "header": "CHAIR MASSAGE EVENTS",
+      "title": "We'll Bring the Well-Being to You",
+      "description": "we brings rejuvenating chair massage to your workplace or event, provided by fully equipped, licensed, insured, and vetted massage therapists—at your designated location, on your schedule.\n\nHow does we chair massage work?\nDesign Your Event: Choose from a variety of options, including the number of attendees or massage therapists, duration, therapist gender, and location. Review your final quote and book online instantly.\nSet Aside Space: Designate an area like a conference room or other space with low foot traffic. A 6' x 6' area is recommended per chair to allow the therapist adequate space to perform treatments. Your providers will bring all of the necessary equipment.Relax: Enjoy the relaxing, mood-boosting benefits massage adds to any workplace or event. No special preparation or clothing removal is necessary."
+    },
+    "planningEvent": {
+      "header": "PLANNING A CHAIR MASSAGE EVENT",
+      "title": "What's the Perfect Event Size for Your Group?",
+      "description": "You can choose between 12-minute, 15-minute, or 20-minute sessions for your chair massage event. This will determine how many massages can be provided depending on your total event duration and number of participants.\n\nEach therapist can treat 3-5 people per hour, depending on session length:\n12 minutes (10 mins hands on) = 5 people per hour\n15 minutes (13 mins hands on) = 4 people per hour\n20 minutes (18 mins hands on) = 3 people per hour\n\nTIP: Events of 3 hours or longer are booked faster and are preferred by therapists. Your participants will appreciate longer sessions as well!"
+    },
+    "availability": {
+      "title": "WHERE IS CHAIR MASSAGE AVAILABLE?",
+      "subtitle": "Is in 100+ Cities Across the U.S., Including these Cities:",
+      "cities": [
+        "Austin",
+        "Chicago",
+        "Dallas",
+        "Denver",
+        "Houston",
+        "Los Angeles",
+        "Miami",
+        "New York City",
+        "Portland",
+        "San Francisco",
+        "Seattle",
+        "and many more!"
+      ]
+    },
+    "corporateProgram": {
+      "title": "Design a Corporate Wellness Program",
+      "description": "Looking for a new wellness benefit for your business? The @Work team can help you design a customized recurring (e.g., weekly or monthly) program tailored to your organization. We work with benefits brokers, HR professionals, and office managers in companies of all sizes.",
+      "cta": "Learn more about corporate wellness programs by:",
+      "link": "@Work",
+      "contact": "Get in touch with us to design your programs"
+    }
+  },
+  "spaStaffing": {
+    "bookOnDemand": {
+      "title": "BOOK ON DEMAND",
+      "description": "Same-day or up to 30 days in advance, fulfill appointments in as little as an hour."
+    },
+    "getBestTherapists": {
+      "title": "GET THE BEST MASSAGE THERAPISTS",
+      "description": "Massage therapists are all licensed, insured, and highly curated. Get only the therapists you want."
+    },
+    "easyBilling": {
+      "title": "EASY BILLING",
+      "description": "Review transaction records and past bookings anytime."
+    },
+    "bestCustomerService": {
+      "title": "BEST-IN-CLASS CUSTOMER SERVICE",
+      "description": "You receive a dedicated account manager and live support from our customer service team."
+    },
+    "onSiteChairMassage": {
+      "title": "ON-SITE CHAIR MASSAGE",
+      "subtitle": "Build a Better Office Experience",
+      "description": "@Work makes it easy to create an office culture employees appreciate. Just 15 minutes of chair massage has been proven to reduce stress while also easing chronic pain and improving well-being.\n\nHow does it work?\nChoose a weekly, monthly, or quarterly schedule to suit your team’s needs.Select 12, 15, or 20 minute sessions, for a total event duration based on participant number.\nDesignate a conference room or other quiet space for employees to peacefully enjoy sessions they book themselves.",
+      "footer": "Plan a wellness program with a specialist"
+    },
+    "testimonial": {
+      "quote": "It's amazing to see how well is working in our new properties.Being able to accommodate guests is essential in operating a spa, and is a home run!",
+      "author": "- Laura Ann Pellicio, Spa Director",
+      "company": "Delano Spa, Miami Beach"
+    },
+    "easyManagement": {
+      "title": "Easy On-call Management",
+      "firstDescription": "Let us simplify your on-call therapist management so that you can focus on what's important— running your spa.",
+      "secondDescription": " Getting great therapists when you need them is easy and simple with @Work."
+    },
+    "form": {
+      "title": "Tell us a little about you.",
+      "description": "Provide us with a bit more info about you and your spa, and a member of our team will be in touch with you soon.",
+      "fields": {
+        "firstName": "First Name*",
+        "email": "Email Address",
+        "phone": "Phone Number (optional)",
+        "spaName": "SPA Name",
+        "zipCode": "ZIP Code"
+      },
+      "submitButton": "Submit",
+      "confirmation": "By selecting 'Submit', I confirm that I have read and agreed to our Terms of Use and Privacy Policy."
+    }
+  },
+  "trustAndSafety": {
+    "header": "Trust & Safety",
+    "buttonTabs": {
+      "headlinesGuidelines": "Headlines Guidelines",
+      "forConsumers": "For Consumers",
+      "forProviders": "For Providers",
+      "forBusinesses": "For Businesses",
+      "trustAndSafetyTeam": "Trust & Safely Team"
+    },
+    "headlinesGuidelines": {
+      "introduction": {
+        "first": "At , our top priority has always been to make access to vital health and wellness services as seamless and safe as possible.",
+        "second": "Our dedicated team of Trust & Safety professionals is constantly monitoring and updating the health and safety guidelines we share with the thousands of providers on the network. These guidelines are in line with federal, state and local directives surrounding the delivery of health and wellness services.",
+        "third": "Clients may share special hygiene requests prior to the provider arriving for the appointment."
+      },
+      "cleanlinessPractices": {
+        "title": "Cleanliness Practices",
+        "description": "Providers follow CDC guidelines on handwashing or using hand sanitizer with at least 60% alcohol content. Providers adhere to industry best practices which includes disinfecting equipment between clients and patients.\n\nClients and patients should never book an in-home treatment if they or a household member have symptoms of illness."
+      }
+    },
+    "forConsumers": {
+      "introduction": "Mrs Lara has proudly delivered millions of health and wellness appointments to homes and corporate offices across more than 100 metro areas in the U.S.",
+      "vettedProviders": {
+        "title": "Vetted Providers",
+        "description": "Our network of more than 11,000 providers includes massage therapists, physical therapists, nurses, and other healthcare practitioners.\n\nEach provider on the  network is insured and thoroughly evaluated. In addition, each passes an ID-verification process and undergoes a mandatory criminal background check with continuous monitoring."
+      },
+      "bookingAndReview": {
+        "title": "Provider Booking and Reviews",
+        "description": "After booking an appointment through , patients and clients receive a confirmation with their provider's name, photo, a short bio, credentials, and massage license number (for massage bookings).\n\nWe strongly encourage clients and patients to make us aware of any issues or concerns about their appointment or provider. Contact our Support team either by email at help@.com or through the  app or website. Serious issues will be escalated to our Trust & Safety team."
+      }
+    },
+    "forProviders": {
+      "introduction": "Mrs Lara has proudly delivered millions of health and wellness appointments to homes and corporate offices across more than 100 metro areas in the U.S.",
+      "verifiedClient": {
+        "title": "Verified Clients",
+        "description": "All  clients and patients are verified, but  does not conduct background checks on its clients/patients."
+      },
+      "safetyAndSupport": {
+        "title": "Safety and Support",
+        "description": "Providers in the  network can decline any appointment based on a Trust and Safety issue at any time, including once an appointment has started. Our Support and Trust and Safety teams are available when a provider in the  network is at a home, hotel, or workplace for an appointment.\n\nProviders are strongly encouraged to communicate with  if they have any concerns about a client or work environment upon arrival. Once an appointment is completed, providers are asked to rate the client and the interaction. In addition, if a provider’s concern rises to the level of safety, the provider is strongly encouraged to report the client to our Trust & Safety team immediately by contacting Support by email to help@mrslara.com or by messaging within the  Provider app."
+      }
+    },
+    "forBusinesses": {
+      "clientCare": {
+        "title": "Client Care",
+        "description": "We strongly encourage our clients to report issues or concerns about their appointment or provider. Clients can contact the Support team by email at help@com or through the  app. Serious matters are escalated to the Trust & Safety team."
+      },
+      "vettedProviders": {
+        "title": "Vetted Providers",
+        "description": "Our network of thousands of providers includes massage therapists, physical therapists, nurses, and other healthcare practitioners.\n\nEach provider on the  network is insured and thoroughly evaluated. In addition, each passes an ID-verification process and undergoes a mandatory criminal background check with continuous monitoring."
+      }
+    },
+    "trustAndSafetyTeam": {
+      "first_text": "Our Trust & Safety team is an expert group of professionals, including law enforcement officials, former investigative journalists, and legal counsel focused on utilizing best-in-class security practices and software tools to address all matters of trust and safety.",
+      "second_text": "Trust & Safety is available any time an appointment is taking place. The team can be reached by contacting Support via email at  help@zeel.com or via chat at .com/help."
+    }
+  },
+  "bottomNav": {
+    "aboutSection": {
+      "about": "About",
+      "career": "Career",
+      "blog": "Blog",
+      "press": "Press, Media and News",
+      "release": "Press Release",
+      "siteMap": "Site Map"
+    },
+    "individualsSections": {
+      "title": "Individuals",
+      "inhome": "In-Home Services",
+      "massage": "Massage",
+      "massageForVets": "Massage for veterans",
+      "massagePriceAndLocations": "Massage Price & Locations",
+      "massageMembership": "Massage Membership",
+      "zeelGifts": "Zeel Gifts",
+      "zeelStore": "Zeel Store",
+      "trustAndSafety": "Trust & Safety",
+      "payment": "HSF/HSA Payment"
+    },
+    "businesses": {
+      "title": "Businesses",
+      "partners": "Solutions for Healthcare partners",
+      "workplaceWellness": "Workplace Wellness",
+      "bookAChair": "Book a chair Massage Event",
+      "spaStafffing": "Zeel spa Staffing",
+      "trustAndSafety": "Trust & Safety"
+    },
+    "providers": {
+      "title": "Providers",
+      "workWithZeel": "Work with Zeel",
+      "applyNow": "Apply Now",
+      "trustAndSafety": "Trust & Safety"
+    },
+    "newsLetter": {
+      "title": "Newsletter",
+      "buttonText": "Subscribe",
+      "inputPlaceholder": "Email address here"
+    },
+    "inHomeLocation": {
+      "title": "In-Home Message Location"
+    },
+    "chairMassageLocation": {
+      "title": "Chair Message Location"
+    }
+  },
+  "footer": {
+    "copyRight": "Copyrights ©2024",
+    "designer": "designer. All Rights Reserved",
+    "terms": "Terms and Use",
+    "privacy": "Privacy Policy"
+  }
+}

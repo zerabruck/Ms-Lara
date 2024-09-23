@@ -1,0 +1,515 @@
+{
+  "massage": {
+    "header": {
+      "cardFirst": {
+        "title": "Le Massage Parfait à Domicile",
+        "description": "Détendez-vous, récupérez et relaxez-vous avec un massage de qualité spa dans le confort de votre propre maison. Avec plus de 1 000 000 de massages réservés, Mme Lara est votre partenaire bien-être."
+      },
+      "cardSecond": {
+        "title": "Le Massage Parfait à Domicile",
+        "description": "Détendez-vous, récupérez et relaxez-vous avec un massage de qualité spa dans le confort de votre propre maison. Avec plus de 1 000 000 de massages réservés, Mme Lara est votre partenaire bien-être."
+      },
+      "cardThird": {
+        "title": "Le Massage Parfait à Domicile",
+        "description": "Détendez-vous, récupérez et relaxez-vous avec un massage de qualité spa dans le confort de votre propre maison. Avec plus de 1 000 000 de massages réservés, Mme Lara est votre partenaire bien-être."
+      },
+      "inputPlaceholder": "Entrez votre ville et état ou adresse",
+      "button": "Réservez Maintenant"
+    },
+    "howItWorks": {
+      "title": "Comment Ça Fonctionne",
+      "cardFirst": {
+        "title": "Réservez",
+        "number": "01",
+        "description": "Réservez un massage à domicile, dans votre chambre d'hôtel ou au bureau, depuis notre application ou MmeLara.com."
+      },
+      "cardSecond": {
+        "title": "Détendez-vous",
+        "number": "02",
+        "description": "Choisissez le type de massage et le sexe de votre thérapeute, et il ou elle arrivera avec une table de massage."
+      },
+      "cardThird": {
+        "title": "Répétez",
+        "number": "03",
+        "description": "Réservez quand vous le souhaitez, de 8h à minuit, 365 jours par an, et profitez d'une expérience 5 étoiles à chaque fois."
+      }
+    },
+    "testimonial": {
+      "first": {
+        "author": "JAMES, NEW YORK",
+        "description": "C'est génial ! Des thérapeutes de haute qualité chez vous à tarif réduit. Que demander de mieux ?"
+      },
+      "second": {
+        "author": "JAMES, NEW YORK",
+        "description": "C'est génial ! Des thérapeutes de haute qualité chez vous à tarif réduit. Que demander de mieux ?"
+      },
+      "third": {
+        "author": "JAMES, NEW YORK",
+        "description": "C'est génial ! Des thérapeutes de haute qualité chez vous à tarif réduit. Que demander de mieux ?"
+      }
+    },
+    "onDemand": {
+      "button": {
+        "first": "Séance de Thérapie",
+        "second": "Réservez Maintenant",
+        "third": "Vérifiez la Disponibilité"
+      },
+      "firstCard": {
+        "title": "Massage à la Demande Simplifié",
+        "description": "Le massage à domicile offre tous les avantages d'une expérience de spa sans les déplacements, les attentes ou la logistique — et sans avoir besoin de trouver une garde d'enfants. Que vous utilisiez le massage pour la récupération sportive, la détente ou le soulagement de la douleur, Mme Lara propose le massage à la demande — et des thérapeutes qualifiés — pour vos besoins. Vous choisissez le type de massage, la préférence de sexe, le lieu et l'heure. Réservez à la demande avec un préavis aussi court qu'une heure ou jusqu'à 30 jours à l'avance."
+      },
+      "secondCard": {
+        "title": "Votre Confiance est Notre Priorité Absolue",
+        "description": "En tant que leader de l'industrie en matière de sécurité, tous les professionnels du réseau sont licenciés, assurés et soigneusement vérifiés selon nos protocoles de sécurité de pointe. Lorsque vous réservez un massage à domicile, vous recevrez une confirmation avec le nom complet et le bio professionnel du thérapeute, afin que vous sachiez toujours qui se rendra chez vous. C'est l'une des raisons pour lesquelles nous sommes Le Nom le Plus Fiable en Massage®."
+      }
+    },
+    "membership": {
+      "title": "Un Abonnement Conçu pour Votre Style de Vie",
+      "description": "Les membres Z bénéficient d'un massage à domicile mensuel à un tarif préférentiel — le choix naturel pour intégrer le bien-être à votre routine quotidienne.",
+      "button": "Devenir Membre"
+    },
+    "faqs": {
+      "title": {
+        "first": "Questions Fréquemment Posées",
+        "second": "Posez Vos Questions"
+      },
+      "firstFaq": {
+        "question": "Dois-je laisser un pourboire au thérapeute de massage ?",
+        "answer": "Si vous réservez plus d'un massage par mois en tant que membre, vous bénéficierez également de votre tarif membre pour ces massages."
+      },
+      "secondFaq": {
+        "question": "Puis-je offrir un massage à domicile en cadeau ?",
+        "answer": "Absolument ! Si vous visitez la page des cadeaux, vous pourrez offrir un massage unique, un abonnement ou une carte cadeau."
+      },
+      "thirdFaq": {
+        "question": "Quand serai-je facturé ?",
+        "answer": "Les prix varient selon le marché, mais vous bénéficierez du tarif Membre ou Membre Plus dans la ville que vous visitez."
+      },
+      "fourthFaq": {
+        "question": "Mon thérapeute apportera-t-il une table de massage ?",
+        "answer": "Les prix varient selon le marché, mais vous bénéficierez du tarif Membre ou Membre Plus dans la ville que vous visitez."
+      },
+      "fifthFaq": {
+        "question": "Puis-je choisir le sexe de mon thérapeute ?",
+        "answer": "Les prix varient selon le marché, mais vous bénéficierez du tarif Membre ou Membre Plus dans la ville que vous visitez."
+      }
+    },
+    "clientSaying": {
+      "title": "Ce Que Nos Clients <0/> Disent de Notre Service",
+      "description": "« Il existe de nombreuses variations de passages de Lorem Ipsum disponibles, mais la majorité ont subi des modifications sous une forme ou une autre, par humour injecté ou des mots aléatoires qui ne semblent même pas légèrement crédibles. »",
+      "clientCard": {
+        "name": "Tina Salem",
+        "position": "Directrice de xyz"
+      },
+      "rating": "Service Incroyable"
+    },
+    "bookAMassage": {
+      "title": "Réservez un Massage à la Demande® Maintenant",
+      "description": "Commencez par choisir votre technique de massage.",
+      "button": "Réservez un Massage",
+      "card": {
+        "first": {
+          "title": "Suédois",
+          "description": "Une technique restauratrice qui soulage le stress, améliore la circulation et apaise les douleurs musculaires."
+        },
+        "second": {
+          "title": "Tissus Profonds",
+          "description": "Un style plus fort qui se concentre sur les tensions musculaires profondes et les nœuds - parfait pour la récupération sportive."
+        },
+        "third": {
+          "title": "Prénatal",
+          "description": "Une modalité douce conçue pour améliorer le bien-être et soulager les tensions physiques de la grossesse."
+        },
+        "fourth": {
+          "title": "Sportif",
+          "description": "Une fusion de massage des tissus profonds et d'étirements conçue pour la récupération et la prévention des blessures."
+        }
+      }
+    },
+    "pricing": {
+      "title": "Tarification",
+      "description": "Les prix indiqués sont pour un massage de 60 minutes dans votre région.",
+      "button": "Éligible HSA/FSA"
+    },
+    "nationalMassage": {
+      "title": "Le Massage est Disponible Nationalement, y compris dans ces villes et régions",
+      "inputPlaceholder": "Recherchez un comté",
+      "button": "Réservez un Massage",
+      "nations": {
+        "first": {
+          "country": "Caroline du Sud",
+          "cities": [
+            "Charleston",
+            "Columbia",
+            "Greenville",
+            "Hilton Head",
+            "Myrtle Beach"
+          ]
+        },
+        "second": {
+          "country": "Connecticut",
+          "cities": [
+            "Charleston",
+            "Columbia",
+            "Greenville",
+            "Hilton Head",
+            "Myrtle Beach"
+          ]
+        },
+        "third": {
+          "country": "Massachusetts",
+          "cities": [
+            "Charleston",
+            "Columbia",
+            "Greenville",
+            "Hilton Head",
+            "Myrtle Beach"
+          ]
+        },
+        "fourth": {
+          "country": "Oregon",
+          "cities": [
+            "Charleston",
+            "Columbia",
+            "Greenville",
+            "Hilton Head",
+            "Myrtle Beach"
+          ]
+        },
+        "fifth": {
+          "country": "Arizona",
+          "cities": [
+            "Charleston",
+            "Columbia",
+            "Greenville",
+            "Hilton Head",
+            "Myrtle Beach"
+          ]
+        },
+        "sixth": {
+          "country": "Michigan",
+          "cities": [
+            "Charleston",
+            "Columbia",
+            "Greenville",
+            "Hilton Head",
+            "Myrtle Beach"
+          ]
+        }
+      }
+    }
+  },
+  "va": {
+    "header": {
+      "title": "Nous Apportons la Thérapie par Massage à Votre Porte, Couvert par Vos Avantages VA",
+      "description": "Moins de douleur, un meilleur sommeil, plus de temps pour faire ce que vous aimez - tout commence avec notre massage à domicile",
+      "button": "En Savoir Plus"
+    },
+    "cta": "Avez-vous déjà une prescription pour un massage ? Prenez rendez-vous dès maintenant",
+    "massageForVeteran": {
+      "title": "Servir Fièrement Ceux Qui Servent Notre Pays",
+      "firstDescription": "Nous sommes fiers d'être un membre du Réseau de Soins Communautaires VA, offrant des thérapies par massage sur place comme avantage couvert pour les vétérans.",
+      "secondDescription": "Nous venons à vous. Rencontrez un thérapeute en massage agréé et de confiance dans le confort de votre domicile — ou, si vous préférez, dans un cabinet de traitement à proximité — et recevez le traitement dont vous avez besoin, quand vous en avez besoin, là où cela vous convient le mieux.",
+      "button": "Massage pour les vétérans"
+    },
+    "videoHighlight": {
+      "title": "Mettre en Avant Nos Héros : Col. Thomas 'Malley",
+      "description": "Thomas 'Malley, vétéran du USMC de 82 ans, a passé des années à subir des chirurgies et à prendre des analgésiques prescrits pour la douleur due aux blessures subies au Vietnam. Grâce à sa thérapie de massage médical, le Col. O'Malley a pu arrêter les médicaments contre la douleur et retrouver son indépendance et sa mobilité.",
+      "link": "Regardez la vidéo pour découvrir son histoire de rétablissement."
+    },
+    "howDoYouKnow": {
+      "title": "Combien Savez-Vous sur le Massage ?",
+      "description": "Souffrez-vous de douleurs chroniques, de PTSD, ou êtes-vous en convalescence après une blessure ? La thérapie par massage pratiquée par un professionnel agréé peut aider. Découvrez comment le massage peut vous aider à retrouver un mode de vie plus actif, agréable et sans douleur.",
+      "link": "Explorez les bienfaits"
+    },
+    "forCareProviders": {
+      "title": "Pour les Fournisseurs de Soins : Prescrire des Massages pour des Résultats Positifs chez les Patients",
+      "description": "Le massage est bien connu comme une solution puissante et non pharmacologique pour les conditions musculosquelettiques chroniques et aiguës, mais son application ne s'arrête pas là. L'arthrite, le PTSD, les limitations de mobilité et d'autres conditions peuvent être soulagées par des massages réguliers — sans les risques des interventions pharmacologiques ou chirurgicales.",
+      "link": "Informations pour les Fournisseurs de Soins"
+    },
+    "provider": {
+      "description": "« Offre le moyen le plus facile et le plus sûr pour un patient de se connecter avec un thérapeute en massage qualifié. J'adore pouvoir aider les personnes en douleur à récupérer plus heureuses et plus mobiles, grâce à leur massage »",
+      "name": "JEANINE ALVERAS, LMT Dayton, OH",
+      "link": "Rencontrez plus de fournisseurs"
+    }
+  },
+  "massageMembership": {
+    "header": {
+      "title": "L'Abonnement Massage : Votre Routine Bien-Être Simplifiée",
+      "description": "Recevez votre massage mensuel livré, où que vous soyez, à notre meilleur tarif. De plus, bénéficiez d'un support prioritaire, de partage familial, d'avantages pour les partenaires, et plus encore…",
+      "button": "Devenir Mentor"
+    },
+    "whatIsMembership": {
+      "title": "Qu'est-ce que l'Abonnement ?",
+      "description": "Le plan d'abonnement est un abonnement mensuel pour les vrais amateurs de massage. En tant que Membre, vous bénéficierez jusqu'à 25 % de réduction sur votre massage mensuel et chaque autre massage que vous réservez, sans limite d'utilisation de votre réduction. Vous profiterez de tarifs préférentiels partout où vous réservez, d'un support prioritaire pour tous vos besoins d'abonnement."
+    },
+    "testimonial": {
+      "first": {
+        "reviewer": ". NATHAN W.. MEMBRE, NEW YORK",
+        "description": "Excellent service client, un excellent roster de professionnels, facile à utiliser dans des endroits partout dans le pays."
+      },
+      "second": {
+        "reviewer": ". NATHAN W.. MEMBRE, NEW YORK",
+        "description": "Excellent service client, un excellent roster de professionnels, facile à utiliser dans des endroits partout dans le pays."
+      },
+      "third": {
+        "reviewer": ". NATHAN W.. MEMBRE, NEW YORK",
+        "description": "Excellent service client, un excellent roster de professionnels, facile à utiliser dans des endroits partout dans le pays."
+      }
+    },
+    "easyWellness": {
+      "first": {
+        "title": "Conçu pour Faciliter le Bien-Être",
+        "description": "Votre vie est chargée. L'abonnement vous aide à créer de l'espace pour le bien-être. Vous ne manquerez jamais une occasion dans votre vie bien remplie lorsque votre massage mensuel est déjà prévu, et quelques clics suffiront à le faire venir jusqu'à votre porte. Pas de déplacement, pas de tracas, pas besoin d'appeler une baby-sitter."
+      },
+      "second": {
+        "title": "Conçu pour S'adapter à Votre Vie",
+        "description": "Avec un emploi du temps chargé comme le vôtre, la flexibilité est non négociable. En voyage ? Emportez votre abonnement avec vous dans plus de 100 zones métropolitaines à travers le pays - vous bénéficierez toujours du meilleur tarif et d'un service prioritaire. Trop occupé pour un massage ce mois-ci ? Le crédit non utilisé ne expire jamais, vous ne le perdrez donc jamais si vous ne pouvez pas l'utiliser. Plusieurs amateurs de massage dans la maison ? Les abonnements peuvent être partagés avec quiconque dans votre foyer."
+      }
+    },
+    "ritual": {
+      "title": "Votre Rituel Mensuel",
+      "card": {
+        "first": {
+          "title": "Massage de 60 Min Mensuel",
+          "description": "Un massage par mois sans frais d'adhésion, avec des crédits qui se reportent et ne expirent jamais."
+        },
+        "second": {
+          "title": "Tarif Préférentiel à Chaque Réservation",
+          "description": "Obtenez votre tarif de membre sur toutes les réservations, y compris celles pour vos proches."
+        },
+        "third": {
+          "title": "Support Client Prioritaire",
+          "description": "Soyez en tête de liste et recevez des réponses prioritaires à vos problèmes de support."
+        }
+      },
+      "button": "Devenir Mentor"
+    },
+    "pricing": {
+      "title": "Tarification",
+      "description": "Les prix indiqués sont pour un massage de 60 minutes dans votre région.",
+      "button": "Éligible HSA/FSA",
+      "card": {
+        "first": {
+          "title": "Membre",
+          "price": "$159.00",
+          "subtitle": "Économies de 8 % avec un engagement de 2 mois",
+          "button": "S'abonner et Réserver",
+          "firstDescription": "Notre expérience standard 5 étoiles, plus :",
+          "secondDescription": "Flexibilité d'abonnement",
+          "thirdDescription": "Annulez ou faites une pause à tout moment après vos deux premiers paiements mensuels.",
+          "fourthDescription": "Un massage de 60 minutes chaque mois",
+          "fifthDescription": "Vous êtes facturé pour un massage par mois au tarif de membre, sans frais d'adhésion. Les crédits se reportent et ne expirent jamais.",
+          "sixthDescription": "Tarif préféré sur toutes les réservations",
+          "seventhDescription": "Réservez autant de rendez-vous que vous le souhaitez au tarif de membre, où que ce soit."
+        },
+        "second": {
+          "title": "Membre",
+          "price": "$145.00",
+          "subtitle": "Économies de 17 % avec un engagement de 12 mois",
+          "button": "S'abonner et Réserver",
+          "firstDescription": "Notre expérience standard 5 étoiles, plus :",
+          "secondDescription": "Un massage de 60 minutes chaque mois",
+          "thirdDescription": "Vous êtes facturé pour un massage par mois au tarif de membre, sans frais d'adhésion. Les crédits se reportent et ne expirent jamais.",
+          "fourthDescription": "Tarif préféré sur toutes les réservations",
+          "fifthDescription": "Réservez autant de rendez-vous que vous le souhaitez au tarif de membre, où que ce soit.",
+          "sixthDescription": "Support client prioritaire",
+          "seventhDescription": "Soyez en tête de liste et recevez des réponses prioritaires à vos problèmes de support.",
+          "eighthDescription": "Réductions Partenaires",
+          "ninthDescription": "Avantages exclusifs de nos partenaires, y compris 15 % de réduction sur les achats en magasin."
+        }
+      }
+    },
+    "featured": {
+      "title": "Avantage Partenaire En Vedette : Hyperice",
+      "description": "Rejoignez le niveau Membre Plus pour obtenir 15 % de réduction sur tous les produits Hyperice en magasin - pour la performance, la récupération, et prolonger les bienfaits du massage entre les traitements.",
+      "link": "Visitez le magasin"
+    },
+    "faqs": {
+      "title": "Posez Vos Questions",
+      "button": "Voir Toutes les FAQ",
+      "card": {
+        "first": {
+          "question": "Que faire si je reçois habituellement plus d'un massage par mois ?",
+          "answer": "Si vous réservez plus d'un massage par mois en tant que membre, vous bénéficierez également de votre tarif de membre sur ces massages."
+        },
+        "second": {
+          "question": "Que faire si je souhaite un massage plus long que 60 minutes ?",
+          "answer": "Vous pouvez prolonger votre massage à la durée souhaitée, mais le crédit chaque mois couvre 60 minutes."
+        },
+        "third": {
+          "question": "Quand serai-je facturé ?",
+          "answer": "Les tarifs varient selon le marché, mais vous bénéficierez du tarif de Membre ou de Membre Plus dans la ville que vous visitez."
+        }
+      }
+    },
+    "memberMessage": {
+      "description": "« Je compte sur le massage pour m'aider à surmonter le décalage horaire, soulager les tensions, mieux dormir, et bien plus encore. Et avec un massage à domicile, il n'y a pas de temps perdu, ce que j'adore en tant que femme d'affaires et maman occupée. Cela rend ce luxe beaucoup plus accessible. »",
+      "name": "-CINDY CRAWFORD, MEMBRE",
+      "link": "Offrir un Massage"
+    },
+    "review": {
+      "first": {
+        "name": "-MASHABLE",
+        "description": "Il est temps de vous détendre et de laisser la relaxation venir à vous."
+      },
+      "second": {
+        "name": "-MASHABLE",
+        "description": "Il est temps de vous détendre et de laisser la relaxation venir à vous."
+      },
+      "third": {
+        "name": "-MASHABLE",
+        "description": "Il est temps de vous détendre et de laisser la relaxation venir à vous."
+      }
+    }
+  },
+
+  "giftsWebView": {
+    "header": {
+      "title": "Certificats Cadeau Massage",
+      "description": "Un cadeau massage est parfait pour les fêtes, les anniversaires, la fête des mères, la Saint-Valentin, les mariages et pour ceux qui sont difficiles à gâter.",
+      "button": "Envoyer un Cadeau Massage",
+      "link": "Vous avez reçu un cadeau ?<0>Utilisez votre carte cadeau</0>"
+    },
+    "chooseTheBest": {
+      "title": "Choisissez l'Expérience Parfaite",
+      "description": "Offrez votre cadeau massage dans l'une des configurations ci-dessous. Peu importe ce que vous choisissez, le destinataire pourra choisir le moment, le lieu, le sexe du thérapeute et la technique de massage qui conviennent le mieux à ses préférences.",
+      "button": "Envoyer un Cadeau Massage Unique",
+      "card": {
+        "first": {
+          "title": "Massage Unique",
+          "description": "Un massage relaxant de 60, 75 ou 90 minutes, dans le confort de chez soi, à l'hôtel ou au bureau."
+        },
+        "second": {
+          "title": "Massage en Couple",
+          "description": "Une paire de massages pour deux en même temps. Choisissez des durées de traitement de 60, 75 ou 90 minutes."
+        },
+        "third": {
+          "title": "Montant en Dollars",
+          "description": "Achetez des certificats cadeaux pour un montant en dollars. Choisissez parmi des montants allant de 25 $ à 500 $."
+        },
+        "fourth": {
+          "title": "Forfait Massage",
+          "description": "Forfaits de 3, 6, 9 ou 12 massages individuels que le destinataire peut utiliser quand il le souhaite."
+        },
+        "fifth": {
+          "title": "Abonnement Massage",
+          "description": "Un an de massages mensuels à notre tarif le plus bas, avec des avantages VIP. Payez mensuellement ou en une seule fois."
+        }
+      }
+    },
+    "review": {
+      "description": "« J’ADORE !! Je le recommande vivement ! C'est TELLEMENT facile, pratique et sans souci à utiliser »",
+      "name": "-DEANNA P, COLORADO",
+      "link": "Offrir un Massage"
+    },
+    "featuredGift": {
+      "title": "EN VEDETTE COMME CADEAU DANS :",
+      "card": {
+        "first": {
+          "title": "Le cadeau d'expérience parfait pour Noël.",
+          "name": "-GOOD MORNING AMERICA"
+        }
+      }
+    },
+    "corporateGift": {
+      "title": "Cadeaux d'Entreprise",
+      "description": "Vous cherchez le moyen idéal de montrer votre appréciation à des employés, des fournisseurs ou des dirigeants performants ? Les entreprises bénéficient de remises de volume sur les achats de 10 certificats cadeaux ou plus ! C'est le cadeau ultime non-corporatif.",
+      "link": "Découvrez les Options de Cadeaux de Groupe"
+    },
+    "howDoesItWork": {
+      "title": "Comment Fonctionne le Cadeau Massage ?",
+      "link": "Offrir un Massage",
+      "firstCard": {
+        "title": "1. Choisissez Votre Cadeau",
+        "description": "Offrez un massage unique, un massage en couple, un forfait massage, un abonnement ou un montant fixe en dollars."
+      },
+      "secondCard": {
+        "title": "2. Personnalisez-le",
+        "description": "Entrez les informations du destinataire et personnalisez votre cadeau avec un message et un design personnalisés."
+      },
+      "thirdCard": {
+        "title": "3. Surprenez et Ravissez",
+        "description": "Votre cadeau est livré numériquement au moment de votre choix et ne manquera pas de faire plaisir au destinataire."
+      }
+    },
+    "faqs": {
+      "title": "FAQs Cadeaux",
+      "button": "Voir Toutes les FAQ",
+      "cards": {
+        "first": {
+          "question": "Quel type de massage le destinataire recevra-t-il ?",
+          "answer": "Votre destinataire pourra choisir un massage suédois, un massage profond, un massage sportif, un massage prénatal ou notre massage signature Sleep Massage lorsqu'il réservera son rendez-vous."
+        },
+        "second": {
+          "question": "Les certificats cadeaux expirent-ils ?",
+          "answer": "Jamais !"
+        },
+        "third": {
+          "question": "Où puis-je offrir un cadeau massage ?",
+          "answer": "Disponible dans plus de 100 grandes zones métropolitaines et destinations à travers le pays."
+        },
+        "fourth": {
+          "question": "Comment utiliser un certificat cadeau ?",
+          "answer": "Après avoir créé un compte, ajoutez le code du bon cadeau dans la section 'Ajouter un Code Promo' de l'espace compte. Cela convertit le cadeau en crédit à utiliser pour un massage !"
+        },
+        "fifth": {
+          "question": "Je suis membre ; puis-je utiliser mon crédit pour acheter des cadeaux ?",
+          "answer": "Le crédit d'adhésion est automatiquement appliqué aux achats de cadeaux. Si vous souhaitez offrir un cadeau sans utiliser votre crédit, envoyez un email à help@.com pour obtenir de l'aide."
+        }
+      }
+    },
+    "certificate": {
+      "title": "Certificats Cadeau Massage",
+      "button": "Explorer les Cartes Cadeaux"
+    }
+  },
+
+  "referal": {
+    "header": {
+      "title": "Bienvenue !",
+      "description": "Recevez une thérapie par massage dans le confort de votre maison, ou dans un cabinet à proximité.",
+      "button": "Planifiez Votre Massage Maintenant"
+    },
+    "partnership": "En partenariat avec",
+    "howItWorks": {
+      "title": "Comment Fonctionne Massage pour Vétérans",
+      "button": "Utilisez Votre Référence Maintenant",
+      "card": {
+        "first": {
+          "title": "1. Obtenez une Référence",
+          "description": "Votre Fournisseur de Soins Primaires VA vous prescrit des traitements de thérapie par massage."
+        },
+        "second": {
+          "title": "2. Planifiez en Ligne ou par Téléphone",
+          "description": "Planifiez un rendez-vous dès que dans 48 heures, ou appelez-nous au 877-GET-MASSAGE."
+        },
+        "third": {
+          "title": "3. Recevez un Traitement où c'est Pratique",
+          "description": "Un thérapeute en massage agréé et de confiance se rendra chez vous ou vous traitera dans son cabinet selon votre emploi du temps."
+        }
+      }
+    },
+    "cta": "Vous n'avez pas encore de référence pour un massage ?<0>En savoir plus sur le processus</0>",
+    "meetProviders": {
+      "title": "RENCONTRER VOS FOURNISSEURS",
+      "location": "Dayton, OH",
+      "name": "Jeannie Alveras, LMT",
+      "description": "« Offre le moyen le plus simple et le plus sûr pour un patient de se connecter avec un thérapeute en massage qualifié. J'adore pouvoir aider les personnes en douleur à reprendre leur vie plus heureuses et plus mobiles, grâce à leur massage »"
+    },
+    "whatIsMissLara": {
+      "title": "Qu'est-ce que Mrs Lara ?",
+      "description": "Est une plateforme de soins à domicile nationale avec un réseau de plus de 11 000 praticiens, y compris des thérapeutes en massage agréés. Nous travaillons avec votre équipe de soins VA pour envoyer des praticiens de haute qualité chez vous (ou offrir un traitement pratique en cabinet à proximité) et facturons automatiquement votre assurance."
+    },
+    "trustAndSafety": {
+      "title": "Confiance et Sécurité",
+      "description": "Il n'y a pas de priorité plus élevée pour vous que la sécurité des vétérans, des fournisseurs et des employés sur la plateforme. Nous appliquons des normes rigoureuses en matière de santé et d'hygiène, ainsi que des protocoles de vérification et de sécurité de premier plan."
+    },
+    "secondCta": {
+      "title": "Vous n'avez pas de référence pour un massage ?",
+      "subtitle": "Parlez à votre médecin VA de la thérapie par massage pour la douleur.",
+      "button": "Planifiez Votre Massage Maintenant"
+    },
+    "footer": "©2024 Networks Inc. Tous droits réservés. Fournit des services médicaux par le biais de sa filiale ZP Medical Services PC, une pratique médicale agréée. Ce contenu est uniquement à des fins d'information et ne remplace pas un diagnostic ou des conseils médicaux. Vous devez toujours consulter votre médecin si vous avez des questions ou des préoccupations d'ordre personnel ou médical. Veuillez lire nos <0>Conditions d'utilisation</0> et notre <0>Politique de confidentialité</0> pour plus d'informations."
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "tabs": {
+    "detailsTab": {
+      "tabButton": "Details",
+      "steps": {
+        "firstStep": {
+          "header": "Choose a Service",
+          "subText": "Services in 10005",
+          "cards": {
+            "first": {
+              "title": "Massage",
+              "text": "Book an on-demand massage at home, in your hotel room, or at your office, from our app or .com."
+            },
+            "second": {
+              "title": "Assisted  Stretch",
+              "text": "Choose the massage type and the gender of your therapist, and he or she will arrive with a massage table."
+            }
+          },
+          "buttonText": "continue"
+        },
+        "secondStep": {
+          "form": {
+            "formFields": {
+              "howManyPeople": {
+                "label": "How many people?",
+                "options": {
+                  "first": "One",
+                  "second": "Multiple"
+                }
+              },
+              "duration": {
+                "label": "Duration",
+                "options": {
+                  "first": "60m",
+                  "second": "75m",
+                  "thrid": "90m"
+                }
+              },
+              "gender": {
+                "label": "Therapist Gender",
+                "options": {
+                  "first": "Male",
+                  "second": "Female",
+                  "third": "Either"
+                }
+              },
+              "massageFor": {
+                "label": "Who is the massage for?",
+                "options": {
+                  "first": "One",
+                  "second": "Group"
+                }
+              }
+            }
+          },
+          "cards": {
+            "first": {
+              "title": "Massage",
+              "text": "A restorative technique that relieves stress, boosts circulation, and eases muscle aches and pains."
+            },
+            "second": {
+              "title": "Deep Tissue",
+              "text": "A stronger style that focuses on deeper muscle tension and knots - perfect for athletic recovery."
+            },
+            "third": {
+              "title": "Prenatal",
+              "text": "A gentle modality designed to boost wellness and relieve the physical strains of pregnancy."
+            }
+          }
+        }
+      }
+    },
+    "locationTab": {
+      "tabButton": "Location",
+      "header": "Add Location",
+      "subText": "Address your massage will take place",
+      "cantFindAddress": "I can’t find my address",
+      "form": {
+        "formFields": {
+          "address": {
+            "label": "Address"
+          },
+          "unit": {
+            "label": "Unit Number (Optional)"
+          },
+          "tabel": {
+            "label": "Do you have a massage table?",
+            "options": {
+              "first": "No Table",
+              "second": "1 Table",
+              "third": "2 Table"
+            }
+          },
+          "stairs": {
+            "label": "Are stairs requried for access?",
+            "options": {
+              "first": "No",
+              "second": "1 Flight",
+              "third": "2+ Flight"
+            }
+          },
+          "parking": {
+            "label": "Any parking and location note?"
+          }
+        },
+
+        "buttonText": "continue"
+      }
+    },
+    "timeTab": {
+      "tabButton": "Time",
+      "header": "When would you like to book?",
+      "buttonTexts": {
+        "first": "Book any Therapist",
+        "second": "Book any Therapist"
+      },
+      "slotText": "We’ll book you with the best available therapist during your preferred time slot."
+    },
+    "paymentTab": {
+      "tabButton": "Payment",
+      "header": "Choose Your Pricing",
+      "subHeaderButton": "HSA/FSA Eligible",
+      "thisBooking": "this booking",
+      "cards": {
+        "first": {
+          "header": "Member",
+          "secondaryHeader": "One Time Payment"
+        },
+        "second": {
+          "header": "Member",
+          "secondaryHeader": "$119/month",
+          "price": "$119.00",
+          "contactInfo": "Monthly 60-min massage 2 month commitment"
+        },
+        "third": {
+          "header": "Member",
+          "secondaryHeader": "$109/month",
+          "price": "$109.00",
+          "contactInfo": "Monthly 60-min massage Priority Customer Support 12 month commitment"
+        }
+      },
+      "selectButton": "Select"
+    },
+    "finishTab": {
+      "tabButton": "Finish",
+      "cards": {
+        "first": {
+          "title": "Add Mailing Address",
+          "body": "Provide a mailing address to receive future membership perks. Please ensure packages can be accepted at this location."
+        },
+        "second": {
+          "title": "Add Payment",
+          "body": "Select your payment method and add details."
+        },
+        "third": {
+          "title": "Time"
+        },
+        "header": "Summary",
+        "cancelHeader": "Cancel up to 4 hours in advance",
+        "seeTherapistBio": "See therapist bio when matched",
+        "memberSubscription": "Member Subscription",
+        "promoGift": "Promo or Gift Card",
+        "discalimer": {
+          "first": "We will pre-authorize a hold on your payment method for the total amount above and charge for it after your appointment is completed.By selecting 'Add Payment', I confirm that I have read and agreed  Member Agreement and commit to at least 2 monthly charges of $140.42.",
+          "second": "By selecting Add Payment, I confirm that I have read and agreed  Member Agreement and commit to at least 2 monthly charges of $140.42. "
+        },
+        "buttonText": "Add Payment",
+        "footer": [],
+        "dueToday": "Due Today",
+        "monthly": "Monthly Charge",
+        "firstTimeDiscount": "First-Time Booking Discount"
+      }
+    }
+  }
+}

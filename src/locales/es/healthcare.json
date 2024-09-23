@@ -1,0 +1,155 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "healtcarePartner": "Solución para socios de atención médica",
+      "bookAMassage": "Reservar un masaje"
+    },
+    "secondaryNavBar": {
+      "individuals": "Individuos",
+      "business": "Negocios",
+      "healthcare": "Socios de atención médica",
+      "providers": "Proveedores",
+      "sigin": "Iniciar sesión",
+      "signup": "Registrarse",
+      "help": "Ayuda y contacto"
+    }
+  },
+  "healthcare": {
+    "header": {
+      "title": "Diseñado para brindar atención donde los pacientes más la necesitan: en casa.",
+      "description": "Reduzca los costos para los pagadores y mejore los resultados de los pacientes con una plataforma diseñada para proporcionar atención médica de alta calidad en el hogar.",
+      "button": "Aprenda cómo funciona"
+    },
+    "chronicPain": {
+      "title": "El dolor crónico es costoso y todos pagan el precio",
+      "firstCard": {
+        "number": "50M+",
+        "description": "Adultos en EE. UU. que sufren <0 /> de dolor crónico"
+      },
+      "secondCard": {
+        "number": "$600B",
+        "description": "Costo anual para la economía de EE. UU."
+      },
+      "thirdCard": {
+        "number": "$13k",
+        "description": "Costo anual para empleadores<0 /> por cada 100 trabajadores"
+      }
+    },
+    "painProtocol": {
+      "title": "PROTOCOLOS DE DOLOR QUE FUNCIONAN",
+      "subtitle": "Rehabilitación física y manejo del dolor",
+      "first": "Masaje en el hogar y fisioterapia para el dolor crónico o agudo, demostrado para aumentar el cumplimiento y mejorar los resultados",
+      "second": "Alternativa más segura a la intervención quirúrgica, opioides recetados y AINE, sin riesgo de efectos secundarios, adicción o complicaciones",
+      "third": "Red nacional de proveedores en el hogar, completamente acreditada (estándares NCQA y URAC), cerrando la “última milla” para los pacientes de telemedicina y MSK digital",
+      "fourth": "El tratamiento en el hogar aumenta el acceso de los pacientes, reduce los costos para los pagadores y mejora la calidad general y la continuidad de la atención"
+    },
+    "patientFirst": {
+      "title": "Una experiencia centrada en el paciente que agiliza <0 /> la participación de los miembros",
+      "button": "Solicitar una demostración",
+      "first": "La tecnología de Mrs Lara, completamente compatible con HIPAA, está diseñada para la integración de planes de salud y mantiene la facilidad de uso para los pacientes.",
+      "second": "La reserva en línea fácil y los parámetros de citas flexibles brindan a los pacientes más control sobre su atención.",
+      "third": "La plataforma está impulsada por una automatización centrada en las personas, con soporte de chat, recordatorios de citas y documentación en la aplicación.",
+      "fourth": "El “Control de tráfico de atención” a nivel nacional y la coordinación en tiempo real permiten la prestación de atención localmente y a través de las fronteras estatales.",
+      "fifth": "Con horarios “abiertos” más largos que la mayoría de las instalaciones de salud, Mrs Lara ofrece más citas, mayor flexibilidad y elimina un promedio de 45 minutos de tiempo de viaje y espera."
+    },
+    "coverage": {
+      "title": "Cobertura nacional y atención hiperlocal,<0 /> gracias a más de 11,000 proveedores de confianza en EE. UU.",
+      "button": "Empecemos"
+    },
+    "providerNetwork": {
+      "title": "RED DE PROVEEDORES",
+      "subtitle": "Cobertura nacional y atención hiperlocal,<0 /> gracias a más de 11,000 proveedores de confianza en EE. UU."
+    },
+    "faqs": {
+      "title": "Respaldado por la ciencia: Resultados comprobados para pacientes y pagadores",
+      "first": {
+        "question": "ATENCIÓN MÉDICA EN EL HOGAR AHORA, MAYO/JUNIO 2019",
+        "answer": "El valor de la fisioterapia en el hogar"
+      },
+      "second": {
+        "question": "MEDICINA DEL DOLOR, JULIO 2017",
+        "answer": "La terapia de masaje en el mundo real produce una señal de efectividad significativa para los pacientes de atención primaria con dolor lumbar crónico"
+      },
+      "third": {
+        "question": "REVISTA DE CIENCIA DE LA FISIOTERAPIA, OCTUBRE 2016",
+        "answer": "La efectividad del programa de ejercicios en el hogar para pacientes con dolor lumbar"
+      },
+      "fourth": {
+        "question": "MEDICINA DEL DOLOR, JULIO 2016",
+        "answer": "El impacto de la terapia de masaje en la función en poblaciones con dolor: Una revisión sistemática y un meta-análisis de ensayos controlados aleatorios"
+      },
+      "fifth": {
+        "question": "REVISTA DE MEDICINA ALTERNATIVA Y COMPLEMENTARIA, MAYO 2019",
+        "answer": "Masaje para el dolor: Un mapa de evidencia"
+      },
+      "sixth": {
+        "question": "GRUPO EMPRESARIAL DEL NORESTE SOBRE SALUD, SEPTIEMBRE 2017",
+        "answer": "Prevención y tratamiento de trastornos MSK: Nuevas estrategias para empleadores"
+      }
+    },
+    "form": {
+      "title": "Descubra cómo la plataforma <0 /> crea mejores resultados a menor costo.",
+      "subtitle": "Un especialista en empresas se pondrá en contacto con usted para discutir soluciones para MSK y dolor crónico, y el proceso de integración.",
+      "button": "Obtener más información",
+      "feilds": {
+        "fistName": "Nombre*",
+        "lastName": "Apellido",
+        "email": "Correo electrónico de la empresa*",
+        "phoneNumber": "Número de teléfono*"
+      }
+    }
+  },
+  "bottomNav": {
+    "aboutSection": {
+      "about": "Acerca de",
+      "career": "Carrera",
+      "blog": "Blog",
+      "press": "Prensa, Medios y Noticias",
+      "release": "Comunicado de prensa",
+      "siteMap": "Mapa del sitio"
+    },
+    "individualsSections": {
+      "title": "Individuos",
+      "inhome": "Servicios en el hogar",
+      "massage": "Masaje",
+      "massageForVets": "Masaje para veteranos",
+      "massagePriceAndLocations": "Precios y ubicaciones de masajes",
+      "massageMembership": "Membresía de masajes",
+      "zeelGifts": "Regalos de Zeel",
+      "zeelStore": "Tienda Zeel",
+      "trustAndSafety": "Confianza y Seguridad",
+      "payment": "Pago HSF/HSA"
+    },
+    "businesses": {
+      "title": "Negocios",
+      "partners": "Soluciones para socios de atención médica",
+      "workplaceWellness": "Bienestar en el lugar de trabajo",
+      "bookAChair": "Reservar un evento de masaje en silla",
+      "spaStafffing": "Staffing de spa Zeel",
+      "trustAndSafety": "Confianza y Seguridad"
+    },
+    "providers": {
+      "title": "Proveedores",
+      "workWithZeel": "Trabajar con Zeel",
+      "applyNow": "Aplicar ahora",
+      "trustAndSafety": "Confianza y Seguridad"
+    },
+    "newsLetter": {
+      "title": "Boletín",
+      "buttonText": "Suscribirse",
+      "inputPlaceholder": "Dirección de correo electrónico aquí"
+    },
+    "inHomeLocation": {
+      "title": "Ubicación de masajes en casa"
+    },
+    "chairMassageLocation": {
+      "title": "Ubicación de masajes en silla"
+    }
+  },
+  "footer": {
+    "copyRight": "Derechos de autor ©2024",
+    "designer": "Diseñador. Todos los derechos reservados",
+    "terms": "Términos y condiciones de uso",
+    "privacy": "Política de privacidad"
+  }
+}

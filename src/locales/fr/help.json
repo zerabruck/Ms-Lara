@@ -1,0 +1,97 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "inhomeService": "Service à domicile",
+      "store": "Magasin",
+      "blog": "Blog",
+      "trustAndSafety": "Confiance & Sécurité",
+      "bookAMassage": "Réserver un massage",
+      "dropDowns": {
+        "massage": "Massage",
+        "massageForVeterans": "Massage pour les anciens combattants",
+        "massageMembership": "Abonnement Massage",
+        "gifts": "Cadeaux Mme Lara",
+        "referral": "Parrainage"
+      }
+    },
+    "secondaryNavBar": {
+      "individuals": "Individus",
+      "business": "Entreprise",
+      "healthcare": "Partenaires de santé",
+      "providers": "Fournisseurs",
+      "sigin": "Se connecter",
+      "signup": "S'inscrire",
+      "help": "Aide & Contact"
+    }
+  },
+  "focalPoint": {
+    "title": "Comment pouvons-nous vous aider ?",
+    "inputPlaceholder": "ex : Comment annuler mon rendez-vous"
+  },
+  "tabs": {
+    "consumers": {
+      "tabButtonText": "Pour les consommateurs",
+      "dropdowns": {
+        "inhome": {
+          "header": "Massage à domicile",
+          "questions": {
+            "first": "Comment puis-je payer un massage Mrs Lara avec un compte HSA/FSA ?",
+            "second": "Qui sont les thérapeutes fournissant le massage sur chaise Mrs Lara ?",
+            "third": "Pourquoi Mrs Lara ne peut-elle pas vérifier mon identité ?",
+            "fourth": "Pourquoi Mrs Lara inclut-elle un pourboire automatique de 18 % pour les massothérapeutes ?",
+            "fifth": "Pourquoi Mrs Lara a-t-elle besoin de vérifier mon identité ?",
+            "sixth": "Puis-je utiliser mon assurance maladie pour payer mon massage ?"
+          }
+        },
+        "membership": {
+          "header": "Adhésion Mrs Lara",
+          "questions": {
+            "first": "Où le plan d'adhésion Mrs Lara est-il disponible ?",
+            "second": "Que dois-je porter pour une séance d'étirement assisté ?",
+            "third": "Qu'est-ce que l'adhésion Mrs Lara ?",
+            "fourth": "Comment dois-je me préparer pour une séance d'étirement assisté ?",
+            "fifth": "Pourquoi devrais-je devenir membre de Mrs Lara ?",
+            "sixth": "Dois-je m'étirer avant ou après un entraînement ?"
+          }
+        },
+        "repeatBookings": {
+          "header": "Réservations répétées",
+          "questions": {
+            "first": "Comment puis-je réserver le même massothérapeute à nouveau ?"
+          }
+        },
+        "inhomeStretching": {
+          "header": "Étirement à domicile",
+          "questions": {
+            "first": "Que sont les METs ?",
+            "second": "Qui sont les professionnels de l'étirement travaillant avec Mrs Lara ?",
+            "third": "Où se déroulent les séances d'étirement assisté Mrs Lara ?"
+          }
+        },
+        "trustAndSafety": {
+          "header": "Confiance et sécurité pour les clients",
+          "questions": {
+            "first": "Mrs Lara a-t-elle des exigences pour les prestataires dans le réseau Mrs Lara ?",
+            "second": "Puis-je empêcher un prestataire spécifique d'être réservé sur mon rendez-vous si je ne veux plus le voir ?",
+            "third": "Comment signaler un problème ou une expérience négative avec un prestataire ?"
+          }
+        },
+        "covidTesting": {
+          "header": "Tests PCR/Covid",
+          "questions": {
+            "first": "Si je pense avoir été exposé au Covid-19, quand devrais-je me faire tester ?"
+          }
+        }
+      }
+    },
+    "business": {
+      "tabButtonText": "Pour les entreprises"
+    }
+  },
+  "footer": {
+    "copyRight": "Droits d'auteur ©2024",
+    "designer": "Concepteur. Tous droits réservés",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "tabs": {
+    "detailsTab": {
+      "tabButton": "Détails",
+      "steps": {
+        "firstStep": {
+          "header": "Choisissez un Service",
+          "subText": "Services dans 10005",
+          "cards": {
+            "first": {
+              "title": "Massage",
+              "text": "Réservez un massage à la demande chez vous, dans votre chambre d'hôtel ou à votre bureau, via notre application ou notre site .com."
+            },
+            "second": {
+              "title": "Étirement assisté",
+              "text": "Choisissez le type de massage et le sexe de votre thérapeute, il ou elle arrivera avec une table de massage."
+            }
+          },
+          "buttonText": "continuer"
+        },
+        "secondStep": {
+          "form": {
+            "formFields": {
+              "howManyPeople": {
+                "label": "Combien de personnes?",
+                "options": {
+                  "first": "Une",
+                  "second": "Plusieurs"
+                }
+              },
+              "duration": {
+                "label": "Durée",
+                "options": {
+                  "first": "60m",
+                  "second": "75m",
+                  "third": "90m"
+                }
+              },
+              "gender": {
+                "label": "Genre du thérapeute",
+                "options": {
+                  "first": "Homme",
+                  "second": "Femme",
+                  "third": "Peu importe"
+                }
+              },
+              "massageFor": {
+                "label": "Pour qui est le massage?",
+                "options": {
+                  "first": "Une personne",
+                  "second": "Groupe"
+                }
+              }
+            }
+          },
+          "cards": {
+            "first": {
+              "title": "Massage",
+              "text": "Une technique réparatrice qui soulage le stress, stimule la circulation et soulage les douleurs musculaires."
+            },
+            "second": {
+              "title": "Tissus Profonds",
+              "text": "Un style plus fort qui se concentre sur les tensions musculaires profondes et les nœuds - parfait pour la récupération athlétique."
+            },
+            "third": {
+              "title": "Prénatal",
+              "text": "Une modalité douce conçue pour favoriser le bien-être et soulager les tensions physiques de la grossesse."
+            }
+          }
+        }
+      }
+    },
+    "locationTab": {
+      "tabButton": "Localisation",
+      "header": "Ajouter une Localisation",
+      "subText": "Adresse où aura lieu votre massage",
+      "cantFindAddress": "Je ne trouve pas mon adresse",
+      "form": {
+        "formFields": {
+          "address": {
+            "label": "Adresse"
+          },
+          "unit": {
+            "label": "Numéro d'unité (Optionnel)"
+          },
+          "tabel": {
+            "label": "Avez-vous une table de massage?",
+            "options": {
+              "first": "Pas de table",
+              "second": "1 Table",
+              "third": "2 Tables"
+            }
+          },
+          "stairs": {
+            "label": "Des escaliers sont-ils nécessaires pour l'accès?",
+            "options": {
+              "first": "Non",
+              "second": "1 Étage",
+              "third": "2+ Étages"
+            }
+          },
+          "parking": {
+            "label": "Remarques sur le stationnement et la localisation?"
+          }
+        },
+
+        "buttonText": "continuer"
+      }
+    },
+    "timeTab": {
+      "tabButton": "Temps",
+      "header": "Quand souhaitez-vous réserver?",
+      "buttonTexts": {
+        "first": "Réserver n'importe quel thérapeute",
+        "second": "Réserver n'importe quel thérapeute"
+      },
+      "slotText": "Nous vous attribuerons le meilleur thérapeute disponible pendant votre créneau horaire préféré."
+    },
+    "paymentTab": {
+      "tabButton": "Paiement",
+      "header": "Choisissez Votre Tarification",
+      "subHeaderButton": "Éligible HSA/FSA",
+      "thisBooking": "cette réservation",
+      "cards": {
+        "first": {
+          "header": "Membre",
+          "secondaryHeader": "Paiement Unique"
+        },
+        "second": {
+          "header": "Membre",
+          "secondaryHeader": "119$/mois",
+          "price": "$119.00",
+          "contactInfo": "Massage de 60 minutes par mois Engagement de 2 mois"
+        },
+        "third": {
+          "header": "Membre",
+          "secondaryHeader": "109$/mois",
+          "price": "$109.00",
+          "contactInfo": "Massage de 60 minutes par mois Support Client Prioritaire Engagement de 12 mois"
+        }
+      },
+      "selectButton": "Sélectionner"
+    },
+    "finishTab": {
+      "tabButton": "Terminer",
+      "cards": {
+        "first": {
+          "title": "Ajouter une Adresse Postale",
+          "body": "Fournissez une adresse postale pour recevoir des avantages d'adhésion futurs. Veuillez vous assurer que les colis peuvent être acceptés à cet endroit."
+        },
+        "second": {
+          "title": "Ajouter un Paiement",
+          "body": "Sélectionnez votre méthode de paiement et ajoutez des détails."
+        },
+        "third": {
+          "title": "Temps"
+        },
+        "header": "Résumé",
+        "cancelHeader": "Annulation jusqu'à 4 heures à l'avance",
+        "seeTherapistBio": "Voir la biographie du thérapeute lors de l'attribution",
+        "memberSubscription": "Abonnement Membre",
+        "promoGift": "Promo ou Carte Cadeau",
+        "disclaimer": {
+          "first": "Nous préautoriserons un montant sur votre méthode de paiement pour le montant total ci-dessus et le facturerons après la fin de votre rendez-vous. En sélectionnant 'Ajouter un Paiement', je confirme que j'ai lu et accepté l'Accord d'adhésion et que je m'engage à au moins 2 prélèvements mensuels de 140,42 $.",
+          "second": "En sélectionnant Ajouter un Paiement, je confirme que j'ai lu et accepté l'Accord d'adhésion et que je m'engage à au moins 2 prélèvements mensuels de 140,42 $."
+        },
+        "buttonText": "Ajouter un Paiement",
+        "footer": [],
+        "dueToday": "À Payer Aujourd'hui",
+        "monthly": "Frais Mensuels",
+        "firstTimeDiscount": "Réduction pour Première Réservation"
+      }
+    }
+  }
+}

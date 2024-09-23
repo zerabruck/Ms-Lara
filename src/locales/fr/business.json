@@ -1,0 +1,296 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "workplace": "Bien-être au Travail",
+      "bookAChair": "Réserver un Événement de Massage sur Chaise",
+      "staffing": "Recrutement pour Spa",
+      "trustAndSafety": "Confiance et Sécurité",
+      "bookAMassage": "Réserver un massage"
+    },
+    "secondaryNavBar": {
+      "individuals": "Particuliers",
+      "business": "Entreprises",
+      "healthcare": "Partenaires de Soins de Santé",
+      "providers": "Fournisseurs",
+      "signin": "Se Connecter",
+      "signup": "S'inscrire",
+      "help": "Aide & Contact"
+    }
+  },
+  "workplacewellness": {
+    "intro": {
+      "headline": "Un avantage pour les employés qui combat la douleur et le stress",
+      "description": "@Work massage pour les employés favorise la santé physique et mentale des équipes sur site, à distance et hybrides.",
+      "button": "Élaborez un Plan de Massage pour les Employés"
+    },
+    "services": {
+      "1": "Choisissez entre massage en chaise, massage sur table ou hybride pour les employés sur site ou à distance.",
+      "2": "Des praticiens assurés et qualifiés du Réseau de Fournisseurs se rendent sur le site.",
+      "3": "Profitez d'une planification en ligne pratique, avec des rappels SMS pour les employés.",
+      "4": "Les tarifs de volume vous permettent d'approfondir votre réduction d'entreprise avec des séances plus fréquentes."
+    },
+    "onSiteChairMassage": "MASSAGE EN CHAISE SUR SITE",
+    "buildABetterOffice": {
+      "title": "Créez une Meilleure Expérience au Bureau",
+      "body": "@Work facilite la création d'une culture de bureau appréciée des employés. Seulement 15 minutes de massage en chaise ont prouvé qu'elles réduisaient le stress tout en soulageant la douleur chronique et en améliorant le bien-être.\n\nComment ça marche ?\nChoisissez un programme hebdomadaire, mensuel ou trimestriel adapté aux besoins de votre équipe. Sélectionnez des séances de 12, 15 ou 20 minutes, pour une durée totale de l'événement en fonction du nombre de participants.\nDésignez une salle de conférence ou un autre espace calme pour que les employés profitent paisiblement des séances qu'ils réservent eux-mêmes.",
+      "footer": "Planifiez un programme de bien-être avec un spécialiste"
+    },
+    "wellnessAtHome": {
+      "title": "Bien-être à Domicile pour Votre Équipe en Télétravail",
+      "body": "@Work facilite la création d'une culture de bureau appréciée des employés. Seulement 15 minutes de massage en chaise ont prouvé qu'elles réduisaient le stress tout en soulageant la douleur chronique et en améliorant le bien-être.\n\nComment ça marche ?\nChoisissez un programme hebdomadaire, mensuel ou trimestriel adapté aux besoins de votre équipe. Sélectionnez des séances de 12, 15 ou 20 minutes, pour une durée totale de l'événement en fonction du nombre de participants.\nDésignez une salle de conférence ou un autre espace calme pour que les employés profitent paisiblement des séances qu'ils réservent eux-mêmes.",
+      "footer": "Planifiez un programme de bien-être avec un spécialiste"
+    },
+    "notReady": "Pas prêt pour un programme d'entreprise ? Essayez un événement unique ! Rejoignez des centaines d'organisations offrant à leurs équipes un massage en chaise relaxant en utilisant notre plateforme facile à utiliser et en libre-service.",
+    "enterpriseClient": {
+      "header":"Améliorez l'expérience bien-être de votre équipe",
+      "title":"Soutien dédié pour les besoins de votre entreprise",
+      "body": "En tant que client d'entreprise @Work, créer une expérience de bien-être exceptionnelle pour votre équipe est notre objectif. En plus de votre accès à un réseau national de thérapeutes de massage expérimentés, votre compte comprend :\nMassage en chaise + massage sur table dans toutes les combinaisons que vous choisissez Un gestionnaire de compte dédié\nPlanification en ligne en libre-service et rappels pour les employés Remises sur le volume pour des séances plus fréquentes et récurrentes Suivi, rapports et support de l'utilisation",
+      "footer": "Planifiez un programme de bien-être avec un spécialiste"
+    },
+    "commitmentToSafety": {
+      "header": "NOTRE ENGAGEMENT EN MATIÈRE DE SÉCURITÉ",
+      "title": "Votre Confiance est Notre Priorité",
+      "body": "@Work facilite la création d'une culture de bureau appréciée des employés. Seulement 15 minutes de massage en chaise ont prouvé qu'elles réduisaient le stress tout en soulageant la douleur chronique et en améliorant le bien-être.\n\nComment ça marche ?\nChoisissez un programme hebdomadaire, mensuel ou trimestriel adapté aux besoins de votre équipe. Sélectionnez des séances de 12, 15 ou 20 minutes, pour une durée totale de l'événement en fonction du nombre de participants.\nDésignez une salle de conférence ou un autre espace calme pour que les employés profitent paisiblement des séances qu'ils réservent eux-mêmes.",
+      "footer": "Planifiez un programme de bien-être avec un spécialiste"
+    },
+    "results": {
+      "headline": "Que peut faire le massage ?",
+      "percentages": {
+        "1": {
+          "percent": "95%",
+          "description": "ont ressenti une réduction de la douleur"
+        },
+        "2": {
+          "percent": "87%",
+          "description": "ont ressenti une réduction de la douleur"
+        },
+        "3": {
+          "percent": "85%",
+          "description": "ont ressenti une réduction de la douleur"
+        }
+      },
+      "note": "Résultats réels pour les patients traités avec des massages prescrits médicalement.*"
+    },
+    "contactForm": {
+      "headline": "Concevez Votre Programme de Bien-Être pour Entreprises",
+      "description": "@Work facilite la création d'une culture de bien-être au travail. Nous travaillons avec les responsables RH, les gestionnaires de bureau et les courtiers en avantages sur des programmes qui accélèrent les affaires et conservent les talents.",
+      "fields": {
+        "firstName": "Prénom*",
+        "lastName": "Nom*",
+        "email": "Adresse e-mail professionnelle*",
+        "phone": "Numéro de téléphone*"
+      },
+      "submit": "Contactez-Nous"
+    },
+    "testimonial": {
+      "description": "Votre confiance dans Partnering a simplifié la mise en œuvre d'un programme de bien-être chez Hawke ! Nos employés apprécient le programme et expriment continuellement leur enthousiasme pour les massages en chaise.",
+      "author": " - MELISSA B. HAWKE MEDIA"
+    }
+  },
+  "bookAChair": {
+    "buildEvent": {
+      "title": "Organisez un Événement de Massage en Chaise",
+      "tabs": {
+        "numberOfParticipants": "Nombre de Participants",
+        "numberOfTherapists": "Nombre de Thérapeutes"
+      },
+      "fields": {
+        "participants": "# Participants",
+        "zipCode": "Code Postal",
+        "eventDuration": "Durée de l'Événement",
+        "options": {
+          "corporate": "Entreprise",
+          "personal": "Personnel"
+        },
+        "bookButton": "Réserver"
+      }
+    },
+    "stats": "Plus de 500 000 massages en chaise réalisés à l'échelle nationale.",
+    "chairMassageEvent": {
+      "header": "ÉVÉNEMENTS DE MASSAGE EN CHAISE",
+      "title": "Nous Apportons le Bien-Être à Vous",
+      "description": "nous apportons des massages en chaise régénérants à votre lieu de travail ou à votre événement, fournis par des thérapeutes de massage entièrement équipés, agréés, assurés et sélectionnés - à votre emplacement désigné, selon votre emploi du temps.\n\nComment fonctionne le massage en chaise ?\nConcevez Votre Événement : Choisissez parmi une variété d'options, y compris le nombre de participants ou de thérapeutes de massage, la durée, le sexe du thérapeute et le lieu. Révisez votre devis final et réservez en ligne instantanément.\nRéservez un Espace : Désignez une zone telle qu'une salle de conférence ou un autre espace avec peu de passage. Une zone de 6' x 6' est recommandée par chaise pour permettre au thérapeute de disposer de suffisamment d'espace pour effectuer les traitements. Vos fournisseurs apporteront tout l'équipement nécessaire.\nDétendez-vous : Profitez des bienfaits relaxants et stimulants que le massage ajoute à tout lieu de travail ou événement. Aucune préparation spéciale ou retrait de vêtements n'est nécessaire."
+    },
+    "planningEvent": {
+      "header": "PLANIFICATION D'UN ÉVÉNEMENT DE MASSAGE EN CHAISE",
+      "title": "Quelle est la Taille Idéale pour Votre Groupe ?",
+      "description": "Vous pouvez choisir entre des séances de 12 minutes, 15 minutes ou 20 minutes pour votre événement de massage en chaise. Cela déterminera combien de massages peuvent être fournis en fonction de la durée totale de l'événement et du nombre de participants.\n\nChaque thérapeute peut traiter 3 à 5 personnes par heure, en fonction de la durée de la séance :\n12 minutes (10 minutes de massage) = 5 personnes par heure\n15 minutes (13 minutes de massage) = 4 personnes par heure\n20 minutes (18 minutes de massage) = 3 personnes par heure\n\nCONSEIL : Les événements de 3 heures ou plus sont réservés plus rapidement et sont préférés par les thérapeutes. Vos participants apprécieront également des séances plus longues !"
+    },
+    "availability": {
+      "title": "OÙ LE MASSAGE EN CHAISE EST-IL DISPONIBLE ?",
+      "subtitle": "Dans plus de 100 villes à travers les États-Unis, y compris ces villes :",
+      "cities": [
+        "Austin",
+        "Chicago",
+        "Dallas",
+        "Denver",
+        "Houston",
+        "Los Angeles",
+        "Miami",
+        "New York",
+        "Philadelphia",
+        "San Francisco",
+        "Seattle"
+      ]
+    }
+  },
+
+  "spaStaffing": {
+    "bookOnDemand": {
+      "title": "RÉSERVATION À LA DEMANDE",
+      "description": "Réservez le jour même ou jusqu'à 30 jours à l'avance, et obtenez des rendez-vous en aussi peu qu'une heure."
+    },
+    "getBestTherapists": {
+      "title": "OBTENEZ LES MEILLEURS THÉRAPEUTES",
+      "description": "Les thérapeutes de massage sont tous licenciés, assurés et soigneusement sélectionnés. Obtenez uniquement les thérapeutes que vous souhaitez."
+    },
+    "easyBilling": {
+      "title": "FACTURATION FACILE",
+      "description": "Examinez les dossiers de transactions et les réservations passées à tout moment."
+    },
+    "bestCustomerService": {
+      "title": "SERVICE CLIENT EXCEPTIONNEL",
+      "description": "Vous bénéficiez d'un gestionnaire de compte dédié et d'un support en direct de notre équipe de service client."
+    },
+    "onSiteChairMassage": {
+      "title": "MASSAGE EN CHAISE SUR SITE",
+      "subtitle": "Créez une Meilleure Expérience au Bureau",
+      "description": "@Work facilite la création d'une culture de bureau appréciée des employés. Seulement 15 minutes de massage en chaise ont prouvé qu'elles réduisaient le stress tout en soulageant la douleur chronique et en améliorant le bien-être.\n\nComment ça marche ?\nChoisissez un programme hebdomadaire, mensuel ou trimestriel adapté aux besoins de votre équipe. Sélectionnez des séances de 12, 15 ou 20 minutes, pour une durée totale de l'événement en fonction du nombre de participants.\nDésignez une salle de conférence ou un autre espace calme pour que les employés profitent paisiblement des séances qu'ils réservent eux-mêmes.",
+      "footer": "Planifiez un programme de bien-être avec un spécialiste"
+    },
+    "testimonial": {
+      "quote": "C'est incroyable de voir à quel point cela fonctionne bien dans nos nouvelles propriétés. Pouvoir accueillir les invités est essentiel pour faire fonctionner un spa, et c'est un grand succès !",
+      "author": "- Laura Ann Pellicio, Directrice de Spa",
+      "company": "Delano Spa, Miami Beach"
+    },
+    "easyManagement": {
+      "title": "Gestion Facile des Thérapeutes",
+      "firstDescription": "Laissez-nous simplifier la gestion de vos thérapeutes disponibles pour que vous puissiez vous concentrer sur ce qui est important : faire fonctionner votre spa.",
+      "secondDescription": "Obtenir d'excellents thérapeutes lorsque vous en avez besoin est facile et simple avec @Work."
+    },
+    "form": {
+      "title": "Parlez-nous un peu de vous.",
+      "description": "Fournissez-nous un peu plus d'informations sur vous et votre spa, et un membre de notre équipe vous contactera bientôt.",
+      "fields": {
+        "firstName": "Prénom*",
+        "email": "Adresse e-mail",
+        "phone": "Numéro de téléphone (optionnel)",
+        "spaName": "Nom du SPA",
+        "zipCode": "Code Postal"
+      },
+      "submitButton": "Soumettre",
+      "confirmation": "En sélectionnant 'Soumettre', je confirme avoir lu et accepté nos Conditions d'Utilisation et notre Politique de Confidentialité."
+    }
+  },
+
+  "trustAndSafety": {
+    "header": "Confiance & Sécurité",
+    "buttonTabs": {
+      "headlinesGuidelines": "Directives sur les Titres",
+      "forConsumers": "Pour les Consommateurs",
+      "forProviders": "Pour les Fournisseurs",
+      "forBusinesses": "Pour les Entreprises",
+      "trustAndSafetyTeam": "Équipe Confiance & Sécurité"
+    },
+    "headlinesGuidelines": {
+      "introduction": {
+        "first": "Chez , notre priorité absolue a toujours été de rendre l'accès aux services de santé et de bien-être aussi fluide et sécurisé que possible.",
+        "second": "Notre équipe dédiée aux Confiance & Sécurité surveille et met constamment à jour les directives de santé et de sécurité que nous partageons avec les milliers de fournisseurs du réseau. Ces directives sont conformes aux directives fédérales, étatiques et locales concernant la prestation de services de santé et de bien-être.",
+        "third": "Les clients peuvent partager des demandes spéciales d'hygiène avant l'arrivée du fournisseur pour le rendez-vous."
+      },
+      "cleanlinessPractices": {
+        "title": "Pratiques de Propreté",
+        "description": "Les fournisseurs suivent les directives du CDC sur le lavage des mains ou l'utilisation de désinfectant pour les mains avec au moins 60 % d'alcool. Les fournisseurs respectent les meilleures pratiques de l'industrie, y compris la désinfection des équipements entre les clients et les patients.\n\nLes clients et les patients ne doivent jamais réserver un traitement à domicile si eux-mêmes ou un membre du foyer présente des symptômes de maladie."
+      }
+    },
+    "forConsumers": {
+      "introduction": "Mrs Lara a fièrement délivré des millions de rendez-vous de santé et de bien-être dans des foyers et des bureaux corporatifs à travers plus de 100 zones métropolitaines aux États-Unis.",
+      "vettedProviders": {
+        "title": "Fournisseurs Vérifiés",
+        "description": "Notre réseau de plus de 11 000 fournisseurs comprend des thérapeutes de massage, des physiothérapeutes, des infirmiers et d'autres praticiens de la santé.\n\nChaque fournisseur du réseau est assuré et soigneusement évalué. De plus, chaque fournisseur passe un processus de vérification d'identité et subit une vérification des antécédents criminels obligatoire avec une surveillance continue."
+      },
+      "bookingAndReview": {
+        "title": "Réservation et Avis des Fournisseurs",
+        "description": "Après avoir réservé un rendez-vous via , les patients et les clients reçoivent une confirmation avec le nom du fournisseur, une photo, une courte biographie, les diplômes et le numéro de licence de massage (pour les réservations de massage).\n\nNous encourageons vivement les clients et les patients à nous faire part de tout problème ou préoccupation concernant leur rendez-vous ou leur fournisseur. Contactez notre équipe de support par e-mail à help@.com ou via l'application ou le site Web. Les problèmes graves seront escaladés à notre équipe Confiance & Sécurité."
+      }
+    },
+    "forProviders": {
+      "introduction": "Mrs Lara a fièrement délivré des millions de rendez-vous de santé et de bien-être dans des foyers et des bureaux corporatifs à travers plus de 100 zones métropolitaines aux États-Unis.",
+      "verifiedClient": {
+        "title": "Clients Vérifiés",
+        "description": "Tous les clients et patients sont vérifiés, mais ne réalise pas de vérifications des antécédents sur ses clients/patients."
+      },
+      "safetyAndSupport": {
+        "title": "Sécurité et Support",
+        "description": "Les fournisseurs du réseau peuvent décliner tout rendez-vous en raison d'un problème de Confiance et Sécurité à tout moment, y compris une fois le rendez-vous commencé. Nos équipes de Support et de Confiance et Sécurité sont disponibles lorsque un fournisseur du réseau se trouve dans une maison, un hôtel ou un lieu de travail pour un rendez-vous.\n\nLes fournisseurs sont fortement encouragés à communiquer avec si'ils ont des préoccupations concernant un client ou l'environnement de travail à leur arrivée. Une fois le rendez-vous terminé, les fournisseurs sont invités à évaluer le client et l'interaction. De plus, si une préoccupation du fournisseur atteint le niveau de la sécurité, le fournisseur est fortement encouragé à signaler immédiatement le client à notre équipe Confiance & Sécurité en contactant le Support par e-mail à help@mrslara.com ou en envoyant un message via l'application Fournisseur."
+      }
+    },
+    "forBusinesses": {
+      "clientCare": {
+        "title": "Soins aux Clients",
+        "description": "Nous encourageons vivement nos clients à signaler les problèmes ou les préoccupations concernant leur rendez-vous ou leur fournisseur. Les clients peuvent contacter l'équipe de support par e-mail à help@com ou via l'application. Les questions graves sont escaladées à l'équipe Confiance & Sécurité."
+      },
+      "vettedProviders": {
+        "title": "Fournisseurs Vérifiés",
+        "description": "Notre réseau de milliers de fournisseurs comprend des thérapeutes de massage, des physiothérapeutes, des infirmiers et d'autres praticiens de la santé.\n\nChaque fournisseur du réseau est assuré et soigneusement évalué. De plus, chaque fournisseur passe un processus de vérification d'identité et subit une vérification des antécédents criminels obligatoire avec une surveillance continue."
+      }
+    },
+    "trustAndSafetyTeam": {
+      "first_text": "Notre équipe Confiance & Sécurité est un groupe d'experts, comprenant des responsables de l'application de la loi, des anciens journalistes d'investigation et des conseillers juridiques, axé sur l'utilisation des meilleures pratiques en matière de sécurité et des outils logiciels pour traiter toutes les questions de confiance et de sécurité.",
+      "second_text": "Confiance & Sécurité est disponible à tout moment pendant qu'un rendez-vous a lieu. L'équipe peut être contactée en joignant le Support par e-mail à help@zeel.com ou par chat à .com/help."
+    }
+  },
+  "bottomNav": {
+    "aboutSection": {
+      "about": "À propos",
+      "career": "Carrière",
+      "blog": "Blog",
+      "press": "Presse, Médias et Actualités",
+      "release": "Communiqué de Presse",
+      "siteMap": "Plan du Site"
+    },
+    "individualsSections": {
+      "title": "Individus",
+      "inhome": "Services à Domicile",
+      "massage": "Massage",
+      "massageForVets": "Massage pour les vétérans",
+      "massagePriceAndLocations": "Prix & Emplacements du Massage",
+      "massageMembership": "Abonnement Massage",
+      "zeelGifts": "Cadeaux Zeel",
+      "zeelStore": "Boutique Zeel",
+      "trustAndSafety": "Confiance & Sécurité",
+      "payment": "Paiement HSF/HSA"
+    },
+    "businesses": {
+      "title": "Entreprises",
+      "partners": "Solutions pour les Partenaires de Santé",
+      "workplaceWellness": "Bien-être au Travail",
+      "bookAChair": "Réserver un Événement de Massage sur Chaise",
+      "spaStafffing": "Personnel pour Spa Zeel",
+      "trustAndSafety": "Confiance & Sécurité"
+    },
+    "providers": {
+      "title": "Prestataires",
+      "workWithZeel": "Travailler avec Zeel",
+      "applyNow": "Postuler Maintenant",
+      "trustAndSafety": "Confiance & Sécurité"
+    },
+    "newsLetter": {
+      "title": "Bulletin d'information",
+      "buttonText": "S'abonner",
+      "inputPlaceholder": "Adresse e-mail ici"
+    },
+    "inHomeLocation": {
+      "title": "Emplacement de Massage à Domicile"
+    },
+    "chairMassageLocation": {
+      "title": "Emplacement de Massage sur Chaise"
+    }
+  },
+  "footer": {
+    "copyRight": "Droits d'auteur ©2024",
+    "designer": "Concepteur. Tous droits réservés",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité"
+  }
+}

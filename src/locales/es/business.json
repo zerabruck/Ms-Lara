@@ -1,0 +1,302 @@
+{
+    "navBar": {
+      "primaryNavBar": {
+        "workplace": "Bienestar en el lugar de trabajo",
+        "bookAChair": "Reserve un evento de masaje en silla",
+        "staffing": "Personal del spa",
+        "trustAndSafety": "Confianza y seguridad",
+        "bookAMassage": "Reservar un masaje"
+      },
+      "secondaryNavBar": {
+        "individuals": "Individuos",
+        "business": "Negocio",
+        "healthcare": "Socios de atención médica",
+        "providers": "Proveedores",
+        "sigin": "Iniciar sesión",
+        "signup": "Inscribirse",
+        "help": "Ayuda y contacto"
+      }
+    },
+    "workplacewellness": {
+      "intro": {
+        "headline": "Un beneficio para empleados que vence el dolor y el estrés",
+        "description": "El masaje @Work para empleados impulsa la salud física y mental de los equipos in situ, remotos e híbridos.",
+        "button": "Cree un plan de masajes para empleados"
+      },
+      "services": {
+        "1": "Elija masaje en silla, masaje en mesa o un híbrido para empleados en el sitio o remotos.",
+        "2": "Profesionales asegurados y acreditados de la Red de Proveedores viajan al sitio.",
+        "3": "Disfrute de una cómoda programación en línea, además de prácticos recordatorios por SMS para los empleados.",
+        "4": "Los precios por volumen le permiten ampliar su descuento empresarial con sesiones más frecuentes."
+      },
+      "onSiteChairMassage": "MASAJE EN SILLA EN EL LUGAR",
+      "buildABetterOffice": {
+        "title": "Cree una mejor experiencia de oficina",
+        "body": "@Work facilita la creación de una cultura de oficina que los empleados aprecian. ",
+        "footer": "Planifica un programa de bienestar con un especialista"
+      },
+      "wellnessAtHome": {
+        "title": "Bienestar en casa para su equipo de la FMH",
+        "body": "@Work facilita la creación de una cultura de oficina que los empleados aprecian. ",
+        "footer": "Planifica un programa de bienestar con un especialista"
+      },
+      "notReady": "¿No estás listo para un programa empresarial? ",
+      "enterpriseClient": {
+        "header": "Mejore la experiencia de bienestar de su equipo",
+        "title": "Soporte dedicado para sus necesidades empresariales",
+        "body": "Como cliente empresarial de @Work, nuestro objetivo es crear una experiencia de bienestar excepcional para su equipo. ",
+        "footer": "Planifica un programa de bienestar con un especialista"
+      },
+      "commitmentToSafety": {
+        "header": "NUESTRO COMPROMISO CON LA SEGURIDAD",
+        "title": "Su confianza es nuestra principal prioridad",
+        "body": "@Work facilita la creación de una cultura de oficina que los empleados aprecian. ",
+        "footer": "Planifica un programa de bienestar con un especialista"
+      },
+      "results": {
+        "headline": "¿Qué puede hacer el masaje?",
+        "percentages": {
+          "1": {
+            "percent": "95%",
+            "description": "experimentó un dolor reducido"
+          },
+          "2": {
+            "percent": "87%",
+            "description": "experimentó un dolor reducido"
+          },
+          "3": {
+            "percent": "85%",
+            "description": "experimentó un dolor reducido"
+          }
+        },
+        "note": "Resultados reales para pacientes tratados con masaje prescrito médicamente.*"
+      },
+      "contactForm": {
+        "headline": "Diseñe su programa de bienestar corporativo",
+        "description": "@Work facilita la creación de una cultura de bienestar en el trabajo. ",
+        "fields": {
+          "firstName": "Nombre de pila*",
+          "lastName": "Apellido*",
+          "email": "Dirección de correo electrónico comercial*",
+          "phone": "Número de teléfono*"
+        },
+        "submit": "Contacta con nosotros"
+      },
+      "testimonial": {
+        "description": "Your Trust is Partnering ha simplificado la implementación de un programa de bienestar en Hawke. ",
+        "author": " - MELISSA B. HAWKE MEDIOS"
+      }
+    },
+    "bookAChair": {
+      "buildEvent": {
+        "title": "Construir un evento de masaje en silla",
+        "tabs": {
+          "numberOfParticipants": "Número de participantes",
+          "numberOfTherapists": "Número de terapeutas"
+        },
+        "fields": {
+          "participants": "# Participantes",
+          "zipCode": "Incluso código postal",
+          "eventDuration": "Duración del evento",
+          "options": {
+            "corporate": "Corporativo",
+            "personal": "Personal"
+          },
+          "bookButton": "Libro"
+        }
+      },
+      "stats": "Más de 500.000 masajes en silla realizados en todo el país.",
+      "chairMassageEvent": {
+        "header": "EVENTOS DE MASAJES EN SILLA",
+        "title": "Te llevaremos el bienestar",
+        "description": "Llevamos masajes rejuvenecedores en silla a su lugar de trabajo o evento, brindados por masajistas totalmente equipados, autorizados, asegurados y examinados, en el lugar designado y según su horario.\n\n"
+      },
+      "planningEvent": {
+        "header": "PLANIFICACIÓN DE UN EVENTO DE MASAJE EN SILLA",
+        "title": "¿Cuál es el tamaño de evento perfecto para su grupo?",
+        "description": "Puede elegir entre sesiones de 12, 15 o 20 minutos para su evento de masaje en silla. "
+      },
+      "availability": {
+        "title": "¿DÓNDE ESTÁ DISPONIBLE EL MASAJE EN SILLA?",
+        "subtitle": "Está en más de 100 ciudades en los EE. UU., incluidas estas ciudades:",
+        "cities": [
+          "austin",
+          "chicago",
+          "dallas",
+          "Denver",
+          "houston",
+          "Los Ángeles",
+          "miami",
+          "ciudad de nueva york",
+          "portland",
+          "san francisco",
+          "seattle",
+          "¡y muchos más!"
+        ]
+      },
+      "corporateProgram": {
+        "title": "Diseñar un programa de bienestar corporativo",
+        "description": "¿Busca un nuevo beneficio de bienestar para su negocio? ",
+        "cta": "Obtenga más información sobre los programas de bienestar corporativo a través de:",
+        "link": "@Trabajar",
+        "contact": "Ponte en contacto con nosotros para diseñar tus programas"
+      }
+    },
+    "spaStaffing": {
+      "bookOnDemand": {
+        "title": "RESERVAR BAJO DEMANDA",
+        "description": "El mismo día o hasta con 30 días de anticipación, cumpla con las citas en tan solo una hora."
+      },
+      "getBestTherapists": {
+        "title": "CONSIGUE LOS MEJORES TERAPEUTAS DE MASAJE",
+        "description": "Todos los masajistas tienen licencia, están asegurados y están altamente seleccionados. "
+      },
+      "easyBilling": {
+        "title": "FACTURACIÓN FÁCIL",
+        "description": "Revise los registros de transacciones y reservas anteriores en cualquier momento."
+      },
+      "bestCustomerService": {
+        "title": "EL MEJOR SERVICIO AL CLIENTE DE SU CLASE",
+        "description": "Recibirá un administrador de cuenta dedicado y soporte en vivo de nuestro equipo de servicio al cliente."
+      },
+      "onSiteChairMassage": {
+        "title": "MASAJE EN SILLA EN EL LUGAR",
+        "subtitle": "Cree una mejor experiencia de oficina",
+        "description": "@Work facilita la creación de una cultura de oficina que los empleados aprecian. ",
+        "footer": "Planifica un programa de bienestar con un especialista"
+      },
+      "testimonial": {
+        "quote": "Es sorprendente ver lo bien que están funcionando nuestras nuevas propiedades. ¡Poder acomodar a los huéspedes es esencial para operar un spa y es un éxito!",
+        "author": "- Laura Ann Pellicio, directora del spa",
+        "company": "Delano Spa, Miami Beach"
+      },
+      "easyManagement": {
+        "title": "Fácil gestión de guardia",
+        "firstDescription": "Permítanos simplificar la gestión de su terapeuta de guardia para que pueda concentrarse en lo importante: administrar su spa.",
+        "secondDescription": " Conseguir excelentes terapeutas cuando los necesitas es fácil y sencillo con @Work."
+      },
+      "form": {
+        "title": "Cuéntanos un poco sobre ti.",
+        "description": "Bríndenos un poco más de información sobre usted y su spa, y un miembro de nuestro equipo se comunicará con usted pronto.",
+        "fields": {
+          "firstName": "Nombre de pila*",
+          "email": "Dirección de correo electrónico",
+          "phone": "Número de teléfono (opcional)",
+          "spaName": "Nombre del SPA",
+          "zipCode": "Código postal"
+        },
+        "submitButton": "Entregar",
+        "confirmation": "Al seleccionar \"Enviar\", confirmo que he leído y acepto nuestros Términos de uso y Política de privacidad."
+      }
+    },
+    "trustAndSafety": {
+      "header": "Confianza y seguridad",
+      "buttonTabs": {
+        "headlinesGuidelines": "Directrices para titulares",
+        "forConsumers": "Para los consumidores",
+        "forProviders": "Para proveedores",
+        "forBusinesses": "Para empresas",
+        "trustAndSafetyTeam": "Equipo de Confianza y Seguridad"
+      },
+      "headlinesGuidelines": {
+        "introduction": {
+          "first": "En , nuestra principal prioridad siempre ha sido hacer que el acceso a servicios vitales de salud y bienestar sea lo más fluido y seguro posible.",
+          "second": "Nuestro equipo dedicado de profesionales de Confianza y Seguridad monitorea y actualiza constantemente las pautas de salud y seguridad que compartimos con los miles de proveedores de la red. ",
+          "third": "Los clientes pueden compartir solicitudes especiales de higiene antes de que el proveedor llegue a la cita."
+        },
+        "cleanlinessPractices": {
+          "title": "Prácticas de limpieza",
+          "description": "Los proveedores siguen las pautas de los CDC sobre lavado de manos o uso de desinfectante para manos con al menos un 60% de contenido de alcohol. "
+        }
+      },
+      "forConsumers": {
+        "introduction": "La Sra. Lara se enorgullece de ofrecer millones de citas de salud y bienestar en hogares y oficinas corporativas en más de 100 áreas metropolitanas de EE. UU.",
+        "vettedProviders": {
+          "title": "Proveedores examinados",
+          "description": "Nuestra red de más de 11,000 proveedores incluye masajistas, fisioterapeutas, enfermeras y otros profesionales de la salud.\n\n"
+        },
+        "bookingAndReview": {
+          "title": "Reservas y reseñas de proveedores",
+          "description": "Después de reservar una cita a través de, los pacientes y clientes reciben una confirmación con el nombre de su proveedor, una foto, una breve biografía, credenciales y un número de licencia de masaje (para reservas de masajes).\n\n"
+        }
+      },
+      "forProviders": {
+        "introduction": "La Sra. Lara se enorgullece de ofrecer millones de citas de salud y bienestar en hogares y oficinas corporativas en más de 100 áreas metropolitanas de EE. UU.",
+        "verifiedClient": {
+          "title": "Clientes verificados",
+          "description": "Todos los clientes y pacientes son verificados, pero no realiza verificaciones de antecedentes de sus clientes/pacientes."
+        },
+        "safetyAndSupport": {
+          "title": "Seguridad y soporte",
+          "description": "Los proveedores de la red pueden rechazar cualquier cita por motivos de confianza y seguridad en cualquier momento, incluso una vez que la cita haya comenzado. "
+        }
+      },
+      "forBusinesses": {
+        "clientCare": {
+          "title": "Atención al cliente",
+          "description": "Recomendamos encarecidamente a nuestros clientes que informen problemas o inquietudes sobre su cita o proveedor. "
+        },
+        "vettedProviders": {
+          "title": "Proveedores examinados",
+          "description": "Nuestra red de miles de proveedores incluye masajistas, fisioterapeutas, enfermeras y otros profesionales de la salud.\n\n"
+        }
+      },
+      "trustAndSafetyTeam": {
+        "first_text": "Nuestro equipo de Confianza y Seguridad es un grupo experto de profesionales, que incluye funcionarios encargados de hacer cumplir la ley, ex periodistas de investigación y asesores legales enfocados en utilizar las mejores prácticas de seguridad y herramientas de software para abordar todos los asuntos de confianza y seguridad.",
+        "second_text": "Confianza y Seguridad está disponible en cualquier momento que se realice una cita. "
+      }
+    },
+    "bottomNav": {
+      "aboutSection": {
+        "about": "Acerca de",
+        "career": "Carrera",
+        "blog": "Blog",
+        "press": "Prensa, Medios y Noticias",
+        "release": "Presione soltar",
+        "siteMap": "Mapa del sitio"
+      },
+      "individualsSections": {
+        "title": "Individuos",
+        "inhome": "Servicios a domicilio",
+        "massage": "Masaje",
+        "massageForVets": "Masaje para veteranos",
+        "massagePriceAndLocations": "Precio y ubicaciones del masaje",
+        "massageMembership": "Membresía de masaje",
+        "zeelGifts": "Regalos zelel",
+        "zeelStore": "Tienda Zeel",
+        "trustAndSafety": "Confianza y seguridad",
+        "payment": "Pago HSF/HSA"
+      },
+      "businesses": {
+        "title": "Empresas",
+        "partners": "Soluciones para socios de atención médica",
+        "workplaceWellness": "Bienestar en el lugar de trabajo",
+        "bookAChair": "Reservar una silla Evento de Masaje",
+        "spaStafffing": "Dotación de personal del spa Zeel",
+        "trustAndSafety": "Confianza y seguridad"
+      },
+      "providers": {
+        "title": "Proveedores",
+        "workWithZeel": "Trabaja con Zeel",
+        "applyNow": "Aplicar ahora",
+        "trustAndSafety": "Confianza y seguridad"
+      },
+      "newsLetter": {
+        "title": "Hoja informativa",
+        "buttonText": "Suscribir",
+        "inputPlaceholder": "Dirección de correo electrónico aquí"
+      },
+      "inHomeLocation": {
+        "title": "Ubicación del mensaje en casa"
+      },
+      "chairMassageLocation": {
+        "title": "Ubicación del mensaje del presidente"
+      }
+    },
+    "footer": {
+      "copyRight": "Derechos de autor ©2024",
+      "designer": "diseñador. ",
+      "terms": "Términos y uso",
+      "privacy": "política de privacidad"
+    }
+  }

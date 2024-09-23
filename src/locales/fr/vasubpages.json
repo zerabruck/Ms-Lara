@@ -1,0 +1,395 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "bookAMassage": "Réserver un Massage",
+      "massageForVeterans": "Massage pour les Anciens Combattants",
+      "learnAboutMassage": "En savoir plus sur le Massage",
+      "resourceForVa": "Ressources pour les Anciens Combattants",
+      "faqs": "FAQs"
+    },
+    "secondaryNavBar": {
+      "individuals": "Particuliers",
+      "business": "Entreprises",
+      "healthcare": "Partenaires de Soins de Santé",
+      "providers": "Fournisseurs",
+      "signin": "Se Connecter",
+      "signup": "S'inscrire",
+      "help": "Aide & Contact"
+    }
+  },
+
+  "bottomNav": {
+    "links": {
+      "first": "Masáže pro veterány",
+      "second": "Informace o předepsaných lécích",
+      "third": "FAQ",
+      "fourth": "O nás"
+    },
+    "description": "©2024 Networks Inc. Všechna práva vyhrazena. poskytuje lékařské služby prostřednictvím své přidružené společnosti ZP Medical Services PC, licencované lékařské praxe. Tento obsah je výhradně informativní a nenahrazuje diagnostické nebo lékařské rady. Vždy se poraďte se svým lékařem, pokud máte otázky nebo obavy týkající se osobních nebo lékařských záležitostí. Přečtěte si naše <0>Podmínky použití</0> a <0>Ochranu soukromí</0> pro více informací.",
+    "footer": {
+      "first": "Máte doporučení na masáž? <0>Rezervujte nyní!</0>",
+      "second": "Dotazy? Zavolejte nám na <0>(929) 279-5632</0> nebo napište na <0>va@lara.com</0>."
+    }
+  },
+  "massageForVeterna": {
+    "header": {
+      "title": "Bezdrátové řešení pro bolest \n v pohodlí a komfortu domova."
+    },
+    "howItWorks": {
+      "title": "Jak funguje domácí masáž?",
+      "steps": {
+        "step1": {
+          "number": "01",
+          "title": "1. Získejte doporučení",
+          "description": "Získejte schválené doporučení od svého VA primárního poskytovatele zdravotní péče na masáže v domácím prostředí."
+        },
+        "step2": {
+          "number": "02",
+          "title": "2. Rezervujte si masáž",
+          "description": "Po obdržení doporučení obdržíte odkaz na naplánování vaší první léčby online nebo telefonicky."
+        },
+        "step3": {
+          "number": "03",
+          "title": "3. Získejte dlouhotrvající úlevu",
+          "description": "Pošleme licencovaného, pojištěného maséra na léčbu u vás doma, podle vašeho plánu."
+        }
+      }
+    },
+    "cta": "Máte již doporučení na masáž? <0> Klikněte zde a naplánujte si schůzku</0>",
+    "benefits": {
+      "title": "S lékařsky předepsanou <0>masážní terapií</0> můžete zažít úlevu od svalové a kloubní bolesti, ztuhlosti a omezení pohyblivosti a <0>dalších stavů</0>, bez léků nebo vedlejších účinků.",
+      "description": "co přináší tuto péči přímo do pohodlí a soukromí vašeho domova, jako poskytovatel v síti VA Community Care. Schůzky jsou k dispozici 365 dní v roce, takže se můžete rychle vrátit k aktivnímu, odpočatému a bezbolestnému životu."
+    },
+    "howToGetMassage": {
+      "title": "JAK ZÍSKAT MASÁŽ? Pokud váš VA primární poskytovatel zdravotní péče zjistí, že byste mohli těžit z lékařsky předepsané masážní terapie, můžete s námi, poskytovatelem v síti Community Care, prodiskutovat možnosti domácí léčby. Pokud bude doporučení schváleno, váš plán léčby je plně pokryt vašimi VA výhodami."
+    },
+    "highLightHero": {
+      "title": "Zvýraznění našich hrdinů: Plk. Thomas O'Malley",
+      "description": "82letý veterán USMC Thomas O'Malley strávil léta operacemi a užíváním léků proti bolesti kvůli zraněním utrpěným ve Vietnamu. Díky své lékařské masážní terapii byl plk. O'Malley schopen přestat užívat léky proti bolesti a znovu získat svou nezávislost a pohyblivost.",
+      "footer": "Podívejte se na video a zjistěte více o jeho příběhu uzdravení."
+    },
+    "howIsDifferent": {
+      "tabs": {
+        "first": "Jak se liší?",
+        "second": "Vaše bezpečnost je na prvním místě?",
+        "third": "Rezervace je rychlá a snadná?"
+      },
+      "howIsDifferentTab": {
+        "first": "Poskytovatelé ze sítě přicházejí přímo k vám domů, což znamená žádné cestování, žádné čekárny a žádný ztracený čas ze svého dne.",
+        "second": "Váš masér přijede na vaše místo v čase, který si zvolíte, vybaven masážním stolem a vším potřebným, připraven se zabývat vašimi specifickými obavami. To vám poskytuje větší kontrolu nad vaším prostředím a omezuje vaše cestování a riziko expozice, aniž byste obětovali kvalitu péče.\n Schůzky jsou k dispozici 365 dní v roce, stejně jako náš oceňovaný tým zákaznického servisu."
+      }
+    },
+    "testimonial": {
+      "first": {
+        "author": "DANA B. - Los Angeles, CA",
+        "body": "„Cítím se velmi bezpečně, když tyto profesionály vpouštím do svého domova. To je velká důvěra v firmu a je to nejlepší! Vždy velmi reagují a jsou úžasní.“"
+      }
+    },
+    "whereIsAvailable": {
+      "title": "Kde je k dispozici?",
+      "description": "MrsLara každý den spolupracuje s VA na rozšíření přístupu veteránů k pohodlným lékařským masážím. Naše služba je k dispozici veteránům prostřednictvím jejich VAMCs po celé Spojené státy – ve většině případů jak v domácnostech, tak v kancelářských zařízeních. Aktivně spolupracujeme s VAMCs v Kalifornii, na Floridě, v New Yorku, v Severní Karolíně, v Georgii, ve Virginii, v Louisianě, ve Washingtonu, v Arizoně, v New Hampshiru a jinde. Primární poskytovatel zdravotní péče veteránů nebo administrátor VAMC vám může poskytnout další informace o možnostech léčby krytých VA. Prozkoumejte adresář lékařských zařízení VA zde."
+    }
+  },
+  "learnAboutMassage": {
+    "header": {
+      "first": "Masáž jako medicína: Jak může zmírnit bolest a zlepšit životy",
+      "second": "Masáž udržuje tělo v kondici pro každodenní činnosti: sezení u stolu nebo v autě, hraní si s dětmi a vnoučaty, nebo práce kolem domu.",
+      "third": "Pro všechny způsoby, jakými každodenně zatěžujete své kosti, klouby a svaly, vám masáž pomůže vykonávat tyto činnosti bezpečně a bez bolesti."
+    },
+    "massageBenefit": {
+      "title": "Masážní terapie 101",
+      "description": "Masáž je obecný termín pro manuální manipulaci svalů, šlach a vazů za terapeutickým účelem. Masáž je často zaměřena na léčbu akutních a chronických bolestí, včetně bolesti v dolní části zad, bolesti kolen, osteoartritidy, bolesti krku a ramen a migrén. Je také užitečná pro obnovu po aktivitě nebo zranění, PTSD a neurologických stavů, jako je fibromyalgie. Studie Národního institutu zdraví (NIH) Centrum pro komplementární a alternativní medicínu zjistila, že jedna masáž může účinně snížit hladiny kortizolu (hormon stresu), zvýšit hladiny bílých krvinek a zlepšit hladiny oxytocinu, hormonu, který zlepšuje náladu a snižuje stres."
+    },
+    "conditionsApplied": {
+      "title": "Jaké podmínky mohou být masáží pomáhány?",
+      "tabs": {
+        "first": "Musculoskeletal Conditions",
+        "second": "Cardiovascular Conditions",
+        "third": "Psychological & Sleep Disorders"
+      },
+      "firstTab": {
+        "mskPain": {
+          "title": "MSK Pain",
+          "firstDescription": "Musculoskeletální (MSK) bolest – bolest, která ovlivňuje svaly, klouby, vazy, šlachy a kosti – je častým problémem u mnoha veteránů. Pravidelná masážní terapie může pomoci zlepšit rozsah pohybu, snížit bolest a otoky, a podporovat hojení po úrazech nebo chirurgických zákrocích.",
+          "secondDescription": "Některé příklady: * Bolest v dolní části zad (LBP) * Bolesti kolen * Osteoartritida (OA) * Bolesti krku a ramen * Bolesti hlavy/migrény"
+        },
+        "cardio": {
+          "title": "Cardiovascular Conditions",
+          "firstDescription": "Zdravotní problémy spojené s kardiovaskulárním systémem, jako jsou hypertenze a srdeční onemocnění, mohou být podporovány masáží. Zlepšení oběhu může přispět k lepší regenerační schopnosti a ke snížení symptomů spojených s těmito podmínkami.",
+          "secondDescription": "Některé příklady: * Hypertenze (vysoký krevní tlak) * Srdeční onemocnění * Zdraví žil"
+        },
+        "psych": {
+          "title": "Psychological & Sleep Disorders",
+          "firstDescription": "Masáž může pomoci s psychickými a spánkovými poruchami, včetně posttraumatického stresového syndromu (PTSD) a nespavosti, které jsou často viděny u veteránů. Pomáhá zlepšit spánek, snižovat úzkost a podporovat celkovou pohodu.",
+          "secondDescription": "Některé příklady: * PTSD * Nespavost (insomnie) * Úzkost * Deprese"
+        }
+      }
+    },
+    "haveAQuestion": "Avez-vous des questions sur l'efficacité de la massothérapie pour vous ou vos patients? Contactez-nous au <0>877-GET-</0> pour parler avec un expert de la massothérapie dans le cadre d'une stratégie de soins cliniques intégratifs."
+  },
+  "resourceForVs": {
+    "header": "Masáž jako medicína: Jak může zmírnit bolest a zlepšit životy",
+    "vaAndBeyond": {
+      "header": "Zdroje od VA a mimo ni",
+      "first": {
+        "header": "Výhody pro duševní zdraví",
+        "description": "Řešení bolesti prostřednictvím mysli: Kognitivně-behaviorální terapie pro chronickou bolest (CBT-CP) poskytuje strategický, problémově orientovaný přístup, který umožňuje jednotlivcům změnit jejich zkušenost s bolestí, fyzicky i emocionálně.",
+        "footer": "Zjistěte více o CBT a pokrytí VA >>"
+      },
+      "second": {
+        "header": "Věda o masážích",
+        "description": "VHA citovala „důkazy s vysokou důvěrou“, že masážní terapie je velmi účinná při zvládání různých bolestivých stavů. Prozkoumejte výzkum, politiky a léčebné pokyny VA týkající se",
+        "footer": "masážní terapie na VA gov >>"
+      },
+      "third": {
+        "header": "Z našeho blogu",
+        "description": "Snažíte se dobře spát? Existuje rostoucí množství důkazů o tom, jak starověká praxe jógy – která kombinuje pohyb, meditaci a dechová cvičení – může pomoci těm, kteří trpí poruchami spánku.",
+        "footer": "Zjistěte, jak používat jógu pro lepší spánek >>"
+      }
+    },
+    "urgent": {
+      "header": "URGENTNĚ: Pomozte chránit platové sazby pro masážní terapeuty VHA!",
+      "description": "Masážní terapeuti poskytují cennou terapii pro bolest, ale VA snížila pro tento léčebný postup úhrady poskytovatelům. Pokud vám lékařská masáž pomohla, přidejte svůj hlas k petici, která žádá Kongres o podporu zlepšení plateb pro lékařskou masáž tím, že odešlete SMS „VET“ na 50409.",
+      "footer": "Zjistit více"
+    },
+    "newsAndUpdates": {
+      "header": "Novinky a aktuality",
+      "news": {
+        "first": {
+          "description": "Členka Výboru pro záležitosti veteránů Sněmovny reprezentantů, Rep. Chris Pappas (D-NH) požádala ministra VA McDonougha, aby zvrátil rozhodnutí VA o snížení sazeb za masážní terapii, přičemž řekla: „Toto rozhodnutí má dalekosáhlé důsledky, negativně ovlivňuje pohodu veteránů, poskytovatele, majitele malých podniků a celkovou účinnost našeho zdravotnického systému.“",
+          "link": "Zjistit více »"
+        },
+        "second": {
+          "description": "Američtí senátoři žádají aktualizaci možností neopioidního řízení bolesti pro veterány: Senátor Kevin Cramer z Dakoty se připojil k 21 dalším senátorům v žádosti o aktualizaci od ministra VA McDonougha o pokroku, který VA učinila při vývoji neopioidních programů řízení bolesti s cílem předejít závislosti a zneužívání v komunitě veteránů.",
+          "link": "Zjistit více a přečíst dopis »"
+        },
+        "third": {
+          "description": "Máte otázku pro ministra VA McDonougha? Pošlete ji k zvážení pro virtuální městskou radu veteránů s ministrem McDonoughem 15. května!",
+          "link": "Pošlete svou otázku zde."
+        },
+        "fourth": {
+          "description": "Výsledky klinických studií nadále ukazují účinnost masážní terapie pro řadu stavů, které ovlivňují veterány, včetně chronické bolesti, úzkosti a PTSD.",
+          "link": "Zjistit více »"
+        },
+        "fifth": {
+          "description": "Klobouk dolů před tímto texaským klinickým centrem specializujícím se na péči o veterány s stejným zaměřením, jaké máme my: Používání masáže ke zlepšení kvality života a zároveň ke snížení závislosti na opioidech a chirurgii.",
+          "link": "Zjistit více o Tranquility for Troops »"
+        },
+        "sixth": {
+          "description": "Rozšíření zákona PACT na rok 2024 rozšiřuje nárok na výhody pro péči o toxické expozice na veterány z války ve Vietnamu, války v Zálivu a po nasazení po 11. září. Co to znamená pro vás?",
+          "link": "Zjistit na va.gov »"
+        }
+      }
+    },
+    "video": {
+      "header": "Video: Mindfulness pro chronickou bolest",
+      "description": "Mnohé studie ukázaly, že mindfulness nabízí mnoho výhod pro duševní a fyzické zdraví. Pro trpící chronickou bolestí může být dlouhodobá praxe mindfulness klíčovým komponentem řízení bolesti tím, že zlepšuje funkce jako spánek a dýchání; zvyšuje přijetí bolestivého stavu; a snižuje úzkost, depresi a fyzické napětí. Toto řízené meditace je specificky navržena pro zvládání chronické bolesti tím, že vám pomůže uklidnit mysl a převzít emocionální kontrolu nad zkušeností s bolestí.",
+      "footer": "Prozkoumat více řízených meditací »"
+    },
+    "featured": {
+      "header": "Vyzdvihovaný zdroj: Rx3",
+      "description": "Rx3 je série online stretchingových a cvičebních programů navržených tak, aby pomohly členům služby a veteránům zotavit se z MSK zranění, zlepšit kondici a zlepšit celkové zdraví. Vyberte si jeden z 11 programů zaměřených na problémy jako bolest zad, posílení jádra, zranění kyčlí, zlepšení rovnováhy a další. K dispozici je dokonce aplikace, která vám pomůže sledovat váš pokrok! Díky <0>Human Performance Resources od CHAMP</0>",
+      "footer": "Pokračujte v zotavení s Rx3 »"
+    }
+  },
+  "faqs": {
+    "header": "Questions Fréquemment Posées",
+    "generalMassage": {
+      "header": "Questions Générales sur le Massage",
+      "first": {
+        "title": "Qu'est-ce qu'un massage ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "second": {
+        "title": "Comment fonctionne le massage ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "third": {
+        "title": "Les massages sont-ils douloureux ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "fourth": {
+        "title": "Quel type de conditions peut être aidé par le massage ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "fifth": {
+        "title": "Quels types de massages existe-t-il ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      }
+    },
+    "inHomeMassage": {
+      "header": "Massage à Domicile de Mme Lara",
+      "first": {
+        "title": "Qu'est-ce que Mme Lara ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "second": {
+        "title": "Où le massage à domicile est-il disponible ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "third": {
+        "title": "Pourquoi devrais-je faire confiance à Mme Lara ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "fourth": {
+        "title": "Qui sont les thérapeutes dans le réseau ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "fifth": {
+        "title": "Puis-je choisir mon thérapeute ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "sixth": {
+        "title": "Quels jours et à quelles heures les massages sont-ils disponibles chez Mme Lara ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "seventh": {
+        "title": "Comment préparer ma maison pour un massage ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      }
+    },
+    "bookingQuestions": {
+      "header": "Réservation sur va.MrsLara.com",
+      "first": {
+        "title": "Dois-je utiliser le site web pour réserver des rendez-vous de massage ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "second": {
+        "title": "Puis-je utiliser l'application pour planifier mon massage ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "third": {
+        "title": "Est-ce que quelqu'un peut planifier un massage pour moi en mon nom ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "fourth": {
+        "title": "Combien de temps à l'avance dois-je planifier un massage avec Mme Lara ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "fifth": {
+        "title": "Comment choisir un horaire de rendez-vous ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "sixth": {
+        "title": "Comment ajouter des notes supplémentaires sur mon rendez-vous ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      }
+    },
+    "referralQuestions": {
+      "header": "Références VA",
+      "first": {
+        "title": "Comment obtenir une référence de la VA ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "second": {
+        "title": "Combien de temps faut-il pour réserver un massage avec Mme Lara une fois que j'ai une référence ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "third": {
+        "title": "Combien de temps durent les massages que je peux obtenir avec ma référence VA ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "fourth": {
+        "title": "Combien de massages puis-je obtenir avec ma référence VA ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      },
+      "fifth": {
+        "title": "Puis-je voir le même thérapeute pour tous mes massages ?",
+        "questions": [
+          "Qui sont les thérapeutes qui offrent le massage sur chaise de Mme Lara ?",
+          "Pourquoi Mme Lara inclut-elle un pourboire automatique de 18 % pour les thérapeutes de massage ?",
+          "Puis-je utiliser ma couverture santé pour payer mon massage ?"
+        ]
+      }
+    },
+    "cta": "Vous ne trouvez pas les réponses dont vous avez besoin ? Si vous avez besoin de plus d'informations sur le massage à domicile ou vos avantages de massage VA, vous pouvez nous contacter par téléphone au <0>877-GET-</0> ou par e-mail à va@."
+  }
+}

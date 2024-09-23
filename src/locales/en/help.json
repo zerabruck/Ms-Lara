@@ -1,0 +1,97 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "inhomeService": "In-Home Service",
+      "store": "Store",
+      "blog": "blog",
+      "trustAndSafety": "Trust & Safety",
+      "bookAMassage": "Book a Massage",
+      "dropDowns": {
+        "massage": "Massage",
+        "massageForVeterans": "Massage for Veterans",
+        "massageMembership": "Massage Membership",
+        "gifts": "Mrs. Lara Gifts",
+        "referral": "Referral"
+      }
+    },
+    "secondaryNavBar": {
+      "individuals": "Individuals",
+      "business": "Business",
+      "healthcare": "Healthcare Partners",
+      "providers": "Providers",
+      "sigin": "Sign in",
+      "signup": "Sign up",
+      "help": "Help & contact"
+    }
+  },
+  "focalPoint": {
+    "title": "How can we help?",
+    "inputPlaceholder": "e.g: How do I cancel my appointment"
+  },
+  "tabs": {
+    "consumers": {
+      "tabButtonText": "For Consumers",
+      "dropdowns": {
+        "inhome": {
+          "header": "In-Home Massage",
+          "questions": {
+            "first": "How do I pay for Mrs Lara massage with an HSA/FSA account?",
+            "second": "Who are the therapists providing Mrs Lara chair massage?",
+            "third": "Why can't Mrs Lara verify my identity?",
+            "fourth": "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+            "fifth": "Why does Mrs Lara need to verify my identity?",
+            "sixth": "Can I use my health insurance to pay for my massage?"
+          }
+        },
+        "membership": {
+          "header": "Mrs Lara Membership",
+          "questions": {
+            "first": "Where is the Mrs Lara membership plan available?",
+            "second": "What should I wear for an assisted stretch session?",
+            "third": "What is Mrs Lara membership?",
+            "fourth": "How should I prepare for an assisted stretch session?",
+            "fifth": "Why should I become a Mrs Lara member?",
+            "sixth": "Should I stretch before or after a workout?"
+          }
+        },
+        "repeatBookings": {
+          "header": "Repeat Bookings",
+          "questions": {
+            "first": "How do I book the same massage therapist again?"
+          }
+        },
+        "inhomeStretching": {
+          "header": "In-Home Stretching",
+          "questions": {
+            "first": "What are METs?",
+            "second": "Who are the stretch pros working with Mrs Lara?",
+            "third": "Where are Mrs Lara assisted stretch sessions performed?"
+          }
+        },
+        "trustAndSafety": {
+          "header": "Trust & Safety for Customers",
+          "questions": {
+            "first": "Does Mrs Lara have requirements for the providers in the Mrs Lara network?",
+            "second": "Can I prevent a specific provider from being booked on my appointment if I don't want to see them again?",
+            "third": "How do I report a problem or negative experience with a provider?"
+          }
+        },
+        "covidTesting": {
+          "header": "PCR/Covid Testing",
+          "questions": {
+            "first": "If I believe I was exposed to Covid-19, how soon should I be tested?"
+          }
+        }
+      }
+    },
+    "business": {
+      "tabButtonText": "For Business"
+    }
+  },
+  "footer": {
+    "copyRight": "Copyrights ©2024",
+    "designer": "designer. All Rights Reserved",
+    "terms": "Terms and Use",
+    "privacy": "Privacy Policy"
+  }
+}

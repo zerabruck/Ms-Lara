@@ -1,0 +1,316 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "inhomeService": "Service à domicile",
+      "store": "Magasin",
+      "blog": "Blog",
+      "trustAndSafety": "Confiance & Sécurité",
+      "bookAMassage": "Réserver un massage",
+      "dropDowns": {
+        "massage": "Massage",
+        "massageForVeterans": "Massage pour les anciens combattants",
+        "massageMembership": "Abonnement Massage",
+        "gifts": "Cadeaux Mme Lara",
+        "referral": "Parrainage"
+      }
+    },
+    "secondaryNavBar": {
+      "individuals": "Individus",
+      "business": "Entreprise",
+      "healthcare": "Partenaires de santé",
+      "providers": "Fournisseurs",
+      "sigin": "Se connecter",
+      "signup": "S'inscrire",
+      "help": "Aide & Contact"
+    }
+  },
+  "landingPage": {
+    "focalPoint": {
+      "header": "Thérapie de Massage Qui Vient à Vous",
+      "secondaryHeader": "Thérapie de massage dans le confort de votre maison ou de votre lieu de travail, pour le soulagement de la douleur, la gestion du stress et le bien-être.",
+      "veteransMessage": "Vétérans : obtenez un massage médical grâce à vos avantages VA",
+      "inputButton": {
+        "text": "Réserver un Massage"
+      },
+      "cards": {
+        "first": {
+          "title": "Réservation Rapide et Personnalisée",
+          "body": "Choisissez le type de massage, le sexe de votre thérapeute, et un horaire pratique."
+        },
+        "second": {
+          "title": "Prestataires Sélectionnés",
+          "body": "Les thérapeutes sont licenciés, assurés et entièrement équipés pour chaque rendez-vous."
+        },
+        "third": {
+          "title": "Éligible HSA/FSA",
+          "body": "Utilisez vos fonds fiscalement avantageux pour payer la thérapie de massage à domicile."
+        }
+      }
+    },
+    "militartVeteranSection": {
+      "header": "Êtes-vous un Vétéran Militaire Américain?",
+      "description": "La thérapie de massage à domicile de Mrs Lara est maintenant un avantage VA entièrement couvert—GRATUIT pour les membres VA... En Savoir Plus"
+    },
+    "scallableSolutionSection": {
+      "header": "Solutions de Massage Scalables pour les Entreprises & les Soins de Santé",
+      "cards": {
+        "first": {
+          "title": "Employeurs",
+          "body": "Solutions de Massage Scalables pour les Entreprises & les Soins de Santé"
+        },
+        "second": {
+          "title": "Spas & Hôtels",
+          "body": "Personnel de massothérapeutes pour aider les spas à générer plus de revenus, plus efficacement."
+        },
+        "third": {
+          "title": "Plans de Santé",
+          "body": "Thérapie de massage scientifiquement prouvée comme une option économique pour les membres."
+        }
+      }
+    },
+    "howZeelIsDifferent": {
+      "header": "Comment Mrs Lara Est Différente?",
+      "tabs": {
+        "buttons": {
+          "first": "Mrs Lara vient à vous – toujours",
+          "second": "Planification facile via l'application",
+          "third": "Votre sécurité est primordiale"
+        },
+        "content": {
+          "paragraphs": {
+            "first": "Les prestataires du réseau Zeel se déplacent directement chez vous ou sur votre lieu de travail, afin que vous puissiez profiter d'une expérience plus sûre, plus pratique et plus gratifiante.",
+            "second": "Votre prestataire vient chez vous à l'heure de votre choix – et vous profiterez davantage de chaque service lorsque vous n'aurez pas à prendre la voiture, trouver une nounou ou quitter le confort et la sécurité de votre domicile ou de votre travail. Zeel vous redonne votre temps, avec une tranquillité d'esprit accrue."
+          }
+        }
+      }
+    },
+    "fastAndEasyBookingSection": {
+      "header": "Réservation rapide et facile à portée de main",
+      "listItems": {
+        "first": "Technologie sécurisée et facile à utiliser qui met votre soin entre vos mains",
+        "second": "Réservation facile via l'application et le web qui vous connecte à vos prestataires",
+        "third": "Propulsé par l'automatisation basée sur la technologie, avec support par chat, rappels de rendez-vous et notes SOAP",
+        "fourth": "Conforme à la norme HIPAA et conçu pour un remboursement tiers transparent"
+      }
+    },
+    "joinTheNetworkSection": {
+      "header": "Rejoignez le Réseau de Prestataires Mrs Lara",
+      "body": "Apportez votre expertise au réseau le plus fiable de professionnels de la santé à domicile. Postulez Maintenant"
+    },
+    "meetProvidersSection": {
+      "header": "Rencontrez Vos Prestataires",
+      "providers": {
+        "firstProvider": {
+          "name": "Jean-Pierre DeBarros",
+          "credentials": "MASSOTHÉRAPEUTE AGRÉÉ, MIAMI FL",
+          "description": {
+            "paragraphs": {
+              "first": "Jean-Pierre a commencé sa carrière dans les soins de santé en tant que physiologiste de l'exercice avant d'entrer dans l'Air Force, où il a géré la plus grande clinique de soins de santé à la base aérienne d'Andrews. Jean-Pierre est titulaire d'un BS en physiologie de l'exercice et d'une MS en administration des soins de santé.",
+              "second": "“Je me suis lancé dans le massage pour pouvoir travailler directement avec les patients sur leurs blessures, douleurs et autres affections réduisant leur qualité de vie. Le massage fait partie d'une continuité de soins pratiques - et peut faire une énorme différence dans le bien-être à long terme des gens.”"
+            }
+          }
+        }
+      }
+    },
+    "militaryProviders": {
+      "header": "DANS LES NOUVELLES",
+      "title": "Zeel Connecte les Massothérapeutes aux Vétérans",
+      "body": "MASSAGE Magazine : Le programme de thérapie de massage VA de Zeel est sorti de sa phase pilote avec des chiffres impressionnants liés au soulagement de la douleur et à la conformité. 'Rien n'a fait ce que le massage a fait pour moi, c'est incroyable,' a déclaré Donald Deleskiewicz, vétéran du Corps des Marines.",
+      "footer": "En savoir plus sur Massage Magazine"
+    },
+    "needReliefSection": {
+      "header": "Besoin de soulagement maintenant? Réservez votre massage à domicile en quelques clics.",
+      "buttonText": "Réserver un Massage à Domicile"
+    }
+  },
+  "storePage": {
+    "callToActionSection": {
+      "title": "Magasin",
+      "body": "Chez Zeel, nous croyons au bien-être holistique. Notre magasin propose une sélection soigneusement organisée de nos produits préférés, testés.",
+      "buttonText": "Réserver Maintenant"
+    },
+    "whyTrustUsSection": {
+      "body": "Nous recherchons les meilleurs produits et partenariats pour vous offrir le meilleur du bien-être intégratif. Notre partenaire inaugural, Hyperice, est le leader de la technologie de massage par percussion. Ensemble, nous pouvons améliorer le mouvement de votre corps sur la table de massage ou sur le tapis d'étirement et au-delà."
+    },
+    "products": {
+      "title": "Produits"
+    }
+  },
+  "trustAndSafety": {
+    "title": "Confiance & Sécurité",
+    "tabs": {
+      "headlines": {
+        "tabButtonText": "Titres Directives",
+        "sections": {
+          "firstSecond": {
+            "paragraphs": {
+              "firstParagraph": "Notre priorité absolue a toujours été de rendre l'accès aux services de santé et de bien-être vitaux aussi transparent et sûr que possible.",
+              "secondParagraph": "Notre équipe dédiée de professionnels de la Confiance & Sécurité surveille et met constamment à jour les directives de santé et de sécurité que nous partageons avec les milliers de prestataires du réseau. Ces directives sont conformes aux directives fédérales, étatiques et locales concernant la prestation de services de santé et de bien-être.",
+              "thirdParagraph": "Les clients peuvent partager des demandes d'hygiène particulières avant l'arrivée du prestataire pour le rendez-vous."
+            }
+          },
+          "secondSecond": {
+            "title": "Pratiques de Propreté",
+            "paragraphs": {
+              "firstParagraph": "Les prestataires suivent les directives du CDC sur le lavage des mains ou l'utilisation de désinfectant pour les mains avec une teneur en alcool d'au moins 60 %. Les prestataires adhèrent aux meilleures pratiques de l'industrie, y compris la désinfection de l'équipement entre les clients et les patients.",
+              "secondParagraph": "Les clients et les patients ne doivent jamais réserver un traitement à domicile s'ils ou un membre de leur foyer présentent des symptômes de maladie."
+            }
+          }
+        }
+      },
+      "consumers": {
+        "tabButtonText": "Pour les Consommateurs",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "Nous avons fièrement livré des millions de rendez-vous de santé et de bien-être dans des maisons et des bureaux d'entreprise dans plus de 100 zones métropolitaines aux États-Unis."
+            }
+          },
+          "secondSection": {
+            "title": "Prestataires Sélectionnés",
+            "paragraphs": {
+              "firstParagraph": "Notre réseau de plus de 11 000 prestataires comprend des massothérapeutes, des physiothérapeutes, des infirmières et d'autres praticiens de santé et de bien-être. Pour devenir un prestataire du réseau Mrs Lara, un prestataire doit répondre à toutes les exigences fédérales, étatiques et locales, y compris les certifications, les licences et les assurances.",
+              "secondParagraph": "Les prestataires du réseau sont vérifiés par une série de vérifications des antécédents nationaux. L'équipe Mrs Lara vérifie que chaque prestataire est en règle avec les autorités de régulation nationales et étatiques avant de rejoindre le réseau Mrs Lara."
+            }
+          },
+          "thirdSection": {
+            "title": "Protection de l'Identité",
+            "paragraphs": {
+              "firstParagraph": "Les numéros de téléphone et adresses e-mail des prestataires sont masqués lors des échanges avec les clients, de sorte que votre identité reste protégée tout au long de votre rendez-vous. Les prestataires du réseau Mrs Lara se connectent avec vous uniquement par le biais de la plateforme Mrs Lara. Une fois votre rendez-vous terminé, nous conservons les notes SOAP de votre rendez-vous en toute sécurité sur la plateforme Mrs Lara pour un accès facile aux informations du rendez-vous à une date ultérieure."
+            }
+          },
+          "fourthSection": {
+            "title": "Leaders de la Technologie de Santé",
+            "paragraphs": {
+              "firstParagraph": "Nous améliorons constamment notre sécurité numérique pour protéger les informations d'identification personnelles de nos clients et prestataires."
+            }
+          },
+          "fifthSection": {
+            "title": "Conformité HIPAA",
+            "paragraphs": {
+              "firstParagraph": "Notre plateforme est conforme à la loi HIPAA. Cela signifie que nous suivons toutes les meilleures pratiques dans le domaine pour garantir la sécurité de vos informations de santé à tout moment."
+            }
+          }
+        }
+      },
+      "providers": {
+        "tabButtonText": "Pour les Prestataires",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "Nous avons fièrement livré des millions de rendez-vous de santé et de bien-être dans des maisons et des bureaux d'entreprise dans plus de 100 zones métropolitaines aux États-Unis."
+            }
+          },
+          "secondSection": {
+            "title": "Prestataires Sélectionnés",
+            "paragraphs": {
+              "firstParagraph": "Notre réseau de plus de 11 000 prestataires comprend des massothérapeutes, des physiothérapeutes, des infirmières et d'autres praticiens de santé et de bien-être. Pour devenir un prestataire du réseau Mrs Lara, un prestataire doit répondre à toutes les exigences fédérales, étatiques et locales, y compris les certifications, les licences et les assurances.",
+              "secondParagraph": "Les prestataires du réseau sont vérifiés par une série de vérifications des antécédents nationaux. L'équipe Mrs Lara vérifie que chaque prestataire est en règle avec les autorités de régulation nationales et étatiques avant de rejoindre le réseau Mrs Lara."
+            }
+          },
+          "thirdSection": {
+            "title": "Protection de l'Identité",
+            "paragraphs": {
+              "firstParagraph": "Les numéros de téléphone et adresses e-mail des prestataires sont masqués lors des échanges avec les clients, de sorte que votre identité reste protégée tout au long de votre rendez-vous. Les prestataires du réseau Mrs Lara se connectent avec vous uniquement par le biais de la plateforme Mrs Lara. Une fois votre rendez-vous terminé, nous conservons les notes SOAP de votre rendez-vous en toute sécurité sur la plateforme Mrs Lara pour un accès facile aux informations du rendez-vous à une date ultérieure."
+            }
+          },
+          "fourthSection": {
+            "title": "Leaders de la Technologie de Santé",
+            "paragraphs": {
+              "firstParagraph": "Nous améliorons constamment notre sécurité numérique pour protéger les informations d'identification personnelles de nos clients et prestataires."
+            }
+          },
+          "fifthSection": {
+            "title": "Conformité HIPAA",
+            "paragraphs": {
+              "firstParagraph": "Notre plateforme est conforme à la loi HIPAA. Cela signifie que nous suivons toutes les meilleures pratiques dans le domaine pour garantir la sécurité de vos informations de santé à tout moment."
+            }
+          }
+        }
+      },
+      "businesses": {
+        "tabButtonText": "Pour les entreprises",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "Nous avons fièrement délivré des millions de rendez-vous en santé et bien-être dans des foyers et bureaux d'entreprise dans plus de 100 zones métropolitaines aux États-Unis."
+            }
+          },
+          "secondSection": {
+            "title": "Prestataires vérifiés",
+            "paragraphs": {
+              "firstParagraph": "Notre réseau de plus de 11 000 prestataires comprend des massothérapeutes, des physiothérapeutes, des infirmières et d'autres praticiens de la santé.",
+              "secondParagraph": "Chaque prestataire du réseau est assuré et évalué de manière approfondie. De plus, chacun passe un processus de vérification d'identité et subit une vérification criminelle obligatoire avec un suivi continu."
+            }
+          },
+          "thirdSection": {
+            "title": "Soin aux clients",
+            "paragraphs": {
+              "firstParagraph": "Nous encourageons vivement nos clients à signaler tout problème ou préoccupation concernant leur rendez-vous ou leur prestataire. Les clients peuvent contacter l'équipe de Support par e-mail à help@lara.com ou via l'application. Les questions graves sont escaladées à l'équipe de Confiance & Sécurité."
+            }
+          }
+        }
+      },
+      "trustAndSafetyTeam": {
+        "tabButtonText": "Équipe Confiance & Sécurité",
+        "paragraphs": {
+          "firstParagraph": "Notre équipe Confiance & Sécurité est un groupe d'experts, comprenant des responsables de la police, d'anciens journalistes d'investigation et des conseillers juridiques, axés sur l'utilisation des meilleures pratiques de sécurité et des outils logiciels pour traiter toutes les questions de confiance et de sécurité.",
+          "secondParagraph": "Confiance & Sécurité est disponible à tout moment lors d'un rendez-vous. L'équipe peut être contactée en envoyant un e-mail à Support à help@lara.com ou via le chat sur lara.com/help."
+        }
+      }
+    }
+  },
+  "bottomNav": {
+    "aboutSection": {
+      "about": "À propos",
+      "career": "Carrière",
+      "blog": "Blog",
+      "press": "Presse, Médias et Actualités",
+      "release": "Communiqué de Presse",
+      "siteMap": "Plan du Site"
+    },
+    "individualsSections": {
+      "title": "Individus",
+      "inhome": "Services à Domicile",
+      "massage": "Massage",
+      "massageForVets": "Massage pour les vétérans",
+      "massagePriceAndLocations": "Prix & Emplacements du Massage",
+      "massageMembership": "Abonnement Massage",
+      "zeelGifts": "Cadeaux Zeel",
+      "zeelStore": "Boutique Zeel",
+      "trustAndSafety": "Confiance & Sécurité",
+      "payment": "Paiement HSF/HSA"
+    },
+    "businesses": {
+      "title": "Entreprises",
+      "partners": "Solutions pour les Partenaires de Santé",
+      "workplaceWellness": "Bien-être au Travail",
+      "bookAChair": "Réserver un Événement de Massage sur Chaise",
+      "spaStafffing": "Personnel pour Spa Zeel",
+      "trustAndSafety": "Confiance & Sécurité"
+    },
+    "providers": {
+      "title": "Prestataires",
+      "workWithZeel": "Travailler avec Zeel",
+      "applyNow": "Postuler Maintenant",
+      "trustAndSafety": "Confiance & Sécurité"
+    },
+    "newsLetter": {
+      "title": "Bulletin d'information",
+      "buttonText": "S'abonner",
+      "inputPlaceholder": "Adresse e-mail ici"
+    },
+    "inHomeLocation": {
+      "title": "Emplacement de Massage à Domicile"
+    },
+    "chairMassageLocation": {
+      "title": "Emplacement de Massage sur Chaise"
+    }
+  },
+  "footer": {
+    "copyRight": "Droits d'auteur ©2024",
+    "designer": "Concepteur. Tous droits réservés",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité"
+  }
+}

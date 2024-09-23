@@ -1,0 +1,390 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "bookAMassage": "Book a Massage",
+      "massageForVeterans": "Massage for Veterans",
+      "learnAboutMassage": "Learn about Massage",
+      "resourceForVa": "Resources of Veterans",
+      "faqs": "FAQS"
+    },
+    "secondaryNavBar": {
+      "individuals": "Individuals",
+      "business": "Business",
+      "healthcare": "Healthcare Partners",
+      "providers": "Providers",
+      "sigin": "Sign in",
+      "signup": "Sign up",
+      "help": "Help & contact"
+    }
+  },
+  "bottomNav": {
+    "links": {
+      "first": "Massage for Veterans",
+      "second": "Prescriber Info",
+      "third": "FAQ",
+      "fourth": "About"
+    },
+    "description": "©2024 Networks Inc. All rights reserved. delivers medical services through its affiliate ZP Medical Services PC, a licensed medical practice. This content is solely for informational purposes and does not substitute for diagnostic or medical advice. Always consult your physician if you have questions or concerns of a personal, medical nature. Please read our <0>Terms of Use</0> and <0>Privacy Policy</0> for moreinformation.",
+    "footer": {
+      "first": "Have a referral for a massage?<0>Schedule now!</0>",
+      "second": " Questions? Call us at <0>(929) 279-5632</0> or email <0>va@lara.com</0>."
+    }
+  },
+  "massageForVeterna": {
+    "header": {
+      "title": "A drug-free solution for pain \n management in the convenience \n and comfort of home."
+    },
+    "howItWorks": {
+      "title": "How Does In-Home Massage Work?",
+      "steps": {
+        "step1": {
+          "number": "01",
+          "title": "1. Get a Referral",
+          "description": "Receive an approved referral from your VA Primary Care Provider for massage therapy at home."
+        },
+        "step2": {
+          "number": "02",
+          "title": "2. Book Your Massage",
+          "description": "Once receives the referral you’ll get a link to schedule your first treatment online or by phone."
+        },
+        "step3": {
+          "number": "03",
+          "title": "3. Get Lasting Relief",
+          "description": "will send a licensed, insured massage therapist for treatment in your home, on your schedule."
+        }
+      }
+    },
+    "cta": "Do you already have a referral for massage? <0> Click here to schedule your appointment</0>",
+    "benefits": {
+      "title": "With medically prescribed <0>massage therapy</0>, you can experience relief from muscle and joint pain, stiffness and mobility limitations, and <0>other conditions</0>, without drugs or side effects.",
+      "description": "what brings that care directly to the comfort and privacy of your home, as a provider in the VA Community Care Network. Appointments are available 365 days a year, so you can get back to being active, rested, and pain-free sooner."
+    },
+    "howToGetMassage": {
+      "title": "HOW DO I GET A MASSAGE? If your VA Primary Care Provider determines that you could benefit from medically prescribed massage therapy, you can discuss in-home treatment options with us, a Community Care Network provider. If the referral is approved, your treatment plan is covered in full by your VA benefits."
+    },
+    "highLightHero": {
+      "title": "Highlighting Our Heroes: Col. Thomas O'Malley",
+      "description": "82-year-old USMC Veteran Thomas O'Malley, spent years undergoing surgeries and taking prescription painkillers for the pain from injuries sustained in Vietnam. Thanks to his medical massage therapy, Col. O'Malley has been able to quit pain medications and regain his independence and mobility.",
+      "footer": "Watch the video to learn about his recovery story."
+    },
+    "howIsDifferent": {
+      "tabs": {
+        "first": "How is  Different?",
+        "second": "Your Safety Come First?",
+        "third": "Scheduling in Fast and Easy?"
+      },
+      "howIsDifferentTab": {
+        "first": "Providers from the network come directly to your home, which means no travel, no waiting rooms, and no lost time from your own day.",
+        "second": "Your massage therapist will travel to your location at the time of your choosing, equipped with a massage table and any necessary supplies, ready to address your unique concerns. This gives you greater control over your environment and limiting your travel and exposure risk without sacrificing quality of care.\n Appointments are available 365 days a year, as is our award-winning customer service team."
+      }
+    },
+    "testimonial": {
+      "first": {
+        "author": "DANA B. -Los Angeles, CA",
+        "body": "“I feel very safe alowing these professionals into my home.That's putting a lot of trust in a company and is the best! Always very responsive and wounderfyl”"
+      }
+    },
+    "whereIsAvailable": {
+      "title": "Where is Available?",
+      "description": " MrsLara is working with the VA every day to expand Veterans&apos; access to convenient medical massage. Our service is available to Veterans through their VAMCs across the United States—in most cases both in the home and in office-based facilities. We are actively working with VAMCs in California, Florida, New York, North Carolina, Georgia, Virginia, Louisiana, Washington, Arizona, New Hamshire, and elsewhere. Veterans' VA Primary Care Provider or VAMC administrator can with additional information about VA-covered treatment options. Browse a directory of VA medical facilities here."
+    }
+  },
+  "learnAboutMassage": {
+    "header": {
+      "first": "Massage as Medicine: How it Can Ease Pain and Improve Lives",
+      "second": "Massage keeps the body conditioned for the things you do every day: sitting at a desk or in the c:ar, playing with kids and grandkids, or doing work around the house.",
+      "third": "For all the ways you put our bones, joints, and muscles to work every day, massage helps you do them safely and without pain."
+    },
+    "massageBenefit": {
+      "title": "Massage Therapy 101",
+      "description": "Massage is a general term to describe the manual manipulation of muscles, tendons and ligaments for therapeutic effect. Massage is often directed to treat both acute and chronic pain conditions, including low back pain, knee pain, osteoarthritis, neck and shoulder pain, and migraines. It is also useful for recovery from activity or injury, PTSD, and neurological conditions such as fibromyalgia. A study by the National Institute of Health (NIH) Center for Complementary and Alternative Medicine found a single massage can effectively decrease levels of cortisol (the stress hormone), boost white blood cell levels, and improve levels of oxytocin, a hormone that improves mood and reduces stress."
+    },
+    "conditionsApplied": {
+      "title": "What Conditions Can Be Helped by Massage?",
+      "tabs": {
+        "first": "Musculoskeletal Conditions",
+        "second": "Cardiovascular Conditions",
+        "third": "Psychological & Sleep Disorders"
+      },
+      "firstTab": {
+        "mskPain": {
+          "title": "MSK Pain",
+          "firstDescription": "Musculoskeletal (MSK) pain—pain that affects the muscles, joints, ligaments, tendons, and bones—is very common, with about <0> half of all Americans</0> estimated to suffer from it. Untreated MSK pain can contribute to a host of adverse conditions like hypertension, obesity, and heart disease, and can worsen others, like diabetes. It has also been connected to <0>opioid abuse and addiction</0> and can lead to other serious health conditions like depression and<0>insomnia</0> .",
+          "secondDescription": "Massage has been proven through numerous studies to be an effective and safe treatment for MSK pain, <0>improving mobility</0> and <0>reducing pain</0>, and unlike medication and surgery, achieving this improvement without adverse health effects.",
+          "thirdDescription": "Massage reduces the <0> body's production of cortisol </0>, the stress hormone, thus lowering blood pressure and muscle tension. This reduction of stress can improve mental health, promoting better sleep and reducing anxiety. In addition, some studies show that<0> massage can help reduce inflammation </0> after extensive muscle use, and inflammation can cause acute MSKpain.",
+          "fourthDescription": "Most studies on the efficacy of massage show that weekly massage is exponentially more effective than occasional massages."
+        },
+        "clinicalRecommendation": {
+          "title": "CLINICAL RECOMMENDATIONS",
+          "description": "The ideal type of massage for treating MSK pain may depend on the location of the pain. A study of low back pain sufferers found that, both relaxation-focused Swedish massage and the more intense deep tissue massage were equally effective at reducing chronic back pain. A study published in the Journal of Physical Therapy Science, found that for shoulder pain, deep tissue or sports massage was more effective than gentler modalities."
+        }
+      }
+    },
+    "haveAQuestion": "Do you have questions about whether massage therapy can help you or your patients? Contact us at <0>877-GET-</0> to speak with an expert about massage therapy as part of an integrative clinical care strategy."
+  },
+  "resourceForVs": {
+    "header": " Massage as Medicine: How it Can Ease Pain and Improve Lives",
+    "vaAndBeyond": {
+      "header": "Resources from VA and Beyond",
+      "first": {
+        "header": "Mental Health Benefits",
+        "description": "Tackling pain through the mind: Cognitive behavioral therapy for chronic pain (CBT-CP) provides a strategic, problem-solving approach that empowers individuals to changes their experience of pain, physically and emotionally.",
+        "footer": "Find out about CBT and VA coverage of it >>"
+      },
+      "second": {
+        "header": "Massage Science",
+        "description": "VHA has cited “high-confidence evidence” that massage therapy is highly effective for management of a varity of pain conditions. Explore the VA's research, policies, and treatment guidance around,",
+        "footer": "massage therapy at VA gov >>"
+      },
+      "third": {
+        "header": "From Our Blog",
+        "description": "Struggling to get a good night's sleep? There's growing body of evdience showing ow the ancient practice of yoga - ehich combines movement, meditation, and breathing exercises - can help those suffering from sleep disorders.",
+        "footer": "Find out how to use yoga to get better sleep >>"
+      }
+    },
+    "urgent": {
+      "header": "URGENT: Help protect pay rates for VHA massage therapists!",
+      "description": "Massage therapists provide valuable therapy for pain, but the VA hasreduced provider reimbursement for this treatment. If medical massage has helped you, add your voice to a petition asking Congress to support improved provider payment for medical massage by texting “VET” to 50409",
+      "footer": "Find Out More"
+    },
+    "newsAndUpdates": {
+      "header": "News and Updates",
+      "news": {
+        "first": {
+          "description": "House Veterans Affairs Committee member Rep. Chris Pappas (D-NH) has called on VA Secretary McDonough to reverse the VA's decision to lower reimbursement rates for massage therapy, saying “This decision has far-reaching implications, adversely affecting veterans well-being, providers, small business owners, and the overall effectiveness of our healthcare system.”",
+          "link": "Find Out More »"
+        },
+        "second": {
+          "description": "US senators request update on non-opioid pain management options for Veterans: Senator Kevin Cramer of North Dakota is joined by 21 other senators in requesting an update from VA Secretary McDonough on the progress VA has made on developing non-opioid pain management programs to prevent addiction and abuse within the Veteran community.",
+          "link": "Learn more & read the letter »"
+        },
+        "third": {
+          "description": "Have a question for VA Secretary McDonough? Submit it for consideration for a virtual Veteran Town Hall with Secy. McDonough on May 15th!",
+          "link": "Submit your question here."
+        },
+        "fourth": {
+          "description": "Clinical study results continue to show the efficacy of massage therapy for a range of conditions impacting veterans including chronic pain, anxiety, and PTSD.",
+          "link": "Learn more »"
+        },
+        "fifth": {
+          "description": "Hats off to this Texas clinic specializing in Veteran care with the same focus that we have at: Using massage to improve quality of life while reducing reliance on opioids and surgery.",
+          "link": "Learn about Tranquility for Troops »"
+        },
+        "sixth": {
+          "description": "The 2024 PACT Act expansion extends benefits eligibility for toxic exposure care to Veterans of the Vietnam War, Gulf War, and post-9/11 deployments. What does that mean for you?",
+          "link": "Find out at va.gov »"
+        }
+      }
+    },
+    "video": {
+      "header": "Video: Mindfulness for Chronic Pain",
+      "description": "Many studies have shown that mindfulness offers numerous benefits for mental and physical health. For chronic pain sufferers, a sustained mindfulness practice can be a key component of pain management by improving functions like sleep and breathing; increasing acceptance of the pain condition; and reducing anxiety, depression, and physical tension. \nThis guided meditation is specifically designed for managing chronic pain by helping you calm your mind and take emotional control of the experience of pain.",
+      "footer": "Explore more guided meditations »"
+    },
+    "featured": {
+      "header": "Featured Resource: Rx3",
+      "description": " Rx3 is a series of online stretching and exercise programs designed to help Service Members and Veterans recover from MSK injuries, improve fitness, and enhance overall health. Choose one of 11 programs tailored to concerns like back pain, core strengthening, hip injuries, balance improvement, and more. There's even an app to help you track your progress! Courtesy of <0> Human Performance Resources by CHAMP</0>",
+      "footer": "Keep recovering with Rx3 »"
+    }
+  },
+  "faqs": {
+    "header": " Frequently Asked Questions",
+    "generalMassage": {
+      "header": "General Massage Questions",
+      "first": {
+        "title": "What is massage?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "second": {
+        "title": "How does massage work?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "third": {
+        "title": "Are massages painful?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "fourth": {
+        "title": "What kind of conditions can be helped by massage?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "fifth": {
+        "title": "What kinds of massages are there?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      }
+    },
+    "inHomeMassage": {
+      "header": "Mrs Lara In-Home Massage",
+      "first": {
+        "title": "What is Mrs Lara?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "second": {
+        "title": "Where is in-home massage available?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "third": {
+        "title": "Why should I trust Mrs Lara?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "fourth": {
+        "title": "Who are the therapists in the network?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "fifth": {
+        "title": "Can I choose my therapist?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "sixth": {
+        "title": "What days and hours are massages available from Mrs Lara?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "seventh": {
+        "title": "How should I prepare my home for a massage?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      }
+    },
+    "bookingQuestions": {
+      "header": "Booking on va.MrsLara.com",
+      "first": {
+        "title": "Do I have to use the website to book massage appointments?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "second": {
+        "title": "Can I use the app to schedule my massage?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "third": {
+        "title": "Can someone schedule a massage for me on my behalf?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "fourth": {
+        "title": "How far in advance do I have to schedule a massage with Mrs Lara?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "fifth": {
+        "title": "How do I choose an appointment time?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "sixth": {
+        "title": "How do I enter additional notes about my appointment?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      }
+    },
+    "referralQuestions": {
+      "header": "VA Referrals",
+      "first": {
+        "title": "How do I get a referral from the VA?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "second": {
+        "title": "How long does it take to book a massage with Mrs Lara once I get a referral?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "third": {
+        "title": "How long are the massages I can get through my VA referral?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "fourth": {
+        "title": "How many massages can I get through my VA referral?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      },
+      "fifth": {
+        "title": "Can I see the same therapist for all my massages?",
+        "questions": [
+          "Who are the therapists providing Mrs Lara chair massage?",
+          "Why does Mrs Lara include an automatic 18% tip for massage therapists?",
+          "Can I use my health insurance to pay for my massage?"
+        ]
+      }
+    },
+    "cta": "Not Finding the Answers You Need? If you still need more information about , in-home massage, or your VA massage benefits, you can contact us by phone at <0>877-GET-</0>or via email at va@."
+  }
+}

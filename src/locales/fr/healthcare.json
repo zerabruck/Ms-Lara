@@ -1,0 +1,156 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "healtcarePartner": "Solution pour les partenaires de soins de santé",
+      "bookAMassage": "Réserver un massage"
+    },
+    "secondaryNavBar": {
+      "individuals": "Particuliers",
+      "business": "Entreprises",
+      "healthcare": "Partenaires de Soins de Santé",
+      "providers": "Fournisseurs",
+      "signin": "Se Connecter",
+      "signup": "S'inscrire",
+      "help": "Aide & Contact"
+    }
+  },
+
+  "healthcare": {
+    "header": {
+      "title": "Conçu pour Fournir des Soins Là Où les Patients en Ont le Plus Besoin : à Domicile.",
+      "description": "Réduisez les coûts pour les payeurs et améliorez les résultats pour les patients avec une plateforme conçue pour fournir des soins de santé de haute qualité à domicile.",
+      "button": "Découvrez Comment Ça Fonctionne"
+    },
+    "chronicPain": {
+      "title": "La douleur chronique est coûteuse et tout le monde en paie le prix",
+      "firstCard": {
+        "number": "50M+",
+        "description": "Adultes américains souffrant de douleur chronique"
+      },
+      "secondCard": {
+        "number": "$600B",
+        "description": "Coût annuel pour l'économie américaine"
+      },
+      "thirdCard": {
+        "number": "$13k",
+        "description": "Coût annuel pour les employeurs par 100 travailleurs"
+      }
+    },
+    "painProtocol": {
+      "title": "PROTOCOLES DE LA DOULEUR QUI FONCTIONNENT",
+      "subtitle": "Réhabilitation Physique et Gestion de la Douleur",
+      "first": "Massage à domicile et thérapie physique pour la douleur chronique ou aiguë, prouvés pour augmenter la conformité et améliorer les résultats",
+      "second": "Alternative plus sûre à l'intervention chirurgicale, aux opioïdes sur ordonnance et aux AINS, sans risque d'effets secondaires, d'addiction ou de complications",
+      "third": "Réseau national de prestataires à domicile entièrement certifiés (normes NCQA & URAC), fermant le « dernier kilomètre » pour les patients en télémédecine et MSK numérique",
+      "fourth": "Le traitement délivré à domicile augmente l'accès des patients, réduit les coûts pour les payeurs et améliore la qualité globale et la continuité des soins"
+    },
+    "patientFirst": {
+      "title": "Une expérience centrée sur le patient qui simplifie l'engagement des membres",
+      "button": "Demander une Démo",
+      "first": "La technologie entièrement conforme HIPAA de Mrs Lara est conçue pour l'intégration aux plans de santé tout en conservant la simplicité d'utilisation pour les patients.",
+      "second": "La réservation en ligne facile et les paramètres de rendez-vous flexibles permettent aux patients de mieux contrôler leurs soins.",
+      "third": "La plateforme est alimentée par une automatisation centrée sur l'humain, avec un support par chat, des rappels de rendez-vous et une documentation dans l'application.",
+      "fourth": "Le « Contrôle du Trafic de Soins » à l'échelle nationale et la coordination en temps réel permettent une prestation de soins localement et au-delà des frontières étatiques.",
+      "fifth": "Avec des heures « ouvertes » plus longues que la plupart des établissements de santé, Mrs Lara propose plus de rendez-vous, une plus grande flexibilité et élimine en moyenne 45 minutes de temps de voyage et d'attente."
+    },
+    "coverage": {
+      "title": "Couverture nationale et soins hyper-locaux, grâce à 11 000+ fournisseurs de confiance",
+      "button": "Commencer"
+    },
+    "providerNetwork": {
+      "title": "RÉSEAU DE FOURNISSEURS",
+      "subtitle": "Couverture nationale et soins hyper-locaux, grâce à 11 000+ fournisseurs de confiance"
+    },
+    "faqs": {
+      "title": "Soutenu par la science : Résultats prouvés pour les patients et les payeurs",
+      "first": {
+        "question": "HOME HEALTHCARE NOW, MAI/JUIN 2019",
+        "answer": "La Valeur de la Thérapie Physique à Domicile"
+      },
+      "second": {
+        "question": "PAIN MEDICINE, JUILLET 2017",
+        "answer": "La Thérapie par Massage dans le Monde Réel Produit un Signal d'Efficacité Significatif pour les Patients de Soins Primaires avec des Douleurs Chroniques du Bas du Dos"
+      },
+      "third": {
+        "question": "JOURNAL OF PHYSICAL THERAPY SCIENCE, OCTOBRE 2016",
+        "answer": "L'Efficacité d'un Programme d'Exercice à Domicile pour les Patients avec des Douleurs au Bas du Dos"
+      },
+      "fourth": {
+        "question": "PAIN MEDICINE, JUILLET 2016",
+        "answer": "L'Impact de la Thérapie par Massage sur la Fonction dans les Populations Douleureuses : Une Revue Systématique et une Méta-Analyse des Essais Contrôlés Randomisés"
+      },
+      "fifth": {
+        "question": "JOURNAL OF ALTERNATIVE AND COMPLEMENTARY MEDICINE, MAI 2019",
+        "answer": "Massage pour la Douleur : Une Carte des Preuves"
+      },
+      "sixth": {
+        "question": "NORTHEAST BUSINESS GROUP ON HEALTH, SEPTEMBRE 2017",
+        "answer": "Prévenir et Traiter les Troubles MSK : Nouvelles Stratégies pour les Employeurs"
+      }
+    },
+    "form": {
+      "title": "Découvrez comment la plateforme crée de meilleurs résultats à des coûts réduits.",
+      "subtitle": "Un spécialiste d'entreprise vous contactera pour discuter des solutions MSK et de la douleur chronique et du processus d'intégration.",
+      "button": "Obtenir Plus d'Infos",
+      "fields": {
+        "firstName": "Prénom*",
+        "lastName": "Nom de Famille",
+        "email": "Adresse Email Professionnelle*",
+        "phoneNumber": "Numéro de Téléphone*"
+      }
+    }
+  },
+  "bottomNav": {
+    "aboutSection": {
+      "about": "À propos",
+      "career": "Carrière",
+      "blog": "Blog",
+      "press": "Presse, Médias et Actualités",
+      "release": "Communiqué de Presse",
+      "siteMap": "Plan du Site"
+    },
+    "individualsSections": {
+      "title": "Individus",
+      "inhome": "Services à Domicile",
+      "massage": "Massage",
+      "massageForVets": "Massage pour les vétérans",
+      "massagePriceAndLocations": "Prix & Emplacements du Massage",
+      "massageMembership": "Abonnement Massage",
+      "zeelGifts": "Cadeaux Zeel",
+      "zeelStore": "Boutique Zeel",
+      "trustAndSafety": "Confiance & Sécurité",
+      "payment": "Paiement HSF/HSA"
+    },
+    "businesses": {
+      "title": "Entreprises",
+      "partners": "Solutions pour les Partenaires de Santé",
+      "workplaceWellness": "Bien-être au Travail",
+      "bookAChair": "Réserver un Événement de Massage sur Chaise",
+      "spaStafffing": "Personnel pour Spa Zeel",
+      "trustAndSafety": "Confiance & Sécurité"
+    },
+    "providers": {
+      "title": "Prestataires",
+      "workWithZeel": "Travailler avec Zeel",
+      "applyNow": "Postuler Maintenant",
+      "trustAndSafety": "Confiance & Sécurité"
+    },
+    "newsLetter": {
+      "title": "Bulletin d'information",
+      "buttonText": "S'abonner",
+      "inputPlaceholder": "Adresse e-mail ici"
+    },
+    "inHomeLocation": {
+      "title": "Emplacement de Massage à Domicile"
+    },
+    "chairMassageLocation": {
+      "title": "Emplacement de Massage sur Chaise"
+    }
+  },
+  "footer": {
+    "copyRight": "Droits d'auteur ©2024",
+    "designer": "Concepteur. Tous droits réservés",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité"
+  }
+}

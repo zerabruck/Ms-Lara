@@ -1,0 +1,644 @@
+{
+    "massage":{
+        "header":{
+           "cardFirst":{
+            "title":"The Perfect In-Home Massage",
+            "description":"Relax, recover, and unwind with a spa-quality massage in the comfort of your own home. With over 1,000,000 massages booked, Mrs Lara is your wellness partner."
+           },
+           "cardSecond":{
+            "title":"The Perfect In-Home Massage",
+            "description":"Relax, recover, and unwind with a spa-quality massage in the comfort of your own home. With over 1,000,000 massages booked, Mrs Lara is your wellness partner."
+           },
+           "cardThird":{
+            "title":"The Perfect In-Home Massage",
+            "description":"Relax, recover, and unwind with a spa-quality massage in the comfort of your own home. With over 1,000,000 massages booked, Mrs Lara is your wellness partner."
+           },
+           "inputPlaceholder":"Enter your city and state or address",
+           "button":"Book Now"
+        },
+        "howItWorks":{
+            "title":"How It Works",
+            "cardFirst":{
+                "title":"Book",
+                "number":"01",
+                "description":"Book an on-demand massage at home, in your hotel room, or at your office, from our app or MrsLara.com."
+            },
+            "cardSecond":{
+                "title":"Relax",
+                "number":"02",
+                "description":"Choose the massage type and the gender of your therapist, and he or she will arrive with a massage table."
+            },
+            "cardThird":{
+                "title":"Repeat",
+                "number":"03",
+                "description":"Book whenever you like, 8am to midnight, 365 days a year, and enjoy a 5-star experience every time."
+            }
+        },
+        "testimonial":{
+            "first":{
+                "author":"JAMES, NEW YORK",
+                "description":"It's awesome! High quality therapists in your home at a discount. What could be better?"
+            },
+            "second":{
+                "author":"JAMES, NEW YORK",
+                "description":"It's awesome! High quality therapists in your home at a discount. What could be better?"
+            },
+            "third":{
+                "author":"JAMES, NEW YORK",
+                "description":"It's awesome! High quality therapists in your home at a discount. What could be better?"
+            }
+        },
+        "onDemand":{
+            "button":{
+                "first":"Therapy Session",
+                "second":"Book Now",
+                "third":"Check Availability"
+            },
+            "firstCard":{
+                "title":"On-Demand Massage Made Simple",
+                "description":"In-home massage offers all the benefits of a spa experience with none of the travel, waiting, or logistics—and no need to call a babysitter. Whether you use massage for athletic recovery, relaxation, or pain relief, Mrs Lara has the on-demand massage—and skilled massage therapists—for your needs. You choose the massage type, gender preference, location and time. Book on-demand with as little as an hour's notice or up to 30 days in advance."
+            },
+            "secondCard":{
+                "title":"Your Trust is Our Highest Priority",
+                "description":" As the industry leader in security, all professionals in the network are licensed, insured, and thoroughly vetted using our industry-leading security protocols. When you book a in-home massage, you will receive a confirmation with the therapist's full name and professional bio, so you always know who's coming to your home. That's just one reason we're The Most Trusted Name in Massage®."
+            }
+        },
+        "membership":{
+            "title":"A Membership Designed for Your Lifestyle",
+            "description":"Z Members enjoy a monthly in-home massage at a preferred rate—the natural choice for making wellness a central to your daily routine.",
+            "button":"Become a member"
+        },
+        "faqs":{
+            "title":{
+                "first":"Frequently Asked Questions",
+                "second":"Ask Your Questions to Us"
+            },
+            "firstFaq": {
+              "question": "Do I need to tip the massage therapist?",
+              "answer": "If you book more than one massage a month as a member, you'll enjoy your member rate on those massages too."
+            },
+            "secondFaq": {
+              "question": "Can I gift an in-home massage?",
+              "answer": "Absolutely! If you visit the gifts page, you'll be able to gift a single massage, a membership, or a gift card."
+            },
+            "thirdFaq": {
+              "question": "When will I be charged?",
+              "answer": "Pricing varies by market, but you'll enjoy the Member or Member Plus rate in the city you're visiting."
+            },
+            "fourthFaq": {
+              "question": "Will my therapist bring a massage table?",
+              "answer": "Pricing varies by market, but you'll enjoy the Member or Member Plus rate in the city you're visiting."
+            },
+            "fifthFaq": {
+              "question": "Can I choose the gender of my therapist?",
+              "answer": "Pricing varies by market, but you'll enjoy the Member or Member Plus rate in the city you're visiting."
+            }
+          },
+          "clientSaying":{
+            "title":"What Our Clients <0/> Saying About Our Service",
+            "description":"“There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.”",
+            "clientCard":{
+                "name":"Tina Salem",
+                "position":"Director of xyz"
+            },
+            "rating":"Amazing Service"
+          },
+          "bookAMassage":{
+            "title":"Book Massage On Demand® Now",
+            "description":"Start by choosing your massage technique.",
+            "button":"Book a message",
+            "card":{
+                "first": {
+                  "title": "Swedish",
+                  "description": "A restorative technique that relieves stress, boosts circulation, and eases muscle aches and pains."
+                },
+                "second": {
+                  "title": "Deep Tissue",
+                  "description": "A stronger style that focuses on deeper muscle tension and knots - perfect for athletic recovery."
+                },
+                "third": {
+                  "title": "Prenatal",
+                  "description": "A gentle modality designed to boost wellness and relieve the physical strains of pregnancy."
+                },
+                "fourth": {
+                  "title": "Sports",
+                  "description": "A fusion of deep tissue massage and stretching designed for recovery and injury prevention."
+                }
+              }
+        
+        },
+        "pricing":{
+            "title":"Pricing",
+            "description":"Prices shown are for a 60-minute massage in your area.",
+            "button":"HSA/FSA Eligible"
+        },
+        "nationalMassage":{
+            "title":"Massage is available nationally, including these cities and regions",
+            "inputPlaceholder":"Search for county",
+            "button":"Book a message",
+            "nations":{
+                "first": {
+                  "country": "South Carolina",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "second": {
+                  "country": "Connecticut",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "third": {
+                  "country": "Massachusetts",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "fourth": {
+                  "country": "Oregon",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "fifth": {
+                  "country": "Arizona",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "sixth": {
+                  "country": "Michigan",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "seventh": {
+                  "country": "Pennsylvania",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "eighth": {
+                  "country": "Arkansas",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "ninth": {
+                  "country": "Florida",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "tenth": {
+                  "country": "Rhode Island",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "eleventh": {
+                  "country": "California",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "twelfth": {
+                  "country": "Missouri",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "thirteenth": {
+                  "country": "Alabama",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "fourteenth": {
+                  "country": "Nebraska",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "fifteenth": {
+                  "country": "Tennessee",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "sixteenth": {
+                  "country": "Nevada",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "seventeenth": {
+                  "country": "New Hampshire",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                },
+                "eighteenth": {
+                  "country": "Delaware",
+                  "cities": [
+                    "Charleston",
+                    "Columbia",
+                    "Greenville",
+                    "Hilton Heas",
+                    "Myrtle Beach"
+                  ]
+                }
+              }
+        }
+    },
+    "va":{
+        "header":{
+            "title":"we Brings Massage therapy to Your Door, Covered by Your VA Benefits",
+            "description":"Less pain, better sleep, more doing the things you love - iit starts with us in-home massage",
+            "button":"Find out More"
+        },
+        "cta":"Do you already have a referral for massage? Schedule your appointment now",
+        "massageForVeteran":{
+            "title":"Proudly Serving Those Who Serve Our Country",
+            "firstDescription":"we is proud to be a member of the VA Community Care Network providing on-location massage therapy as a covered benefit for Veterans.",
+            "secondDescription":"comes to you. See a trusted, licensed massage therapist in the comfort of your home—or, if you prefer, in a nearby treatment office—and get the treatment you need, when you need it, where's most convenient for you.",
+            "button":"Massage for veterans"
+        },
+        "videoHighlight":{
+            "title":" Highlighting Our Heroes: Col. Thomas 'Malley",
+            "description":"82-year-old USMC Veteran Thomas 'Malley, spent years undergoing surgeries and taking prescription painkillers for the pain from injuries sustained in Vietnam. Thanks to his medical massage therapy, Col. O&#39;Malley has been able to quit pain medications and regain his independence and mobility.",
+            "link":"Watch the video to learn about his recovery story."
+        },
+        "howDoYouKnow":{
+            "title":"How Much Do You Know About Massage?",
+            "description":"Are you living with chronic pain, suffering from PTSD, or recovering from an injury? Massage therapy by a licensed practitioner can help. Learn how massage can help you return to a lifestyle that's more active, enjoyable, and pain-free.",
+            "link":"Explore the benefits "
+        },
+        "forCareProviders":{
+            "title":"For Care Providers: Prescribing Massage for Positive Patient Outcomes",
+            "description":"Massage is well known as a powerful, non-pharmacological solution for chronic and acute musculoskeletal conditions, but its application doesn't end there. Arthritis, PTSD, mobility limitations, and other conditions can be alleviated with regular massage—without the risks of pharmaceutical or surgical interventions.",
+            "link":"Information for Care Providers"
+        },
+        "provider":{
+            "description":"“ Offers the easiest safest way for a patient to connect with a skilled massage therapist. I love being able to help people who are in pain recover happier and more mobile, thanks to their massage”",
+            "name":"JEANINE ALVERAS, LMT Dayton, OH",
+            "link":"Meet more providers"
+        }
+    },
+    "massageMembership":{
+        "header":{
+            "title":"The Massage Membership: Your Wellness Routine, Simplified",
+            "description":"Get your monthly massage delivered, wherever you are, at our best rate. Plus, enjoy priority support, family sharing, partner perks, and more…",
+            "button":"Become a Mentor"
+        },
+        "whatIsMembership":{
+            "title":"What is the Membership?",  
+            "description":"Membership plan is a monthly subscription for true massage lovers. As a Member, you'll get up to 25% off your monthly massage and every other massage you book, with no limits on how much you use your discount. You'll enjoy preferred rates wherever you book, priority support for all your membership needs."
+            },
+        "testimonial":{
+            "first":{
+                "reviewer":". NATHAN W.. MEMBER, NEW YORK",
+                "description":" Excellent customer service, outstanding roster ofprofessionals, <0></0>easy to use in places all over the country."
+            },
+            "second":{
+                "reviewer":". NATHAN W.. MEMBER, NEW YORK",
+                "description":" Excellent customer service, outstanding roster ofprofessionals, <0></0>easy to use in places all over the country."
+            },
+            "third":{
+                "reviewer":". NATHAN W.. MEMBER, NEW YORK",
+                "description":" Excellent customer service, outstanding roster ofprofessionals, <0></0>easy to use in places all over the country."
+            }
+           
+            },
+        "easyWellness":{
+            "first":{
+                "title":"Built to Make Wellness Easy",
+                "description":"Your life is packed. Membership helps you create space for wellness. You'll never miss a beat in your busy life when your monthly massage is already in the bag, and just a few clicks will bring it to your door. No travel, no hassle, no need to call a babysitter."
+            },
+            "second":{
+                "title":"Designed to Fit Your Life",
+                "description":" With a busy schedule like yours, flexibility is non-negotiable.Traveling? Take your membership with you to 100+ metro areasnationwide - you'll always get the best rate and priority service. Too busy for a massage this month? Unused credit never expires, so you'll never lose it if you're unable to use it. Multiple massage lovers in the house? Memberships can be shared with anyone in your household."
+            }
+        },
+        "ritual":{
+            "title":"Your Monthly Ritual",
+            "card":{
+                "first":{
+                    "title":"60-Min Massage Monthly",
+                    "description":"A massage a month with no initiation fee, with credits that roll over and never expire."
+                    },
+                "second":{
+                    "title":"Preferred Rate Every Time",
+                    "description":"Get your ℠ Member rate on all bookings, including those for your loved ones."
+                    
+                },
+                "third":{
+                    "title":"Priority Customer Support",
+                    "description":"Be at the front of the line and receive prioritized responses to your support issues."
+                }
+            },
+            "button":"Become a Mentor"
+        },
+        "pricing":{
+            "title":"Pricing",
+            "description":"Prices shown are for a 60-minute massage in your area.",
+            "button":"HSA/FSA Eligible",
+            "card":{
+                "first":{
+                    "title":" Member",
+                    "price":"$159.00",
+                    "subtitle":"8% savings with 2 month commitment",
+                    "button":" Subscribe and Book",
+                    "firstDescription":"Our standard 5-star experience, plus:",
+                    "secondDescription":"Membership flexibility",
+                    "thirdDescription":"Cancel or pause at any time after your first two monthly payments.",
+                    "fourthDescription":"A 60-minute massage each month",
+                    "fifthDescription":"You're billed for one massage a month at the Member rate, no initiation fee. Credits roll over and never expire.",
+                    "sixthDescription":"Preferred rate on all bookings",
+                    "seventhDescription":"Book as many appointments as you like at the Member rate, anywhere is available."
+                },
+                "second":{
+                    "title":" Member",
+                    "price":"$145.00",
+                    "subtitle":"17% savings with 12 month commitment",
+                    "button":" Subscribe and Book",
+                    "firstDescription":"Our standard 5-star experience, plus:",
+                    "secondDescription":"A 60-minute massage each month",
+                    "thirdDescription":"You're billed for one massage a month at the Member rate, no initiation fee. Credits roll over and never expire.",
+                    "fourthDescription":"Preferred rate on all bookings",
+                    "fifthDescription":"Book as many appointments as you like at the Member rate, anywhere is available.",
+                    "sixthDescription":"Priority customer support",
+                    "seventhDescription":"Be at the front of the line and receive prioritized responses to your support issues.",
+                    "eighthDescription":"Partner Discounts",
+                    "ninthDescription":"Exclusive benefits from our partners, including 15% off purchases in the Store."
+                }
+            }
+        },
+        "featured":{
+            "title":"Featured Partner Perk: Hyperice",
+            "description":"Join at the Member Plus level to get 15% off all Hyperice products in the Store - for performance, recovery, and extending massage's benefits between treatments.",
+            "link":"Visit the store"
+        },
+        "faqs":{
+            "title":"Ask Your Questions to Us",
+            "button":"View All FAQ",
+            "card":{
+                "first":{
+                    "question":"What if I usually get more than one massage a month?",
+                    "answer":"If you book more than one massage a month as a member, you'll enjoy your member rate on those massages too."
+                },
+                "second":{
+                    "question":"What if I want a massage longer than 60 minutes?",
+                    "answer":"You can extend your massage to any length that you'd like, but the credit every month covers 60 minutes."
+                },
+                "third":{
+                    "question":"When will I be charged?",
+                    "answer":"pricing varies by market, but you'll enjoy the Member or Member Plus rate in the city you're visiting."
+                }
+            }
+        },
+        "memberMessage":{
+            "description":"“I've relied on massage to help me get over jet lag, work out the kinds, sleep better, and so much more. And with an in-home masaage, there'e no wasted time, which I love as a busy business woman and mom. makes that luxury so much more accessible.”",
+            "name":"-CINDY CRAWFORD, MEMBER",
+            "link":"Gift a Massage"
+        },
+        "review":{
+            "first":{
+                "name":"-MASHABLE",
+                "description":"It's time to sit back and let the relaxation come to you."
+            },
+            "second":{
+                "name":"-MASHABLE",
+                "description":"It's time to sit back and let the relaxation come to you."
+            },
+            "third":{
+                "name":"-MASHABLE",
+                "description":"It's time to sit back and let the relaxation come to you."
+            }
+            
+        }
+
+
+
+        },
+    "giftsWebView":{
+        "header":{
+            "title":" Massage Gift Certificates",
+            "description":"A massage gift is perfect for the holidays, birthdays, Mother's Day, Valentine's Day, weddings, and those people who are impossible to shop for.",
+            "button":" Send a Massage Gift",
+            "link":"Received a gift?<0>Redeem your gift card</0>"
+        },
+        "chooseTheBest":{
+            "title":"Choose the Perfect Experience",
+            "description":"Give your massage gift in one of the configurations below. Whatever you choose, your recipient will get to pick the time, place, therapist gender, and massage technique that best suits their preferences.",
+            "button":"Send a Single Massage Gift",
+            "card":{
+                "first":{
+                    "title":"Single Massage",
+                    "description":"A relaxing 60, 75 or 90 min,massage in the comfort of one's home, hotel or offcie."
+                },
+                "second":{
+                    "title":"Couples Massage",
+                    "description":"A pair of massage for two at the  same time. choose 60, 75, or  90 min treatment lenghts."
+                },
+                "third":{
+                    "title":"Dollar Amount",
+                    "description":"Purchase gift certificates by dollar amount. Choose from amounts ranging from $25 to $500"
+                },
+                "fourth":{
+                    "title":"Massage Package",
+                    "description":"Packages of 3, 6, 9 or 12 individual massages that the recipient can use whenever they wish"
+                },
+                "fifth":{
+                    "title":"Massage Membership",
+                    "description":"A year of monthly massages at our lowest rate, plus VIP benefits. Pay monthly or upfront."
+                }
+            }
+        },
+        "review":{
+            "description":"“LOVE LOVE LOVE !! I highly <0 /> recommend it! It's SO easy,convenient<0 /> and carefree to use”",
+            "name":"-DEANNA P, COLORADO",
+            "link":"Gift a Massage"
+        },
+        "featuredGift":{
+            "title":"FEATURED AS A GIFT IN:",
+            "card":{
+                "first":{
+                    "title":"The prefect experience gift for Christmas.",
+                    "name":"-GOOD MORNING AMERICA"
+                }
+            }
+        },
+        "corporateGift":{
+            "title":"Corporate Gifts",
+            "description":" Looking for the perfect way to show appreciation for employees, vendors, or high-performing leadership? Businesses enjoy volume discounts on purchases of 10 gift certificates or more! It's the ultimate un-corporate gift.",
+            "link":"Explore Group Gifting Options"
+        },
+        "howDoesItWork":{
+            "title":"How Does Massage Gifting Work?",
+            "link":"Gift a Massage",
+            "firstCard":{
+                "title":" 1. Choose Your Gift",
+                "description":"Give a single massage, couples massage, massage package, subscription, or fixed dollar amount."
+            },
+            "secondCard":{
+                "title":"2. Personalize It",
+                "description":"Enter the recipient's information, and personalize your gift with a custom gift message and design."
+            },
+            "thirdCard":{
+                "title":" 3. Surprise and Delight",
+                "description":"Your gift is delivered digitally at the time of your choosing and is sure to make the recipient's day."
+            }
+        },
+        "faqs":{
+            "title":"Gifting FAQs",
+            "button":"View All FAQ",
+            "cards":{
+                "first": {
+                  "question": "What type of massage will the recipient get?",
+                  "answer": "Your gift recipient will be able to choose Swedish, deep tissue, sports massage, prenatal massage, or our signature Sleep Massage when they schedule their appointment."
+                },
+                "second": {
+                  "question": "Do gift certificates expire?",
+                  "answer": "Never!"
+                },
+                "third": {
+                  "question": "Where can I give a massage gift?",
+                  "answer": "Available in over 100 major metro areas and destinations nationwide."
+                },
+                "fourth": {
+                  "question": "How do you redeem a gift certificate?",
+                  "answer": "After creating an account, add the gift voucher code in the 'Add Promo Code' section of the account area. This converts the gift into credit to use for a massage!"
+                },
+                "fifth": {
+                  "question": "I'm a Member; can I use my credit to buy gifts?",
+                  "answer": "Membership credit is automatically applied toward gift purchases. If you wish to give a gift without using your credit, email help@.com for assistance."
+                }
+              }              
+        },
+        "certificate":{
+            "title":"Massage Gift Certificates",
+            "button":"Explore Gift Cards"
+        }
+    },
+    "referal":{
+        "header":{
+            "title":"Welcome!",
+            "description":" Receive massage therapy in the comfort of your home, or in a provider's office nearby.",
+            "button":"Schedule Your Massage Now"
+        },
+        "partnership":"In partnership with",
+        "howItWorks":{
+            "title":"How Massage for Vets Works",
+            "button":"Use Your Referrel Now",
+            "card":{
+                "first":{
+                    "title":"1.Get a Referral",
+                    "description":"Your VA Primary Care Provider prescribes you massage therapy treatments."
+                },
+                "second":{
+                    "title":"2. Schedule Online or By Phone",
+                    "description":"Schedule an appointment as soon as 48 hours from now, or call us at 877-GET-MASSAGE."
+                },
+                "third":{
+                    "title":"3. Get Treated Where it's Convenient",
+                    "description":"A trusted, licensed massage therapist will come to your home or treat you at their office on your schedule."
+                }
+            }
+        },
+        "cta":"Don't yet have a referral for a massage?<0>Learn more about the process</0>",
+        "meetProviders":{
+            "title":"MEET YOUR PROVIDERS",
+            "location":"Dayton, OH",
+            "name":"Jeannie Alveras, LMT",
+            "description":" “Offers the easiest and safest way for a patient to connect with a skillled massage therapist. I love having the ability to help people in pain get back to their lives happier and more mobile, thanks to their massage”"
+        },
+        "whatIsMissLara":{
+            "title":"What is Mrs Lara?",
+            "description":"Is a nationwide in-home healthcare platform with a network of more than 11,000 practitioners, including licensed massage therapists. we works with your VA care team to send top quality practitioners to your home (or offer convenient in-office treatment nearby) and automatically bills your insurance."
+        },
+        "trustAndSafety":{
+            "title":" Trust and Safety",
+            "description":"There is no higher priority for you than the safety of the veterans, providers, and employees on the platform. We employ rigorous health and hygiene standards alongside industry-leading vetting and security protocols."
+        },
+        "secondCta":{
+            "title":"Don't have a massage referral?",
+            "subtitle":"Talk to your VA doctor about massage therapy for pain.",
+            "button":"Schedule Your Massage Now"
+        },
+        "footer":"©2024 Networks Inc. All rights reserved. Delivers medical services through its affiliate ZP Medical Services PC, a licensed medical practice. This content is solely for informational purposes and does not substitute for diagnostic or medical advice. You should always consult your physician if you have questions or concerns of a personal, medical nature. Please read our <0>Terms of Use</0> and <0>Privacy Policy</0> for more information."
+
+
+    }
+            
+    
+}

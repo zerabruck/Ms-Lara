@@ -1,0 +1,406 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "workWithUs": "Travailler avec nous",
+      "blog": "blog",
+      "trustAndSafety": "Confiance & Sécurité",
+      "bookAMassage": "Réserver un massage"
+    },
+    "secondaryNavBar": {
+      "individuals": "Individus",
+      "business": "Entreprise",
+      "healthcare": "Partenaires de soins de santé",
+      "providers": "Prestataires",
+      "sigin": "Se connecter",
+      "signup": "S'inscrire",
+      "help": "Aide & contact"
+    }
+  },
+  "apply": {
+    "focalPoint": {
+      "header": "Postulez pour rejoindre le Réseau"
+    },
+    "spacCallToActionSection": {
+      "title": "Nouvelle Candidature",
+      "applicationInfo": "Pour compléter une candidature, veuillez avoir une pièce d'identité avec photo et vos informations de licence professionnelle à portée de main. Le nom que vous indiquez ci-dessous doit correspondre au nom figurant sur votre pièce d'identité avec photo.",
+      "applicationForm": {
+        "contactInfoFields": {
+          "title": "Vos Informations de Contact",
+          "fieldsLabel": {
+            "firstName": "Prénom*",
+            "lastName": "Nom*",
+            "emailAddress": "Adresse e-mail",
+            "phoneNumber": "Numéro de téléphone",
+            "zipCode": "Code postal",
+            "state": "État",
+            "areaOfPractice": "Domaine de Pratique",
+            "selectHealthWellness": "Sélectionnez le domaine de la santé ou du bien-être pour lequel vous postulez !"
+          }
+        },
+        "footer": {
+          "1": "Lorsque vous continuez, vous quitterez MrsLara.com pour compléter le processus de candidature.",
+          "2": "En sélectionnant ‘Continuer’, je confirme avoir lu et accepté nos",
+          "3": "Conditions d'utilisation et Politique de confidentialité."
+        },
+        "buttonText": "Continuer"
+      }
+    },
+    "whatHappensNextSection": {
+      "title": "Que Se Passe-t-il Ensuite",
+      "cardData": {
+        "firstStep": {
+          "title": "Commencez à Gagner de l'Argent",
+          "body": "Téléchargez l'application Provider et commencez à prendre des rendez-vous selon votre emploi du temps."
+        },
+        "secondStep": {
+          "title": "Préparez-vous à Rejoindre",
+          "body": "Nous examinerons votre candidature et pourrons vous contacter pour une brève conversation d'intégration."
+        },
+        "lastStep": {
+          "title": "Complétez Votre Candidature",
+          "body": "Nous vérifierons votre identité, votre assurance, vos qualifications et votre expérience."
+        }
+      }
+    }
+  },
+  "landing": {
+    "callToActionSection": {
+      "title": "Devenez un Professionnel du Bien-Être avec nous",
+      "pitch": "Gagnez plus d'argent selon votre propre emploi du temps—avec une sécurité et un soutien de premier ordre—en tant que fournisseur dans le réseau.",
+      "buttonText": "Postulez pour Rejoindre le Réseau"
+    },
+    "secondSection": {
+      "header": "Rejoignez Plus de 12 000 Praticiens Apportant des Soins Transformateurs Directement aux Patients",
+      "cardData": {
+        "first": "Massage",
+        "second": "Yoga",
+        "thrid": "Thérapie Comportementale",
+        "fourth": "Thérapie Physique",
+        "fifth": "Infirmier"
+      }
+    },
+    "thirdSection": {
+      "header": "Thérapie par Massage",
+      "paragraphs": {
+        "first": "En tant que membre du plus grand réseau de professionnels du massage, vous pouvez choisir entre massage à domicile, opportunités de massage en spa flexible, ou massage en fauteuil dans les bureaux et événements.",
+        "second": "Lorsque vous rejoignez le Réseau des Fournisseurs, vous augmenterez votre pouvoir de gain ET votre flexibilité. Prenez autant ou aussi peu de rendez-vous que vous le souhaitez et soyez payé sur une base hebdomadaire—aucun minimum de rendez-vous, aucune pression. De plus, un pourboire automatique de 18 % est ajouté à chaque rendez-vous à domicile et en entreprise. 100 % des pourboires vous sont versés. Vous pouvez également être en mesure de fournir des traitements de massage prescrits médicalement qui comprennent 6 à 12 séances par patient. Nous gérons la facturation et l'assurance, afin que vous puissiez vous concentrer sur la prestation de soins."
+      },
+      "bulletPoints": {
+        "first": "Massage Suédois",
+        "second": "Massage Profond",
+        "third": "Massage Sportif",
+        "fourth": "Massage Prénatal",
+        "fifth": "Massage pour le Sommeil",
+        "sixth": "Massage en Fauteuil"
+      },
+      "buttonText": "Postulez pour Rejoindre le Réseau"
+    },
+    "fourthSection": {
+      "title": "Obtenez plus d'informations sur les avantages de fournir des soins sur place – selon vos termes – avec nous.",
+      "form": {
+        "labels": {
+          "firstName": "Prénom",
+          "lastName": "Nom",
+          "bussinessEmail": "Adresse e-mail Professionnelle*",
+          "phoneNumber": "Numéro de téléphone",
+          "areaOfPractice": "Domaine de Pratique",
+          "state": "État",
+          "zipCode": "Code Postal"
+        },
+        "buttonText": "Contactez-nous"
+      }
+    },
+    "sixthSection": {
+      "firstStat": {
+        "stat": "JUSQU'À 2X",
+        "title": "meilleur salaire*"
+      },
+      "secondStat": {
+        "stat": "12 000+",
+        "title": "fournisseurs à l'échelle nationale"
+      },
+      "thridStat": {
+        "stat": "1,5M",
+        "title": "traitements effectués"
+      }
+    },
+    "seventhSection": {
+      "cardData": {
+        "firstCard": {
+          "tag": "GAINS",
+          "title": "Vous Décidez de Ce Que Vous Gagnez",
+          "body": {
+            "sentense": {
+              "first": "Les fournisseurs du réseau gagnent les meilleurs salaires de l'industrie.",
+              "second": "Respect de votre temps : les clients paient des frais pour les annulations tardives (dans les 4 heures avant le rendez-vous).",
+              "third": "Transparence des prix et des paiements : voyez exactement ce que vous gagnez pour chaque rendez-vous.",
+              "fourth": "Paiements sans tracas : les gains sont versés directement sur votre compte bancaire chaque semaine.",
+              "fifth": "Bonus de recommandation illimités : pour chaque ami ou collègue que vous recommandez et qui rejoint le réseau, vous recevez un paiement bonus !"
+            }
+          }
+        },
+        "secondCard": {
+          "tag": "SÉCURITÉ",
+          "title": "Votre Santé et Sécurité est Notre Priorité",
+          "body": {
+            "sentense": {
+              "first": "Vous protège avec plusieurs couches de soutien.",
+              "second": "Équipe dédiée à la Confiance et à la Sécurité disponible en direct, chaque fois qu'un fournisseur est en rendez-vous—7 jours sur 7, 365 jours par an.",
+              "third": "Politique de tolérance zéro proactive pour toute violation des Conditions d'utilisation par les clients/patients.",
+              "fourth": "Chat sécurisé et en direct avec le personnel de soutien aux fournisseurs.",
+              "fifth": "Vérification de l'identité des clients.",
+              "sixth": "Surveillance continue et réponse pour la prévention des risques."
+            }
+          },
+          "footer": "Lisez Nos Politiques de Confiance et de Sécurité"
+        },
+        "thridCard": {
+          "tag": "FLEXIBILITÉ",
+          "title": "Travaillez Où et Quand Vous Le Souhaitez",
+          "body": {
+            "sentense": {
+              "first": "Vous permet de créer un emploi du temps qui vous convient.",
+              "second": "Flexibilité maximale de planification : Vous avez une liberté totale pour choisir où vous voulez prendre des rendez-vous et quand vous êtes (ou n'êtes pas) disponible pour eux.",
+              "third": "Choisissez vos types de rendez-vous : Fournissez des traitements à domicile, dans des lieux de travail ou dans des hôtels et spas*.",
+              "fourth": "Travaillez aussi souvent que vous le souhaitez : Ne soyez jamais pénalisé pour travailler trop peu d'heures, comme avec d'autres plateformes.",
+              "fifth": "Prêt pour les déplacements : Vous partez en voyage ? Vous pouvez prendre des rendez-vous partout où nous offrons des services—nous sommes à l'échelle nationale !"
+            }
+          }
+        },
+        "fourthCard": {
+          "tag": "TECHNOLOGIE",
+          "title": "Application Fournisseur de Premier Ordre",
+          "body": {
+            "sentense": {
+              "first": "L'application Fournisseur (iOS & Android) est votre base pour réussir dans le réseau.",
+              "second": "Flexibilité de planification : Indiquez votre disponibilité, par tranches de demi-heure, dans l'application, afin de ne recevoir que les demandes de rendez-vous qui vous conviennent.",
+              "third": "Transparence des prix : Voyez une répartition complète du prix de chaque rendez-vous, y compris ce que paie le client, votre salaire net et votre pourboire (le cas échéant).",
+              "fourth": "Sachez avant d'accepter : Visualisez l'emplacement, le type de service et d'autres détails du rendez-vous avant d'accepter une demande.",
+              "fifth": "Enregistrement et communication : Utilisez la fonction d'enregistrement en ligne et discutez avec les clients directement via l'application."
+            }
+          }
+        }
+      }
+    },
+    "eigthSection": {
+      "title": "LOCATIONS",
+      "body": "Est présent dans plus de 100 marchés à travers les États-Unis.",
+      "buttonText": "Voir TOUS nos emplacements"
+    },
+    "applicationProcess": {
+      "title": "Notre Processus de Candidature",
+      "cardData": {
+        "first": {
+          "title": "1. Complétez Votre Candidature",
+          "body": "Nous l'examinerons attentivement et vérifierons votre identité, votre assurance, vos références et votre expérience."
+        },
+        "second": {
+          "title": "2. Bienvenue à Bord !",
+          "body": "Si votre candidature est acceptée, nous vous fournirons tous les outils et informations nécessaires pour réussir sur la plateforme."
+        },
+        "thrid": {
+          "title": "3. Commencez à Gagner de l'Argent",
+          "body": "Commencez à prendre des rendez-vous selon votre emploi du temps avec l'application Provider. Et nous sommes toujours là si vous avez besoin de nous."
+        }
+      },
+      "buttonText": "Postuler pour Rejoindre le Réseau",
+      "footer": "Vous souhaitez réactiver votre ancien compte Provider ? Contactez-nous"
+    },
+    "referalSection": {
+      "cardData": {
+        "first": {
+          "name": "MATT L.",
+          "title": "ENTRAINEUR PERSONNEL, NEW YORK",
+          "text": "Rien ne me procure plus de joie que d'aider les gens à se sentir mieux et à bouger davantage. Je ne pourrais être plus reconnaissant de pouvoir offrir cette opportunité."
+        },
+        "second": {
+          "name": "JANE D.",
+          "title": "INSTRUCTRICE DE YOGA, CALIFORNIE",
+          "text": "Cette plateforme a transformé ma pratique. Elle est intuitive et m'aide à me connecter avec plus d'élèves."
+        },
+        "third": {
+          "name": "JOHN S.",
+          "title": "COACH DE FITNESS, TEXAS",
+          "text": "J'ai observé d'excellents résultats dans les performances de mes clients grâce aux programmes personnalisés que je peux offrir ici."
+        }
+      }
+    }
+  },
+  "trustAndSafety": {
+    "title": "Confiance & Sécurité",
+    "tabs": {
+      "headlines": {
+        "tabButtonText": "Titres Directives",
+        "sections": {
+          "firstSecond": {
+            "paragraphs": {
+              "firstParagraph": "Notre priorité absolue a toujours été de rendre l'accès aux services de santé et de bien-être vitaux aussi transparent et sûr que possible.",
+              "secondParagraph": "Notre équipe dédiée de professionnels de la Confiance & Sécurité surveille et met constamment à jour les directives de santé et de sécurité que nous partageons avec les milliers de prestataires du réseau. Ces directives sont conformes aux directives fédérales, étatiques et locales concernant la prestation de services de santé et de bien-être.",
+              "thirdParagraph": "Les clients peuvent partager des demandes d'hygiène particulières avant l'arrivée du prestataire pour le rendez-vous."
+            }
+          },
+          "secondSecond": {
+            "title": "Pratiques de Propreté",
+            "paragraphs": {
+              "firstParagraph": "Les prestataires suivent les directives du CDC sur le lavage des mains ou l'utilisation de désinfectant pour les mains avec une teneur en alcool d'au moins 60 %. Les prestataires adhèrent aux meilleures pratiques de l'industrie, y compris la désinfection de l'équipement entre les clients et les patients.",
+              "secondParagraph": "Les clients et les patients ne doivent jamais réserver un traitement à domicile s'ils ou un membre de leur foyer présentent des symptômes de maladie."
+            }
+          }
+        }
+      },
+      "consumers": {
+        "tabButtonText": "Pour les Consommateurs",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "Nous avons fièrement livré des millions de rendez-vous de santé et de bien-être dans des maisons et des bureaux d'entreprise dans plus de 100 zones métropolitaines aux États-Unis."
+            }
+          },
+          "secondSection": {
+            "title": "Prestataires Sélectionnés",
+            "paragraphs": {
+              "firstParagraph": "Notre réseau de plus de 11 000 prestataires comprend des massothérapeutes, des physiothérapeutes, des infirmières et d'autres praticiens de santé et de bien-être. Pour devenir un prestataire du réseau Mrs Lara, un prestataire doit répondre à toutes les exigences fédérales, étatiques et locales, y compris les certifications, les licences et les assurances.",
+              "secondParagraph": "Les prestataires du réseau sont vérifiés par une série de vérifications des antécédents nationaux. L'équipe Mrs Lara vérifie que chaque prestataire est en règle avec les autorités de régulation nationales et étatiques avant de rejoindre le réseau Mrs Lara."
+            }
+          },
+          "thirdSection": {
+            "title": "Protection de l'Identité",
+            "paragraphs": {
+              "firstParagraph": "Les numéros de téléphone et adresses e-mail des prestataires sont masqués lors des échanges avec les clients, de sorte que votre identité reste protégée tout au long de votre rendez-vous. Les prestataires du réseau Mrs Lara se connectent avec vous uniquement par le biais de la plateforme Mrs Lara. Une fois votre rendez-vous terminé, nous conservons les notes SOAP de votre rendez-vous en toute sécurité sur la plateforme Mrs Lara pour un accès facile aux informations du rendez-vous à une date ultérieure."
+            }
+          },
+          "fourthSection": {
+            "title": "Leaders de la Technologie de Santé",
+            "paragraphs": {
+              "firstParagraph": "Nous améliorons constamment notre sécurité numérique pour protéger les informations d'identification personnelles de nos clients et prestataires."
+            }
+          },
+          "fifthSection": {
+            "title": "Conformité HIPAA",
+            "paragraphs": {
+              "firstParagraph": "Notre plateforme est conforme à la loi HIPAA. Cela signifie que nous suivons toutes les meilleures pratiques dans le domaine pour garantir la sécurité de vos informations de santé à tout moment."
+            }
+          }
+        }
+      },
+      "providers": {
+        "tabButtonText": "Pour les Prestataires",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "Nous avons fièrement livré des millions de rendez-vous de santé et de bien-être dans des maisons et des bureaux d'entreprise dans plus de 100 zones métropolitaines aux États-Unis."
+            }
+          },
+          "secondSection": {
+            "title": "Prestataires Sélectionnés",
+            "paragraphs": {
+              "firstParagraph": "Notre réseau de plus de 11 000 prestataires comprend des massothérapeutes, des physiothérapeutes, des infirmières et d'autres praticiens de santé et de bien-être. Pour devenir un prestataire du réseau Mrs Lara, un prestataire doit répondre à toutes les exigences fédérales, étatiques et locales, y compris les certifications, les licences et les assurances.",
+              "secondParagraph": "Les prestataires du réseau sont vérifiés par une série de vérifications des antécédents nationaux. L'équipe Mrs Lara vérifie que chaque prestataire est en règle avec les autorités de régulation nationales et étatiques avant de rejoindre le réseau Mrs Lara."
+            }
+          },
+          "thirdSection": {
+            "title": "Protection de l'Identité",
+            "paragraphs": {
+              "firstParagraph": "Les numéros de téléphone et adresses e-mail des prestataires sont masqués lors des échanges avec les clients, de sorte que votre identité reste protégée tout au long de votre rendez-vous. Les prestataires du réseau Mrs Lara se connectent avec vous uniquement par le biais de la plateforme Mrs Lara. Une fois votre rendez-vous terminé, nous conservons les notes SOAP de votre rendez-vous en toute sécurité sur la plateforme Mrs Lara pour un accès facile aux informations du rendez-vous à une date ultérieure."
+            }
+          },
+          "fourthSection": {
+            "title": "Leaders de la Technologie de Santé",
+            "paragraphs": {
+              "firstParagraph": "Nous améliorons constamment notre sécurité numérique pour protéger les informations d'identification personnelles de nos clients et prestataires."
+            }
+          },
+          "fifthSection": {
+            "title": "Conformité HIPAA",
+            "paragraphs": {
+              "firstParagraph": "Notre plateforme est conforme à la loi HIPAA. Cela signifie que nous suivons toutes les meilleures pratiques dans le domaine pour garantir la sécurité de vos informations de santé à tout moment."
+            }
+          }
+        }
+      },
+      "businesses": {
+        "tabButtonText": "Pour les entreprises",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "Nous avons fièrement délivré des millions de rendez-vous en santé et bien-être dans des foyers et bureaux d'entreprise dans plus de 100 zones métropolitaines aux États-Unis."
+            }
+          },
+          "secondSection": {
+            "title": "Prestataires vérifiés",
+            "paragraphs": {
+              "firstParagraph": "Notre réseau de plus de 11 000 prestataires comprend des massothérapeutes, des physiothérapeutes, des infirmières et d'autres praticiens de la santé.",
+              "secondParagraph": "Chaque prestataire du réseau est assuré et évalué de manière approfondie. De plus, chacun passe un processus de vérification d'identité et subit une vérification criminelle obligatoire avec un suivi continu."
+            }
+          },
+          "thirdSection": {
+            "title": "Soin aux clients",
+            "paragraphs": {
+              "firstParagraph": "Nous encourageons vivement nos clients à signaler tout problème ou préoccupation concernant leur rendez-vous ou leur prestataire. Les clients peuvent contacter l'équipe de Support par e-mail à help@lara.com ou via l'application. Les questions graves sont escaladées à l'équipe de Confiance & Sécurité."
+            }
+          }
+        }
+      },
+      "trustAndSafetyTeam": {
+        "tabButtonText": "Équipe Confiance & Sécurité",
+        "paragraphs": {
+          "firstParagraph": "Notre équipe Confiance & Sécurité est un groupe d'experts, comprenant des responsables de la police, d'anciens journalistes d'investigation et des conseillers juridiques, axés sur l'utilisation des meilleures pratiques de sécurité et des outils logiciels pour traiter toutes les questions de confiance et de sécurité.",
+          "secondParagraph": "Confiance & Sécurité est disponible à tout moment lors d'un rendez-vous. L'équipe peut être contactée en envoyant un e-mail à Support à help@lara.com ou via le chat sur lara.com/help."
+        }
+      }
+    }
+  },
+  "bottomNav": {
+    "aboutSection": {
+      "about": "À propos",
+      "career": "Carrière",
+      "blog": "Blog",
+      "press": "Presse, Médias et Actualités",
+      "release": "Communiqué de Presse",
+      "siteMap": "Plan du Site"
+    },
+    "individualsSections": {
+      "title": "Individus",
+      "inhome": "Services à Domicile",
+      "massage": "Massage",
+      "massageForVets": "Massage pour les vétérans",
+      "massagePriceAndLocations": "Prix & Emplacements du Massage",
+      "massageMembership": "Abonnement Massage",
+      "zeelGifts": "Cadeaux Zeel",
+      "zeelStore": "Boutique Zeel",
+      "trustAndSafety": "Confiance & Sécurité",
+      "payment": "Paiement HSF/HSA"
+    },
+    "businesses": {
+      "title": "Entreprises",
+      "partners": "Solutions pour les Partenaires de Santé",
+      "workplaceWellness": "Bien-être au Travail",
+      "bookAChair": "Réserver un Événement de Massage sur Chaise",
+      "spaStafffing": "Personnel pour Spa Zeel",
+      "trustAndSafety": "Confiance & Sécurité"
+    },
+    "providers": {
+      "title": "Prestataires",
+      "workWithZeel": "Travailler avec Zeel",
+      "applyNow": "Postuler Maintenant",
+      "trustAndSafety": "Confiance & Sécurité"
+    },
+    "newsLetter": {
+      "title": "Bulletin d'information",
+      "buttonText": "S'abonner",
+      "inputPlaceholder": "Adresse e-mail ici"
+    },
+    "inHomeLocation": {
+      "title": "Emplacement de Massage à Domicile"
+    },
+    "chairMassageLocation": {
+      "title": "Emplacement de Massage sur Chaise"
+    }
+  },
+  "footer": {
+    "copyRight": "Droits d'auteur ©2024",
+    "designer": "Concepteur. Tous droits réservés",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité"
+  }
+}

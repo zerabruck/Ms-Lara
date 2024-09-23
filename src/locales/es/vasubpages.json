@@ -1,0 +1,390 @@
+{
+    "navBar": {
+      "primaryNavBar": {
+        "bookAMassage": "Reservar un masaje",
+        "massageForVeterans": "Masaje para veteranos",
+        "learnAboutMassage": "Aprende sobre masajes",
+        "resourceForVa": "Recursos de veteranos",
+        "faqs": "Preguntas frecuentes"
+      },
+      "secondaryNavBar": {
+        "individuals": "Individuos",
+        "business": "Negocio",
+        "healthcare": "Socios de atención médica",
+        "providers": "Proveedores",
+        "sigin": "Iniciar sesión",
+        "signup": "Inscribirse",
+        "help": "Ayuda y contacto"
+      }
+    },
+    "bottomNav": {
+      "links": {
+        "first": "Masaje para veteranos",
+        "second": "Información del prescriptor",
+        "third": "Preguntas frecuentes",
+        "fourth": "Acerca de"
+      },
+      "description": "©2024 Networks Inc. Todos los derechos reservados.  <0>Condiciones de uso</0> y <0>política de privacidad</0> para más información.",
+      "footer": {
+        "first": "¿Tiene una referencia para un masaje?<0>Agenda ahora!</0>",
+        "second": " ¿Preguntas?  <0>(929) 279-5632</0> o correo electrónico <0>va@lara.com</0>."
+      }
+    },
+    "massageForVeterna": {
+      "header": {
+        "title": "Una solución sin medicamentos para el dolor. \n "
+      },
+      "howItWorks": {
+        "title": "¿Cómo funciona el masaje en casa?",
+        "steps": {
+          "step1": {
+            "number": "01",
+            "title": "1. Obtenga una referencia",
+            "description": "Reciba una derivación aprobada de su proveedor de atención primaria de VA para recibir terapia de masajes en casa."
+          },
+          "step2": {
+            "number": "02",
+            "title": "2. Reserva tu masaje",
+            "description": "Una vez que reciba la referencia, recibirá un enlace para programar su primer tratamiento en línea o por teléfono."
+          },
+          "step3": {
+            "number": "03",
+            "title": "3. Obtenga un alivio duradero",
+            "description": "enviará un terapeuta de masaje asegurado y con licencia para recibir tratamiento en su hogar, según su horario."
+          }
+        }
+      },
+      "cta": "¿Ya tienes una referencia para masajes? <0> Haga clic aquí para programar su cita</0>",
+      "benefits": {
+        "title": "Con prescripción médica <0>terapia de masaje</0>, puede experimentar alivio del dolor muscular y articular, la rigidez y las limitaciones de movilidad, y <0>otras condiciones</0>, sin fármacos ni efectos secundarios.",
+        "description": "lo que lleva esa atención directamente a la comodidad y privacidad de su hogar, como proveedor de la Red VA Community Care. "
+      },
+      "howToGetMassage": {
+        "title": "¿CÓMO RECIBO UN MASAJE? "
+      },
+      "highLightHero": {
+        "title": "Destacando a nuestros héroes: Coronel Thomas O'Malley",
+        "description": "Thomas O'Malley, veterano del USMC de 82 años, pasó años sometiéndose a cirugías y tomando analgésicos recetados para el dolor de las lesiones sufridas en Vietnam. ",
+        "footer": "Mire el video para conocer su historia de recuperación."
+      },
+      "howIsDifferent": {
+        "tabs": {
+          "first": "¿En qué se diferencia?",
+          "second": "¿Su seguridad es lo primero?",
+          "third": "¿Programar de forma rápida y sencilla?"
+        },
+        "howIsDifferentTab": {
+          "first": "Los proveedores de la red vienen directamente a su casa, lo que significa que no tendrá que desplazarse, ni tener salas de espera, ni perder tiempo en su propio día.",
+          "second": "Su terapeuta de masaje viajará a su ubicación en el momento que usted elija, equipado con una camilla de masaje y todos los suministros necesarios, listo para abordar sus inquietudes específicas. "
+        }
+      },
+      "testimonial": {
+        "first": {
+          "author": "DANA B. -Los Ángeles, CA",
+          "body": "“Me siento muy segura al permitir que estos profesionales entren a mi casa. ¡Eso es depositar mucha confianza en una empresa y es lo mejor! "
+        }
+      },
+      "whereIsAvailable": {
+        "title": "¿Dónde está disponible?",
+        "description": " MrsLara trabaja con VA todos los días para ampliar el acceso de los veteranos a masajes médicos convenientes. "
+      }
+    },
+    "learnAboutMassage": {
+      "header": {
+        "first": "El masaje como medicina: cómo puede aliviar el dolor y mejorar vidas",
+        "second": "El masaje mantiene el cuerpo acondicionado para las cosas que hace todos los días: sentarse en un escritorio o en el automóvil, jugar con niños y nietos o hacer tareas en la casa.",
+        "third": "Para todas las formas en que pones a trabajar nuestros huesos, articulaciones y músculos todos los días, el masaje te ayuda a hacerlo de forma segura y sin dolor."
+      },
+      "massageBenefit": {
+        "title": "Terapia de masaje 101",
+        "description": "Masaje es un término general para describir la manipulación manual de músculos, tendones y ligamentos para lograr un efecto terapéutico. "
+      },
+      "conditionsApplied": {
+        "title": "¿Qué condiciones pueden mejorarse con el masaje?",
+        "tabs": {
+          "first": "Condiciones musculoesqueléticas",
+          "second": "Condiciones cardiovasculares",
+          "third": "Trastornos psicológicos y del sueño"
+        },
+        "firstTab": {
+          "mskPain": {
+            "title": "Dolor MSK",
+            "firstDescription": "El dolor musculoesquelético (MSK), dolor que afecta los músculos, las articulaciones, los ligamentos, los tendones y los huesos, es muy común, con aproximadamente <0> la mitad de todos los estadounidenses</0> se estima que lo padece.  <0>abuso y adicción a opioides</0> y puede conducir a otras condiciones de salud graves como depresión y<0>insomnio</0> .",
+            "secondDescription": "Se ha demostrado a través de numerosos estudios que el masaje es un tratamiento eficaz y seguro para el dolor de MSK. <0>mejorando la movilidad</0> y <0>reduciendo el dolor</0>, y a diferencia de la medicación y la cirugía, consiguiendo esta mejoría sin efectos adversos para la salud.",
+            "thirdDescription": "El masaje reduce la <0> producción de cortisol en el cuerpo </0>, la hormona del estrés, reduciendo así la presión arterial y la tensión muscular. <0> El masaje puede ayudar a reducir la inflamación. </0> Después de un uso extenso de los músculos, la inflamación puede causar dolor agudo de MSK.",
+            "fourthDescription": "La mayoría de los estudios sobre la eficacia del masaje muestran que el masaje semanal es exponencialmente más efectivo que los masajes ocasionales."
+          },
+          "clinicalRecommendation": {
+            "title": "RECOMENDACIONES CLÍNICAS",
+            "description": "El tipo ideal de masaje para tratar el dolor MSK puede depender de la ubicación del dolor. "
+          }
+        }
+      },
+      "haveAQuestion": "¿Tiene preguntas sobre si la terapia de masaje puede ayudarle a usted o a sus pacientes?  <0>877-OBTENER-</0> hablar con un experto sobre la terapia de masajes como parte de una estrategia de atención clínica integradora."
+    },
+    "resourceForVs": {
+      "header": " El masaje como medicina: cómo puede aliviar el dolor y mejorar vidas",
+      "vaAndBeyond": {
+        "header": "Recursos de VA y más allá",
+        "first": {
+          "header": "Beneficios de salud mental",
+          "description": "Abordar el dolor a través de la mente: la terapia cognitivo-conductual para el dolor crónico (CBT-CP) proporciona un enfoque estratégico de resolución de problemas que permite a las personas cambiar su experiencia del dolor, física y emocionalmente.",
+          "footer": "Infórmese sobre la cobertura CBT y VA del mismo >>"
+        },
+        "second": {
+          "header": "Ciencia del masaje",
+          "description": "La VHA ha citado \"evidencia de alta confianza\" de que la terapia de masaje es muy eficaz para el tratamiento de una variedad de condiciones de dolor. ",
+          "footer": "terapia de masaje en el gobierno de VA >>"
+        },
+        "third": {
+          "header": "De nuestro blog",
+          "description": "¿Tiene dificultades para dormir bien por la noche? ",
+          "footer": "Descubra cómo utilizar el yoga para dormir mejor >>"
+        }
+      },
+      "urgent": {
+        "header": "URGENTE: ¡Ayude a proteger las tarifas salariales de los masajistas de VHA!",
+        "description": "Los masajistas brindan una terapia valiosa para el dolor, pero el VA ha reducido el reembolso al proveedor por este tratamiento. ",
+        "footer": "Descubra más"
+      },
+      "newsAndUpdates": {
+        "header": "Noticias y actualizaciones",
+        "news": {
+          "first": {
+            "description": "El miembro del Comité de Asuntos de Veteranos de la Cámara de Representantes, Chris Pappas (D-NH), ha pedido al secretario de VA, McDonough, que revierta la decisión del VA de reducir las tasas de reembolso para la terapia de masajes, diciendo: \"Esta decisión tiene implicaciones de gran alcance, que afectan negativamente el bienestar de los veteranos. ",
+            "link": "Más información »"
+          },
+          "second": {
+            "description": "Los senadores estadounidenses solicitan información actualizada sobre las opciones de manejo del dolor sin opioides para los veteranos: el senador Kevin Cramer de Dakota del Norte se une a otros 21 senadores para solicitar una actualización del secretario de VA McDonough sobre el progreso que VA ha logrado en el desarrollo de programas de manejo del dolor sin opioides para prevenir ",
+            "link": "Obtenga más información y lea la carta »"
+          },
+          "third": {
+            "description": "¿Tiene alguna pregunta para el secretario de VA, McDonough? ",
+            "link": "Envíe su pregunta aquí."
+          },
+          "fourth": {
+            "description": "Los resultados de los estudios clínicos continúan mostrando la eficacia de la terapia de masajes para una variedad de afecciones que afectan a los veteranos, incluidos el dolor crónico, la ansiedad y el trastorno de estrés postraumático.",
+            "link": "Más información »"
+          },
+          "fifth": {
+            "description": "Felicitaciones a esta clínica de Texas que se especializa en atención a veteranos con el mismo enfoque que tenemos nosotros: usar masajes para mejorar la calidad de vida y al mismo tiempo reducir la dependencia de opioides y cirugía.",
+            "link": "Aprenda sobre Tranquilidad para las tropas »"
+          },
+          "sixth": {
+            "description": "La ampliación de la Ley PACT de 2024 amplía la elegibilidad para los beneficios de atención de exposición tóxica a los veteranos de la Guerra de Vietnam, la Guerra del Golfo y los despliegues posteriores al 11 de septiembre. ",
+            "link": "Infórmese en va.gov »"
+          }
+        }
+      },
+      "video": {
+        "header": "Vídeo: Mindfulness para el dolor crónico",
+        "description": "Muchos estudios han demostrado que el mindfulness ofrece numerosos beneficios para la salud física y mental. ",
+        "footer": "Explora más meditaciones guiadas »"
+      },
+      "featured": {
+        "header": "Recurso destacado: Rx3",
+        "description": " Rx3 es una serie de programas de ejercicios y estiramientos en línea diseñados para ayudar a los miembros del servicio y a los veteranos a recuperarse de lesiones de MSK, mejorar su condición física y mejorar su salud general.  <0> Recursos de desempeño humano por CHAMP</0>",
+        "footer": "Sigue recuperándote con Rx3 »"
+      }
+    },
+    "faqs": {
+      "header": " Preguntas frecuentes",
+      "generalMassage": {
+        "header": "Preguntas generales sobre masajes",
+        "first": {
+          "title": "¿Qué es el masaje?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "second": {
+          "title": "¿Cómo funciona el masaje?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "third": {
+          "title": "¿Los masajes son dolorosos?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "fourth": {
+          "title": "¿Qué tipo de condiciones se pueden ayudar con el masaje?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "fifth": {
+          "title": "¿Qué tipos de masajes existen?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        }
+      },
+      "inHomeMassage": {
+        "header": "Masaje A Domicilio Sra Lara",
+        "first": {
+          "title": "¿Qué es la señora Lara?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "second": {
+          "title": "¿Dónde están disponibles los masajes a domicilio?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "third": {
+          "title": "¿Por qué debería confiar en la señora Lara?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "fourth": {
+          "title": "¿Quiénes son los terapeutas de la red?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "fifth": {
+          "title": "¿Puedo elegir a mi terapeuta?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "sixth": {
+          "title": "¿Qué días y horarios están disponibles los masajes de la señora Lara?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "seventh": {
+          "title": "¿Cómo debo preparar mi casa para un masaje?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        }
+      },
+      "bookingQuestions": {
+        "header": "Reservas en va.MrsLara.com",
+        "first": {
+          "title": "¿Tengo que utilizar el sitio web para reservar citas de masajes?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "second": {
+          "title": "¿Puedo usar la aplicación para programar mi masaje?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "third": {
+          "title": "¿Alguien puede programar un masaje para mí en mi nombre?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "fourth": {
+          "title": "¿Con cuánta antelación tengo que programar un masaje con la señora Lara?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "fifth": {
+          "title": "¿Cómo elijo una hora de cita?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "sixth": {
+          "title": "¿Cómo ingreso notas adicionales sobre mi cita?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        }
+      },
+      "referralQuestions": {
+        "header": "Referencias de VA",
+        "first": {
+          "title": "¿Cómo obtengo una remisión del VA?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "second": {
+          "title": "¿Cuánto tiempo lleva reservar un masaje con la Sra. Lara una vez que obtengo una referencia?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "third": {
+          "title": "¿Cuánto duran los masajes que puedo recibir a través de mi referencia de VA?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "fourth": {
+          "title": "¿Cuántos masajes puedo recibir a través de mi referencia de VA?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        },
+        "fifth": {
+          "title": "¿Puedo ver al mismo terapeuta para todos mis masajes?",
+          "questions": [
+            "¿Quiénes son los terapeutas que brindan el masaje en silla de la Sra. Lara?",
+            "¿Por qué la señora Lara incluye una propina automática del 18% para los masajistas?",
+            "¿Puedo utilizar mi seguro médico para pagar mi masaje?"
+          ]
+        }
+      },
+      "cta": "¿No encuentra las respuestas que necesita?  <0>877-OBTENER-</0>o vía correo electrónico a va@."
+    }
+  }

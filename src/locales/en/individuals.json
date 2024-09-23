@@ -1,0 +1,294 @@
+{
+  "navBar": {
+    "primaryNavBar": {
+      "inhomeService": "In-Home Service",
+      "store": "Store",
+      "blog": "blog",
+      "trustAndSafety": "Trust & Safety",
+      "bookAMassage": "Book a Massage",
+      "dropDowns": {
+        "massage": "Massage",
+        "massageForVeterans": "Massage for Veterans",
+        "massageMembership": "Massage Membership",
+        "gifts": "Mrs. Lara Gifts",
+        "referral": "Referral"
+      }
+    },
+    "secondaryNavBar": {
+      "individuals": "Individuals",
+      "business": "Business",
+      "healthcare": "Healthcare Partners",
+      "providers": "Providers",
+      "sigin": "Sign in",
+      "signup": "Sign up",
+      "help": "Help & contact"
+    }
+  },
+  "landingPage": {
+    "focalPoint": {
+      "header": "Massage Therapy That Comes to You",
+      "secondaryHeader": "Massage therapy in the comfort of your home or workplace, for pain relief, stress management, and wellness.",
+      "veteransMessage": "Veterans: get medical massage through your VA benefits",
+      "inputButton": {
+        "text": "Book a Massage"
+      },
+      "cards": {
+        "first": {
+          "title": "Fast, Personalized Booking",
+          "body": "Choose the massage type, gender of your therapist, and a convenient time."
+        },
+        "second": {
+          "title": "Vetted Providers",
+          "body": "Therapists are licensed, insured, and fully equipped for each appointment."
+        },
+        "third": {
+          "title": "HSA/FSA Eligible",
+          "body": "Use your tax-advantaged funds to pay for massage therapy at home."
+        }
+      }
+    },
+    "militartVeteranSection": {
+      "header": "Are You a US Military Veteran?",
+      "description": "Mrs Lara in-home massage therapy is now a fully covered VA benefit—FREE for VA members... Find Out More"
+    },
+    "scallableSolutionSection": {
+      "header": "Scalable Massage Solutions for Business & Healthcare",
+      "cards": {
+        "first": {
+          "title": "Employers",
+          "body": "Scalable Massage Solutions for Business & Healthcare"
+        },
+        "second": {
+          "body": "Massage therapist staffing to help spas capture more revenue, more efficiently. ",
+          "title": "Spas & Hotels"
+        },
+        "third": {
+          "title": "Health Plans",
+          "body": " Scientifically proven massage therapy as a cost-saving option for members."
+        }
+      }
+    },
+    "howZeelIsDifferent": {
+      "header": "How is Mrs Lara Different?",
+      "tabs": {
+        "buttons": {
+          "first": "Mrs Lara comes to you – always",
+          "second": "Easy app-based scheduling",
+          "third": "Your safety comes first"
+        },
+        "content": {
+          "paragraphs": {
+            "first": "Providers from the Zeel network travel directly to your home or workplace, so you can enjoy a safer, more convenient, and more rewarding experience.",
+            "second": "Your provider comes to you at the time of your choosing – and you’ll get more from every service when you don’t have to get in the car, find a babysitter, or leave the comfort and safety of home or work. Zeel gives you your own time back, with added peace of mind."
+          }
+        }
+      }
+    },
+    "fastAndEasyBookingSection": {
+      "header": "Fast, easy booking in the palm of your hand",
+      "listItems": {
+        "first": "Secure, easy-to-use technology that puts your care in your hands",
+        "second": "Easy in-app and web-based booking that connects you to your providers",
+        "third": "Powered by tech-based automation, with chat support, appointment reminders, and SOAP notes",
+        "fourth": "HIPAA-compliant and built for seamless third-party reimbursement"
+      }
+    },
+    "joinTheNetworkSection": {
+      "header": "Join the Mrs Lara Provider Network",
+      "body": "Bring your expertise to the most trusted network of in-home healthcare professionals. Apply Now"
+    },
+    "meetProvidersSection": {
+      "header": "Meet Your Providers",
+      "providers": {
+        "firstProvider": {
+          "name": "Jean-Pierre DeBarros",
+          "credentials": "LICENSED MASSAGE THERAPIST, MIAMI FL",
+          "description": {
+            "paragraphs": {
+              "first": "Jean-Pierre started his healthcare career as a exercise physiologist later enering the Air Force, where he managed it’s largest healthcare clinic at Andrews Air Force Base. Jean-Pierre holds as BS in Exercise Physiology and an MS in Healthcare Administration.",
+              "second": "“I got into massage so I could work directly with patients on their injuries, pain and other conditions reducing their quality of life, Massage is part of a hands-on healthcare continuum - and can make a huge difference in people’s long-term wellbeing.”"
+            }
+          }
+        }
+      }
+    },
+    "militaryProviders": {
+      "header": "IN THE NEWS",
+      "title": "Zeel Connects Massage Therapists to Veterans",
+      "body": "MASSAGE Magazine: Zeel’s [VA] massage therapy program emerged from its pilot stage with impressive figures related to pain relief and compliance. 'Nothing has done what massage has done for me, it’s incredible,' said Marine Corps Veteran Donald Deleskiewicz.",
+      "footer": "Read more at Massage Magazine"
+    },
+    "needReliefSection": {
+      "header": "Need pain relief now? Book your in-home massage in just a few taps.",
+      "buttonText": "Book In Home Massage"
+    }
+  },
+  "storePage": {
+    "callToActionSection": {
+      "title": "Store",
+      "body": "At Zeel, we believe in holistic wellness. Our store offers a thoughtfully curated selection of our favorite, tested products.",
+      "buttonText": "Book Now"
+    },
+    "whyTrustUsSection": {
+      "body": "We seek out premier products and partnerships to offer you the best in integrative wellness. Our inaugural partner, Hyperice, is the leader in percussion massage technology. Together, we can enhance your body’s movement on the massage table or stretch mat and off."
+    },
+    "products": {
+      "title": "Products"
+    }
+  },
+  "trustAndSafety": {
+    "title": "Trust & Safety",
+    "tabs": {
+      "headlines": {
+        "tabButtonText": "Headlines Guidelines",
+        "sections": {
+          "firstSecond": {
+            "paragraphs": {
+              "firstParagraph": "At our top priority has always been to make access to vital health and wellness services as seamless and safe as possible.",
+              "secondParagraph": "Our dedicated team of Trust & Safety professionals is constantly monitoring and updating the health and safety guidelines we share with the thousands of providers on the network. These guidelines are in line with federal, state and local directives surrounding the delivery of health and wellness services.",
+              "thirdParagraph": "Clients may share special hygiene requests prior to the provider arriving for the appointment"
+            }
+          },
+          "secondSecond": {
+            "title": "Cleanliness Practices",
+            "paragraphs": {
+              "firstParagraph": "Providers follow CDC guidelines on handwashing or using hand sanitizer with at least 60% alcohol content. Providers adhere to industry best practices which includes disinfecting equipment between clients and patients.",
+              "secondParagraph": "Clients and patients should never book an in-home treatment if they or a household member have symptoms of illness"
+            }
+          }
+        }
+      },
+      "consumers": {
+        "tabButtonText": "For Consumers",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "We proudly delivered millions of health and wellness appointments to homes and corporate offices across more than 100 metro areas in the U.S."
+            }
+          },
+          "secondSection": {
+            "title": "Vetted Providers",
+            "paragraphs": {
+              "firstParagraph": "Our network of more than 11,000 providers includes massage therapists, physical therapists, nurses, and other healthcare practitioners.",
+              "secondParagraph": "Each provider on the network is insured and thoroughly evaluated. In addition, each passes an ID-verification process and undergoes a mandatory criminal background check with continuous monitoring."
+            }
+          },
+          "thirdSection": {
+            "title": "Provider Booking and Reviews",
+            "paragraphs": {
+              "firstParagraph": "After booking an appointment through, patients and clients receive a confirmation with their provider’s name, photo, a short bio, credentials, and massage license number (for massage bookings)",
+              "secondParagraph": "We strongly encourage clients and patients to make us aware of any issues or concerns about their appointment or provider. Contact our Support team either by email at help@lara.com or through the app or website. Serious issues will be escalated to our Trust & Safety team"
+            }
+          }
+        }
+      },
+      "providers": {
+        "tabButtonText": "For Providers",
+        "sections": {
+          "firstSection": {
+            "title": "Verified Clients",
+            "paragraphs": {
+              "firstParagraph": "All clients and patients are verified, but we does not conduct background checks on its clients/patients."
+            }
+          },
+          "secondSection": {
+            "title": "Verified Clients",
+            "paragraphs": {
+              "firstParagraph": "All clients and patients are verified, but we does not conduct background checks on its clients/patients."
+            }
+          },
+          "thirdSection": {
+            "title": "Safety and Support",
+            "paragraphs": {
+              "firstParagraph": "Providers in our network can decline any appointment based on a Trust and Safety issue at any time, including once an appointment has started. Our Support and Trust and Safety teams are available when a provider in the network is at a home, hotel, or workplace for an appointment.",
+              "secondParagraph": "Providers are strongly encouraged to communicate with us if they have any concerns about a client or work environment upon arrival. Once an appointment is completed, providers are asked to rate the client and the interaction. In addition, if a provider’s concern rises to the level of safety, the provider is strongly encouraged to report the client to our Trust & Safety team immediately by contacting Support by email to help@lara.com or by messaging within Provider app."
+            }
+          }
+        }
+      },
+      "businesses": {
+        "tabButtonText": "For Businesses",
+        "sections": {
+          "firstSection": {
+            "paragraphs": {
+              "firstParagraph": "We proudly delivered millions of health and wellness appointments to homes and corporate offices across more than 100 metro areas in the U.S."
+            }
+          },
+          "secondSection": {
+            "title": "Vetted Providers",
+            "paragraphs": {
+              "firstParagraph": "Our network of more than 11,000 providers includes massage therapists, physical therapists, nurses, and other healthcare practitioners.",
+              "secondParagraph": "Each provider on the network is insured and thoroughly evaluated. In addition, each passes an ID-verification process and undergoes a mandatory criminal background check with continuous monitoring."
+            }
+          },
+          "thirdSection": {
+            "title": "Client Care",
+            "paragraphs": {
+              "firstParagraph": "We strongly encourage our clients to report issues or concerns about their appointment or provider. Clients can contact the Support team by email at help@lara.com or through the app. Serious matters are escalated to the Trust & Safety team."
+            }
+          }
+        }
+      },
+      "trustAndSafetyTeam": {
+        "tabButtonText": "Trust & Safety Team",
+        "paragraphs": {
+          "firstParagraph": "Our Trust & Safety team is an expert group of professionals, including law enforcement officials, former investigative journalists, and legal counsel focused on utilizing best-in-class security practices and software tools to address all matters of trust and safety.",
+          "secondParagraph": "Trust & Safety is available any time a appointment is taking place. The team can be reached by contacting Support via email at help@lara.com or via chat at lara.com/help."
+        }
+      }
+    }
+  },
+  "bottomNav": {
+    "aboutSection": {
+      "about": "About",
+      "career": "Career",
+      "blog": "Blog",
+      "press": "Press, Media and News",
+      "release": "Press Release",
+      "siteMap": "Site Map"
+    },
+    "individualsSections": {
+      "title": "Individuals",
+      "inhome": "In-Home Services",
+      "massage": "Massage",
+      "massageForVets": "Massage for veterans",
+      "massagePriceAndLocations": "Massage Price & Locations",
+      "massageMembership": "Massage Membership",
+      "zeelGifts": "Zeel Gifts",
+      "zeelStore": "Zeel Store",
+      "trustAndSafety": "Trust & Safety",
+      "payment": "HSF/HSA Payment"
+    },
+    "businesses": {
+      "title": "Businesses",
+      "partners": "Solutions for Healthcare partners",
+      "workplaceWellness": "Workplace Wellness",
+      "bookAChair": "Book a chair Massage Event",
+      "spaStafffing": "Zeel spa Staffing",
+      "trustAndSafety": "Trust & Safety"
+    },
+    "providers": {
+      "title": "Providers",
+      "workWithZeel": "Work with Zeel",
+      "applyNow": "Apply Now",
+      "trustAndSafety": "Trust & Safety"
+    },
+    "newsLetter": {
+      "title": "Newsletter",
+      "buttonText": "Subscribe",
+      "inputPlaceholder": "Email address here"
+    },
+    "inHomeLocation": {
+      "title": "In-Home Message Location"
+    },
+    "chairMassageLocation": {
+      "title": "Chair Message Location"
+    }
+  },
+  "footer": {
+    "copyRight": "Copyrights ©2024",
+    "designer": "designer. All Rights Reserved",
+    "terms": "Terms and Use",
+    "privacy": "Privacy Policy"
+  }
+}

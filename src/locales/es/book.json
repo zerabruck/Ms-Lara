@@ -1,0 +1,174 @@
+{
+  "tabs": {
+    "detailsTab": {
+      "tabButton": "Detalles",
+      "steps": {
+        "firstStep": {
+          "header": "Elige un servicio",
+          "subText": "Servicios en 10005",
+          "cards": {
+            "first": {
+              "title": "Masaje",
+              "text": "Reserva un masaje a domicilio, en tu habitación de hotel o en tu oficina, desde nuestra app o .com."
+            },
+            "second": {
+              "title": "Estiramiento asistido",
+              "text": "Elige el tipo de masaje y el género de tu terapeuta, y él o ella llegará con una camilla de masaje."
+            }
+          },
+          "buttonText": "continuar"
+        },
+        "secondStep": {
+          "form": {
+            "formFields": {
+              "howManyPeople": {
+                "label": "¿Cuántas personas?",
+                "options": {
+                  "first": "Una",
+                  "second": "Múltiples"
+                }
+              },
+              "duration": {
+                "label": "Duración",
+                "options": {
+                  "first": "60m",
+                  "second": "75m",
+                  "thrid": "90m"
+                }
+              },
+              "gender": {
+                "label": "Género del terapeuta",
+                "options": {
+                  "first": "Masculino",
+                  "second": "Femenino",
+                  "third": "Cualquiera"
+                }
+              },
+              "massageFor": {
+                "label": "¿Para quién es el masaje?",
+                "options": {
+                  "first": "Una persona",
+                  "second": "Grupo"
+                }
+              }
+            }
+          },
+          "cards": {
+            "first": {
+              "title": "Masaje",
+              "text": "Una técnica restauradora que alivia el estrés, mejora la circulación y reduce los dolores musculares."
+            },
+            "second": {
+              "title": "Tejido profundo",
+              "text": "Un estilo más fuerte que se enfoca en la tensión muscular profunda y los nudos, perfecto para la recuperación atlética."
+            },
+            "third": {
+              "title": "Prenatal",
+              "text": "Una modalidad suave diseñada para mejorar el bienestar y aliviar las tensiones físicas del embarazo."
+            }
+          }
+        }
+      }
+    },
+    "locationTab": {
+      "tabButton": "Ubicación",
+      "header": "Agregar ubicación",
+      "subText": "Dirección donde se realizará el masaje",
+      "cantFindAddress": "No puedo encontrar mi dirección",
+      "form": {
+        "formFields": {
+          "address": {
+            "label": "Dirección"
+          },
+          "unit": {
+            "label": "Número de unidad (Opcional)"
+          },
+          "tabel": {
+            "label": "¿Tienes una camilla de masaje?",
+            "options": {
+              "first": "Sin camilla",
+              "second": "1 camilla",
+              "third": "2 camillas"
+            }
+          },
+          "stairs": {
+            "label": "¿Es necesario subir escaleras para acceder?",
+            "options": {
+              "first": "No",
+              "second": "1 piso",
+              "third": "2+ pisos"
+            }
+          },
+          "parking": {
+            "label": "¿Alguna nota sobre el estacionamiento y la ubicación?"
+          }
+        },
+        "buttonText": "continuar"
+      }
+    },
+    "timeTab": {
+      "tabButton": "Tiempo",
+      "header": "¿Cuándo te gustaría reservar?",
+      "buttonTexts": {
+        "first": "Reservar cualquier terapeuta",
+        "second": "Reservar cualquier terapeuta"
+      },
+      "slotText": "Te asignaremos con el mejor terapeuta disponible durante tu horario preferido."
+    },
+    "paymentTab": {
+      "tabButton": "Pago",
+      "header": "Elige tu precio",
+      "subHeaderButton": "Elegible para HSA/FSA",
+      "thisBooking": "esta reserva",
+      "cards": {
+        "first": {
+          "header": "Miembro",
+          "secondaryHeader": "Pago único"
+        },
+        "second": {
+          "header": "Miembro",
+          "secondaryHeader": "$119/mes",
+          "price": "$119.00",
+          "contactInfo": "Masaje mensual de 60 minutos Compromiso de 2 meses"
+        },
+        "third": {
+          "header": "Miembro",
+          "secondaryHeader": "$109/mes",
+          "price": "$109.00",
+          "contactInfo": "Masaje mensual de 60 minutos Soporte al cliente prioritario Compromiso de 12 meses"
+        }
+      },
+      "selectButton": "Seleccionar"
+    },
+    "finishTab": {
+      "tabButton": "Finalizar",
+      "cards": {
+        "first": {
+          "title": "Agregar dirección de envío",
+          "body": "Proporciona una dirección de envío para recibir futuros beneficios de membresía. Asegúrate de que se puedan recibir paquetes en esta ubicación."
+        },
+        "second": {
+          "title": "Agregar pago",
+          "body": "Selecciona tu método de pago y añade los detalles."
+        },
+        "third": {
+          "title": "Tiempo"
+        },
+        "header": "Resumen",
+        "cancelHeader": "Cancelar hasta 4 horas antes",
+        "seeTherapistBio": "Ver biografía del terapeuta cuando sea asignado",
+        "memberSubscription": "Suscripción de miembro",
+        "promoGift": "Código promocional o tarjeta de regalo",
+        "discalimer": {
+          "first": "Preautorizaremos un cargo en tu método de pago por el monto total anterior y lo cobraremos después de que tu cita haya finalizado. Al seleccionar 'Agregar pago', confirmo que he leído y aceptado el Acuerdo de miembro y me comprometo a al menos 2 cargos mensuales de $140.42.",
+          "second": "Al seleccionar 'Agregar pago', confirmo que he leído y aceptado el Acuerdo de miembro y me comprometo a al menos 2 cargos mensuales de $140.42."
+        },
+        "buttonText": "Agregar pago",
+        "footer": [],
+        "dueToday": "Vencimiento hoy",
+        "monthly": "Cargo mensual",
+        "firstTimeDiscount": "Descuento por primera reserva"
+      }
+    }
+  }
+}

@@ -1,0 +1,633 @@
+{
+    "massage": {
+      "header": {
+        "cardFirst": {
+          "title": "El masaje perfecto en casa",
+          "description": "Relájese, recupérese y descanse con un masaje con calidad de spa en la comodidad de su hogar. "
+        },
+        "cardSecond": {
+          "title": "El masaje perfecto en casa",
+          "description": "Relájese, recupérese y descanse con un masaje con calidad de spa en la comodidad de su hogar. "
+        },
+        "cardThird": {
+          "title": "El masaje perfecto en casa",
+          "description": "Relájese, recupérese y descanse con un masaje con calidad de spa en la comodidad de su hogar. "
+        },
+        "inputPlaceholder": "Ingrese su ciudad y estado o dirección",
+        "button": "Reserva ahora"
+      },
+      "howItWorks": {
+        "title": "Cómo funciona",
+        "cardFirst": {
+          "title": "Libro",
+          "number": "01",
+          "description": "Reserva un masaje a la carta en casa, en tu habitación de hotel o en tu oficina, desde nuestra app o MrsLara.com."
+        },
+        "cardSecond": {
+          "title": "Relajarse",
+          "number": "02",
+          "description": "Elige el tipo de masaje y el sexo de tu terapeuta, y él o ella llegará con una camilla de masaje."
+        },
+        "cardThird": {
+          "title": "Repetir",
+          "number": "03",
+          "description": "Reserva cuando quieras, de 8:00 a 24:00 horas, los 365 días del año, y disfruta siempre de una experiencia 5 estrellas."
+        }
+      },
+      "testimonial": {
+        "first": {
+          "author": "JAMES, NUEVA YORK",
+          "description": "¡Es increíble! "
+        },
+        "second": {
+          "author": "JAMES, NUEVA YORK",
+          "description": "¡Es increíble! "
+        },
+        "third": {
+          "author": "JAMES, NUEVA YORK",
+          "description": "¡Es increíble! "
+        }
+      },
+      "onDemand": {
+        "button": {
+          "first": "Sesión de terapia",
+          "second": "Reserva ahora",
+          "third": "Consultar disponibilidad"
+        },
+        "firstCard": {
+          "title": "Masaje a pedido simplificado",
+          "description": "El masaje a domicilio ofrece todos los beneficios de una experiencia de spa sin viajes, esperas ni logística, y sin necesidad de llamar a una niñera. "
+        },
+        "secondCard": {
+          "title": "Su confianza es nuestra máxima prioridad",
+          "description": " Como líder de la industria en seguridad, todos los profesionales de la red tienen licencia, están asegurados y son examinados minuciosamente utilizando nuestros protocolos de seguridad líderes en la industria. "
+        }
+      },
+      "membership": {
+        "title": "Una membresía diseñada para tu estilo de vida",
+        "description": "Los miembros de Z disfrutan de un masaje mensual a domicilio a una tarifa preferencial: la opción natural para hacer del bienestar un elemento central de su rutina diaria.",
+        "button": "Hazte miembro"
+      },
+      "faqs": {
+        "title": {
+          "first": "Preguntas frecuentes",
+          "second": "Haznos tus preguntas"
+        },
+        "firstFaq": {
+          "question": "¿Tengo que darle propina al masajista?",
+          "answer": "Si reserva más de un masaje al mes como miembro, también disfrutará de su tarifa de miembro en esos masajes."
+        },
+        "secondFaq": {
+          "question": "¿Puedo regalar un masaje a domicilio?",
+          "answer": "¡Absolutamente! "
+        },
+        "thirdFaq": {
+          "question": "¿Cuándo me cobrarán?",
+          "answer": "Los precios varían según el mercado, pero disfrutarás de la tarifa Miembro o Miembro Plus en la ciudad que visites."
+        },
+        "fourthFaq": {
+          "question": "¿Mi terapeuta traerá una camilla de masaje?",
+          "answer": "Los precios varían según el mercado, pero disfrutarás de la tarifa Miembro o Miembro Plus en la ciudad que visites."
+        },
+        "fifthFaq": {
+          "question": "¿Puedo elegir el género de mi terapeuta?",
+          "answer": "Los precios varían según el mercado, pero disfrutarás de la tarifa Miembro o Miembro Plus en la ciudad que visites."
+        }
+      },
+      "clientSaying": {
+        "title": "Lo que nuestros clientes <0/> Decir sobre nuestro servicio",
+        "description": "\"Hay muchas variaciones de pasajes de Lorem Ipsum disponibles, pero la mayoría ha sufrido alguna alteración, mediante humor inyectado o palabras aleatorias que no parecen ni un poco creíbles\".",
+        "clientCard": {
+          "name": "Tina Salem",
+          "position": "Director de xyz"
+        },
+        "rating": "Servicio increíble"
+      },
+      "bookAMassage": {
+        "title": "Reserve Masaje On Demand® Ahora",
+        "description": "Empiece por elegir su técnica de masaje.",
+        "button": "Reserva un mensaje",
+        "card": {
+          "first": {
+            "title": "sueco",
+            "description": "Una técnica reparadora que alivia el estrés, estimula la circulación y alivia los dolores y molestias musculares."
+          },
+          "second": {
+            "title": "Tejido profundo",
+            "description": "Un estilo más fuerte que se centra en tensiones y nudos musculares más profundos, perfecto para la recuperación atlética."
+          },
+          "third": {
+            "title": "Prenatal",
+            "description": "Una modalidad suave diseñada para potenciar el bienestar y aliviar las tensiones físicas del embarazo."
+          },
+          "fourth": {
+            "title": "Deportes",
+            "description": "Una fusión de masaje de tejido profundo y estiramiento diseñada para la recuperación y prevención de lesiones."
+          }
+        }
+      },
+      "pricing": {
+        "title": "Precios",
+        "description": "Los precios mostrados son para un masaje de 60 minutos en su zona.",
+        "button": "Elegible para HSA/FSA"
+      },
+      "nationalMassage": {
+        "title": "El masaje está disponible a nivel nacional, incluidas estas ciudades y regiones.",
+        "inputPlaceholder": "Buscar condado",
+        "button": "Reserva un mensaje",
+        "nations": {
+          "first": {
+            "country": "Carolina del Sur",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "second": {
+            "country": "Connecticut",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "third": {
+            "country": "Massachusetts",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "fourth": {
+            "country": "Oregón",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "fifth": {
+            "country": "Arizona",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "sixth": {
+            "country": "Michigan",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "seventh": {
+            "country": "Pensilvania",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "eighth": {
+            "country": "Arkansas",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "ninth": {
+            "country": "Florida",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "tenth": {
+            "country": "Rhode Island",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "eleventh": {
+            "country": "California",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "twelfth": {
+            "country": "Misuri",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "thirteenth": {
+            "country": "Alabama",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "fourteenth": {
+            "country": "Nebraska",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "fifteenth": {
+            "country": "Tennesse",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "sixteenth": {
+            "country": "Nevada",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "seventeenth": {
+            "country": "Nuevo Hampshire",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          },
+          "eighteenth": {
+            "country": "Delaware",
+            "cities": [
+              "charlestón",
+              "Columbia",
+              "Greenville",
+              "Hilton Heas",
+              "playa mirto"
+            ]
+          }
+        }
+      }
+    },
+    "va": {
+      "header": {
+        "title": "Llevamos la terapia de masaje a su puerta, cubierta por sus beneficios de VA",
+        "description": "Menos dolor, dormir mejor, hacer más las cosas que amas: todo comienza con nosotros, masajes a domicilio",
+        "button": "Descubra más"
+      },
+      "cta": "¿Ya tienes una referencia para masajes? ",
+      "massageForVeteran": {
+        "title": "Sirviendo Orgullosamente A Quienes Sirven A Nuestro País",
+        "firstDescription": "Estamos orgullosos de ser miembros de VA Community Care Network y brindamos terapia de masajes en el lugar como un beneficio cubierto para los veteranos.",
+        "secondDescription": "viene a ti. ",
+        "button": "Masaje para veteranos"
+      },
+      "videoHighlight": {
+        "title": " Destacando a nuestros héroes: Coronel Thomas 'Malley",
+        "description": "Thomas 'Malley, veterano del USMC de 82 años, pasó años sometiéndose a cirugías y tomando analgésicos recetados para el dolor de las lesiones sufridas en Vietnam. ",
+        "link": "Mire el video para conocer su historia de recuperación."
+      },
+      "howDoYouKnow": {
+        "title": "¿Cuánto sabes sobre masajes?",
+        "description": "¿Vive con dolor crónico, sufre de trastorno de estrés postraumático o se recupera de una lesión? ",
+        "link": "Explora los beneficios "
+      },
+      "forCareProviders": {
+        "title": "Para proveedores de atención: prescripción de masajes para obtener resultados positivos en los pacientes",
+        "description": "El masaje es bien conocido como una poderosa solución no farmacológica para afecciones musculoesqueléticas crónicas y agudas, pero su aplicación no termina ahí. ",
+        "link": "Información para proveedores de atención"
+      },
+      "provider": {
+        "description": "“Ofrece la forma más fácil y segura para que un paciente se conecte con un terapeuta de masaje capacitado. ",
+        "name": "JEANINE ALVERAS, LMT Dayton, OH",
+        "link": "Conoce más proveedores"
+      }
+    },
+    "massageMembership": {
+      "header": {
+        "title": "La membresía de masajes: su rutina de bienestar, simplificada",
+        "description": "Recibe tu masaje mensual, estés donde estés, a nuestra mejor tarifa. ",
+        "button": "Conviértete en mentor"
+      },
+      "whatIsMembership": {
+        "title": "¿Qué es la Membresía?",
+        "description": "El plan de membresía es una suscripción mensual para verdaderos amantes de los masajes. "
+      },
+      "testimonial": {
+        "first": {
+          "reviewer": ". ",
+          "description": " Excelente servicio al cliente, excelente plantel de profesionales, <0></0>fácil de usar en lugares de todo el país."
+        },
+        "second": {
+          "reviewer": ". ",
+          "description": " Excelente servicio al cliente, excelente plantel de profesionales, <0></0>fácil de usar en lugares de todo el país."
+        },
+        "third": {
+          "reviewer": ". ",
+          "description": " Excelente servicio al cliente, excelente plantel de profesionales, <0></0>fácil de usar en lugares de todo el país."
+        }
+      },
+      "easyWellness": {
+        "first": {
+          "title": "Creado para facilitar el bienestar",
+          "description": "Tu vida está repleta. "
+        },
+        "second": {
+          "title": "Diseñado para adaptarse a tu vida",
+          "description": " Con una agenda tan ocupada como la suya, la flexibilidad no es negociable. ¿Viaja? "
+        }
+      },
+      "ritual": {
+        "title": "Tu ritual mensual",
+        "card": {
+          "first": {
+            "title": "Masaje de 60 Min Mensual",
+            "description": "Un masaje al mes sin cuota de iniciación, con créditos que se acumulan y nunca caducan."
+          },
+          "second": {
+            "title": "Tarifa Preferida Cada Vez",
+            "description": "Obtenga su tarifa ℠ Member en todas las reservas, incluidas las de sus seres queridos."
+          },
+          "third": {
+            "title": "Atención al cliente prioritaria",
+            "description": "Esté al frente de la fila y reciba respuestas priorizadas a sus problemas de soporte."
+          }
+        },
+        "button": "Conviértete en mentor"
+      },
+      "pricing": {
+        "title": "Precios",
+        "description": "Los precios mostrados son para un masaje de 60 minutos en su zona.",
+        "button": "Elegible para HSA/FSA",
+        "card": {
+          "first": {
+            "title": " Miembro",
+            "price": "$159.00",
+            "subtitle": "8% de ahorro con compromiso de 2 meses",
+            "button": " Suscríbete y reserva",
+            "firstDescription": "Nuestra experiencia estándar de 5 estrellas, además de:",
+            "secondDescription": "Flexibilidad de membresía",
+            "thirdDescription": "Cancele o pausa en cualquier momento después de sus primeros dos pagos mensuales.",
+            "fourthDescription": "Un masaje de 60 minutos cada mes.",
+            "fifthDescription": "Se le factura un masaje al mes a la tarifa de miembro, sin tarifa inicial. ",
+            "sixthDescription": "Tarifa preferente en todas las reservas",
+            "seventhDescription": "Reserve tantas citas como desee con la tarifa para miembros, en cualquier lugar disponible."
+          },
+          "second": {
+            "title": " Miembro",
+            "price": "$145.00",
+            "subtitle": "17% de ahorro con compromiso de 12 meses",
+            "button": " Suscríbete y reserva",
+            "firstDescription": "Nuestra experiencia estándar de 5 estrellas, además de:",
+            "secondDescription": "Un masaje de 60 minutos cada mes.",
+            "thirdDescription": "Se le factura un masaje al mes a la tarifa de miembro, sin tarifa inicial. ",
+            "fourthDescription": "Tarifa preferente en todas las reservas",
+            "fifthDescription": "Reserve tantas citas como desee con la tarifa para miembros, en cualquier lugar disponible.",
+            "sixthDescription": "Atención al cliente prioritaria",
+            "seventhDescription": "Esté al frente de la fila y reciba respuestas priorizadas a sus problemas de soporte.",
+            "eighthDescription": "Descuentos para socios",
+            "ninthDescription": "Beneficios exclusivos de nuestros socios, incluido un 15% de descuento en compras en la Tienda."
+          }
+        }
+      },
+      "featured": {
+        "title": "Beneficio de socio destacado: Hyperice",
+        "description": "Únase al nivel Miembro Plus para obtener un 15 % de descuento en todos los productos Hyperice en la Tienda, para rendimiento, recuperación y extensión de los beneficios del masaje entre tratamientos.",
+        "link": "visita la tienda"
+      },
+      "faqs": {
+        "title": "Haznos tus preguntas",
+        "button": "Ver todas las preguntas frecuentes",
+        "card": {
+          "first": {
+            "question": "¿Qué pasa si suelo recibir más de un masaje al mes?",
+            "answer": "Si reserva más de un masaje al mes como miembro, también disfrutará de su tarifa de miembro en esos masajes."
+          },
+          "second": {
+            "question": "¿Qué pasa si quiero un masaje de más de 60 minutos?",
+            "answer": "Puedes extender tu masaje a la duración que desees, pero el crédito mensual cubre 60 minutos."
+          },
+          "third": {
+            "question": "¿Cuándo me cobrarán?",
+            "answer": "Los precios varían según el mercado, pero disfrutará de la tarifa Miembro o Miembro Plus en la ciudad que visite."
+          }
+        }
+      },
+      "memberMessage": {
+        "description": "“He confiado en los masajes para ayudarme a superar el desfase horario, hacer ejercicio, dormir mejor y mucho más. ",
+        "name": "-CINDY CRAWFORD, MIEMBRO",
+        "link": "Regala un Masaje"
+      },
+      "review": {
+        "first": {
+          "name": "-MASHABLE",
+          "description": "Es hora de sentarse y dejar que la relajación llegue a usted."
+        },
+        "second": {
+          "name": "-MASHABLE",
+          "description": "Es hora de sentarse y dejar que la relajación llegue a usted."
+        },
+        "third": {
+          "name": "-MASHABLE",
+          "description": "Es hora de sentarse y dejar que la relajación llegue a usted."
+        }
+      }
+    },
+    "giftsWebView": {
+      "header": {
+        "title": " Certificados de regalo de masaje",
+        "description": "Un regalo de masaje es perfecto para las fiestas, cumpleaños, Día de la Madre, Día de San Valentín, bodas y aquellas personas para las que es imposible comprar.",
+        "button": " Enviar un regalo de masaje",
+        "link": "¿Recibiste un regalo?<0>Canjea tu tarjeta regalo</0>"
+      },
+      "chooseTheBest": {
+        "title": "Elige la experiencia perfecta",
+        "description": "Regale su masaje en una de las configuraciones siguientes. ",
+        "button": "Enviar un regalo de masaje único",
+        "card": {
+          "first": {
+            "title": "Masaje individual",
+            "description": "Un masaje relajante de 60, 75 o 90 min, en la comodidad de tu casa, hotel u oficina."
+          },
+          "second": {
+            "title": "Masaje en Parejas",
+            "description": "Un par de masajes para dos al mismo tiempo. "
+          },
+          "third": {
+            "title": "Monto en dólares",
+            "description": "Compre certificados de regalo por monto en dólares. "
+          },
+          "fourth": {
+            "title": "Paquete de masajes",
+            "description": "Paquetes de 3, 6, 9 o 12 masajes individuales que el destinatario puede utilizar cuando lo desee"
+          },
+          "fifth": {
+            "title": "Membresía de masaje",
+            "description": "Un año de masajes mensuales a nuestra tarifa más baja, además de beneficios VIP. "
+          }
+        }
+      },
+      "review": {
+        "description": "“¡¡AMO AMOR AMOR!!  <0 /> ¡Lo recomiendo! <0 /> y sin preocupaciones de usar”",
+        "name": "-DEANNA P, COLORADO",
+        "link": "Regala un Masaje"
+      },
+      "featuredGift": {
+        "title": "DESTACADO COMO REGALO EN:",
+        "card": {
+          "first": {
+            "title": "El regalo de experiencia perfecto para Navidad.",
+            "name": "-BUENOS DÍAS AMÉRICA"
+          }
+        }
+      },
+      "corporateGift": {
+        "title": "Regalos Corporativos",
+        "description": " ¿Busca la manera perfecta de mostrar aprecio por los empleados, proveedores o líderes de alto desempeño? ",
+        "link": "Explora las opciones de regalos grupales"
+      },
+      "howDoesItWork": {
+        "title": "¿Cómo funcionan los regalos de masaje?",
+        "link": "Regala un Masaje",
+        "firstCard": {
+          "title": " 1. Elige tu regalo",
+          "description": "Regale un masaje individual, un masaje para parejas, un paquete de masajes, una suscripción o una cantidad fija en dólares."
+        },
+        "secondCard": {
+          "title": "2. Personalízalo",
+          "description": "Ingrese la información del destinatario y personalice su regalo con un mensaje y diseño de regalo personalizados."
+        },
+        "thirdCard": {
+          "title": " 3. Sorpresa y deleite",
+          "description": "Su regalo se entrega digitalmente en el momento que elija y seguramente alegrará el día al destinatario."
+        }
+      },
+      "faqs": {
+        "title": "Preguntas frecuentes sobre regalos",
+        "button": "Ver todas las preguntas frecuentes",
+        "cards": {
+          "first": {
+            "question": "¿Qué tipo de masaje recibirá el destinatario?",
+            "answer": "El destinatario del regalo podrá elegir masaje sueco, de tejido profundo, deportivo, prenatal o nuestro exclusivo masaje para dormir cuando programe su cita."
+          },
+          "second": {
+            "question": "¿Caducan los certificados de regalo?",
+            "answer": "¡Nunca!"
+          },
+          "third": {
+            "question": "¿Dónde puedo regalar un masaje?",
+            "answer": "Disponible en más de 100 áreas metropolitanas y destinos importantes en todo el país."
+          },
+          "fourth": {
+            "question": "¿Cómo se canjea un certificado de regalo?",
+            "answer": "Después de crear una cuenta, agregue el código del vale de regalo en la sección \"Agregar código promocional\" del área de la cuenta. "
+          },
+          "fifth": {
+            "question": "Soy miembro; ",
+            "answer": "El crédito de membresía se aplica automáticamente a las compras de regalos. "
+          }
+        }
+      },
+      "certificate": {
+        "title": "Certificados de regalo de masaje",
+        "button": "Explorar tarjetas de regalo"
+      }
+    },
+    "referal": {
+      "header": {
+        "title": "¡Bienvenido!",
+        "description": " Reciba masajes terapéuticos en la comodidad de su hogar o en el consultorio de un proveedor cercano.",
+        "button": "Programe su masaje ahora"
+      },
+      "partnership": "En asociación con",
+      "howItWorks": {
+        "title": "Cómo funciona el masaje para veterinarios",
+        "button": "Utilice su referencia ahora",
+        "card": {
+          "first": {
+            "title": "1.Obtenga una referencia",
+            "description": "Su proveedor de atención primaria de VA le receta tratamientos de terapia de masajes."
+          },
+          "second": {
+            "title": "2. Programe en línea o por teléfono",
+            "description": "Programe una cita dentro de 48 horas a partir de ahora o llámenos al 877-GET-MASSAGE."
+          },
+          "third": {
+            "title": "3. Reciba tratamiento donde sea conveniente",
+            "description": "Un masajista autorizado y de confianza irá a su casa o le tratará en su oficina según su horario."
+          }
+        }
+      },
+      "cta": "¿Aún no tienes una referencia para un masaje?<0>Conozca más sobre el proceso</0>",
+      "meetProviders": {
+        "title": "CONOCE A TUS PROVEEDORES",
+        "location": "Dayton, Ohio, EE.UU.",
+        "name": "Jeannie Alveras",
+        "description": " “Ofrece la forma más fácil y segura para que un paciente se conecte con un masajista capacitado. "
+      },
+      "whatIsMissLara": {
+        "title": "¿Qué es la señora Lara?",
+        "description": "Es una plataforma nacional de atención médica a domicilio con una red de más de 11,000 profesionales, incluidos masajistas autorizados. "
+      },
+      "trustAndSafety": {
+        "title": " Confianza y seguridad",
+        "description": "No hay mayor prioridad para usted que la seguridad de los veteranos, proveedores y empleados de la plataforma. "
+      },
+      "secondCta": {
+        "title": "¿No tienes una referencia de masaje?",
+        "subtitle": "Hable con su médico de VA sobre la terapia de masajes para el dolor.",
+        "button": "Programe su masaje ahora"
+      },
+      "footer": "©2024 Networks Inc. Todos los derechos reservados.  <0>Condiciones de uso</0> y <0>política de privacidad</0> para más información."
+    }
+  }
